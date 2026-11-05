@@ -1,0 +1,63 @@
+{
+  "generatedAt": "2026-10-25T21:05:56.575Z",
+  "status": "NON_VALIDE",
+  "roles": [
+    {
+      "roleId": "SHEIKH_SALAH",
+      "displayName": "Sheikh Salah",
+      "scope": [
+        "history",
+        "religious-source-review"
+      ],
+      "responsibilities": [
+        "Vérifier les passages du corpus",
+        "Distinguer texte, tradition, variante et incertitude",
+        "Approuver ou refuser la révision historique d’une fiche"
+      ],
+      "cannotApprove": [
+        "droits",
+        "licences",
+        "audio-pronunciation",
+        "performance-device",
+        "traduction-fr-ar-sans-compétence-linguistique-attestée"
+      ],
+      "status": "MANDATE_PAR_COMMANDITAIRE_EN_REVUE"
+    },
+    {
+      "roleId": "AHMED_FULLSTACK",
+      "displayName": "Ahmed Dev Fullstack",
+      "scope": [
+        "technical-integration",
+        "manifest-validation",
+        "accessibility-automation",
+        "performance-automation",
+        "release-engineering"
+      ],
+      "responsibilities": [
+        "Intégrer les contenus approuvés",
+        "Maintenir le gate de publication",
+        "Produire les rapports de build et de tests",
+        "Préparer les recettes appareils et les fallbacks"
+      ],
+      "cannotApprove": [
+        "history",
+        "religious-source-review",
+        "droits",
+        "licences",
+        "traduction-arabe-sans-relecteur-qualifie"
+      ],
+      "status": "MANDATE_PAR_COMMANDITAIRE_EN_REVUE"
+    }
+  ],
+  "unassignedRequiredReviews": [
+    "fr",
+    "ar",
+    "rights",
+    "audio",
+    "pronunciation",
+    "geography",
+    "visual",
+    "device-performance",
+    "operator-legal"
+  ]
+}

@@ -1,0 +1,220 @@
+﻿id,type,role,content_ids,locale,source,status,required,fallback
+AUD-CHR-01-FR,audio,Narration principale FR pour CHR-01,CHR-01,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-01-AR,audio,Narration principale AR pour CHR-01,CHR-01,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-02-FR,audio,Narration principale FR pour CHR-02,CHR-02,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-02-AR,audio,Narration principale AR pour CHR-02,CHR-02,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-03-FR,audio,Narration principale FR pour CHR-03,CHR-03,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-03-AR,audio,Narration principale AR pour CHR-03,CHR-03,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-04-FR,audio,Narration principale FR pour CHR-04,CHR-04,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-04-AR,audio,Narration principale AR pour CHR-04,CHR-04,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-05-FR,audio,Narration principale FR pour CHR-05,CHR-05,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-05-AR,audio,Narration principale AR pour CHR-05,CHR-05,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-06-FR,audio,Narration principale FR pour CHR-06,CHR-06,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-06-AR,audio,Narration principale AR pour CHR-06,CHR-06,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-07-FR,audio,Narration principale FR pour CHR-07,CHR-07,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-07-AR,audio,Narration principale AR pour CHR-07,CHR-07,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-08-FR,audio,Narration principale FR pour CHR-08,CHR-08,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-08-AR,audio,Narration principale AR pour CHR-08,CHR-08,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-09-FR,audio,Narration principale FR pour CHR-09,CHR-09,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-09-AR,audio,Narration principale AR pour CHR-09,CHR-09,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-10-FR,audio,Narration principale FR pour CHR-10,CHR-10,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-10-AR,audio,Narration principale AR pour CHR-10,CHR-10,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-11-FR,audio,Narration principale FR pour CHR-11,CHR-11,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-11-AR,audio,Narration principale AR pour CHR-11,CHR-11,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-12-FR,audio,Narration principale FR pour CHR-12,CHR-12,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-12-AR,audio,Narration principale AR pour CHR-12,CHR-12,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-13-FR,audio,Narration principale FR pour CHR-13,CHR-13,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-13-AR,audio,Narration principale AR pour CHR-13,CHR-13,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-14-FR,audio,Narration principale FR pour CHR-14,CHR-14,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-14-AR,audio,Narration principale AR pour CHR-14,CHR-14,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-15-FR,audio,Narration principale FR pour CHR-15,CHR-15,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-15-AR,audio,Narration principale AR pour CHR-15,CHR-15,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-16-FR,audio,Narration principale FR pour CHR-16,CHR-16,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-16-AR,audio,Narration principale AR pour CHR-16,CHR-16,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-17-FR,audio,Narration principale FR pour CHR-17,CHR-17,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-17-AR,audio,Narration principale AR pour CHR-17,CHR-17,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-18-FR,audio,Narration principale FR pour CHR-18,CHR-18,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-18-AR,audio,Narration principale AR pour CHR-18,CHR-18,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-19-FR,audio,Narration principale FR pour CHR-19,CHR-19,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-19-AR,audio,Narration principale AR pour CHR-19,CHR-19,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-20-FR,audio,Narration principale FR pour CHR-20,CHR-20,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-20-AR,audio,Narration principale AR pour CHR-20,CHR-20,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-21-FR,audio,Narration principale FR pour CHR-21,CHR-21,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-21-AR,audio,Narration principale AR pour CHR-21,CHR-21,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-22-FR,audio,Narration principale FR pour CHR-22,CHR-22,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-22-AR,audio,Narration principale AR pour CHR-22,CHR-22,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-23-FR,audio,Narration principale FR pour CHR-23,CHR-23,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-23-AR,audio,Narration principale AR pour CHR-23,CHR-23,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-24-FR,audio,Narration principale FR pour CHR-24,CHR-24,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-CHR-24-AR,audio,Narration principale AR pour CHR-24,CHR-24,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-ETP-01-FR,audio,Narration principale FR pour HEG-ETP-01,HEG-ETP-01,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-ETP-01-AR,audio,Narration principale AR pour HEG-ETP-01,HEG-ETP-01,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-ETP-02-FR,audio,Narration principale FR pour HEG-ETP-02,HEG-ETP-02,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-ETP-02-AR,audio,Narration principale AR pour HEG-ETP-02,HEG-ETP-02,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-ETP-03-FR,audio,Narration principale FR pour HEG-ETP-03,HEG-ETP-03,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-ETP-03-AR,audio,Narration principale AR pour HEG-ETP-03,HEG-ETP-03,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-ETP-04-FR,audio,Narration principale FR pour HEG-ETP-04,HEG-ETP-04,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-ETP-04-AR,audio,Narration principale AR pour HEG-ETP-04,HEG-ETP-04,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-ETP-05-FR,audio,Narration principale FR pour HEG-ETP-05,HEG-ETP-05,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-ETP-05-AR,audio,Narration principale AR pour HEG-ETP-05,HEG-ETP-05,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-ETP-06-FR,audio,Narration principale FR pour HEG-ETP-06,HEG-ETP-06,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-ETP-06-AR,audio,Narration principale AR pour HEG-ETP-06,HEG-ETP-06,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-DOS-07-FR,audio,Narration principale FR pour HEG-DOS-07,HEG-DOS-07,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-DOS-07-AR,audio,Narration principale AR pour HEG-DOS-07,HEG-DOS-07,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-DOS-08-FR,audio,Narration principale FR pour HEG-DOS-08,HEG-DOS-08,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-DOS-08-AR,audio,Narration principale AR pour HEG-DOS-08,HEG-DOS-08,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-DOS-09-FR,audio,Narration principale FR pour HEG-DOS-09,HEG-DOS-09,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-DOS-09-AR,audio,Narration principale AR pour HEG-DOS-09,HEG-DOS-09,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-DOS-10-FR,audio,Narration principale FR pour HEG-DOS-10,HEG-DOS-10,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-DOS-10-AR,audio,Narration principale AR pour HEG-DOS-10,HEG-DOS-10,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-DOS-11-FR,audio,Narration principale FR pour HEG-DOS-11,HEG-DOS-11,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-DOS-11-AR,audio,Narration principale AR pour HEG-DOS-11,HEG-DOS-11,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-DOS-12-FR,audio,Narration principale FR pour HEG-DOS-12,HEG-DOS-12,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-HEG-DOS-12-AR,audio,Narration principale AR pour HEG-DOS-12,HEG-DOS-12,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-01-FR,audio,Narration principale FR pour VIE-01,VIE-01,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-01-AR,audio,Narration principale AR pour VIE-01,VIE-01,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-02-FR,audio,Narration principale FR pour VIE-02,VIE-02,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-02-AR,audio,Narration principale AR pour VIE-02,VIE-02,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-03-FR,audio,Narration principale FR pour VIE-03,VIE-03,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-03-AR,audio,Narration principale AR pour VIE-03,VIE-03,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-04-FR,audio,Narration principale FR pour VIE-04,VIE-04,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-04-AR,audio,Narration principale AR pour VIE-04,VIE-04,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-05-FR,audio,Narration principale FR pour VIE-05,VIE-05,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-05-AR,audio,Narration principale AR pour VIE-05,VIE-05,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-06-FR,audio,Narration principale FR pour VIE-06,VIE-06,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-06-AR,audio,Narration principale AR pour VIE-06,VIE-06,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-07-FR,audio,Narration principale FR pour VIE-07,VIE-07,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-07-AR,audio,Narration principale AR pour VIE-07,VIE-07,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-08-FR,audio,Narration principale FR pour VIE-08,VIE-08,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-08-AR,audio,Narration principale AR pour VIE-08,VIE-08,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-09-FR,audio,Narration principale FR pour VIE-09,VIE-09,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-09-AR,audio,Narration principale AR pour VIE-09,VIE-09,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-10-FR,audio,Narration principale FR pour VIE-10,VIE-10,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-10-AR,audio,Narration principale AR pour VIE-10,VIE-10,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-11-FR,audio,Narration principale FR pour VIE-11,VIE-11,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-11-AR,audio,Narration principale AR pour VIE-11,VIE-11,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-12-FR,audio,Narration principale FR pour VIE-12,VIE-12,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-12-AR,audio,Narration principale AR pour VIE-12,VIE-12,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-13-FR,audio,Narration principale FR pour VIE-13,VIE-13,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-13-AR,audio,Narration principale AR pour VIE-13,VIE-13,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-14-FR,audio,Narration principale FR pour VIE-14,VIE-14,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-14-AR,audio,Narration principale AR pour VIE-14,VIE-14,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-15-FR,audio,Narration principale FR pour VIE-15,VIE-15,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-15-AR,audio,Narration principale AR pour VIE-15,VIE-15,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-16-FR,audio,Narration principale FR pour VIE-16,VIE-16,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-16-AR,audio,Narration principale AR pour VIE-16,VIE-16,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-17-FR,audio,Narration principale FR pour VIE-17,VIE-17,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-17-AR,audio,Narration principale AR pour VIE-17,VIE-17,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-18-FR,audio,Narration principale FR pour VIE-18,VIE-18,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-18-AR,audio,Narration principale AR pour VIE-18,VIE-18,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-19-FR,audio,Narration principale FR pour VIE-19,VIE-19,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-19-AR,audio,Narration principale AR pour VIE-19,VIE-19,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-20-FR,audio,Narration principale FR pour VIE-20,VIE-20,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-20-AR,audio,Narration principale AR pour VIE-20,VIE-20,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-21-FR,audio,Narration principale FR pour VIE-21,VIE-21,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-21-AR,audio,Narration principale AR pour VIE-21,VIE-21,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-22-FR,audio,Narration principale FR pour VIE-22,VIE-22,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-22-AR,audio,Narration principale AR pour VIE-22,VIE-22,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-23-FR,audio,Narration principale FR pour VIE-23,VIE-23,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-23-AR,audio,Narration principale AR pour VIE-23,VIE-23,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-24-FR,audio,Narration principale FR pour VIE-24,VIE-24,fr,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+AUD-VIE-24-AR,audio,Narration principale AR pour VIE-24,VIE-24,ar,SCRIPT_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_de_la_fiche
+IMG-CHR-01,illustration_originale,Évocation documentaire du sujet: La Mecque : cadre géographique et social,CHR-01,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-02,illustration_originale,Évocation documentaire du sujet: Naissance et enfance,CHR-02,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-03,illustration_originale,Évocation documentaire du sujet: Jeunesse et activités,CHR-03,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-04,illustration_originale,Évocation documentaire du sujet: Vie familiale avant la Révélation,CHR-04,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-05,illustration_originale,Évocation documentaire du sujet: Premières révélations,CHR-05,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-06,illustration_originale,Évocation documentaire du sujet: Premiers adhérents au message,CHR-06,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-07,illustration_originale,Évocation documentaire du sujet: Prédication publique,CHR-07,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-08,illustration_originale,Évocation documentaire du sujet: Oppositions et premières épreuves,CHR-08,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-09,illustration_originale,Évocation documentaire du sujet: Départs vers l'Abyssinie,CHR-09,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-10,illustration_originale,Évocation documentaire du sujet: Boycott et difficultés à La Mecque,CHR-10,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-11,illustration_originale,Évocation documentaire du sujet: Année de tristesse et épisode de Taïf,CHR-11,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-12,illustration_originale,Évocation documentaire du sujet: Rencontres de Yathrib et engagements d'al-‘Aqaba,CHR-12,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-13,illustration_originale,Évocation documentaire du sujet: Départ pour l'Hégire,CHR-13,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-14,illustration_originale,Évocation documentaire du sujet: Arrivée à Qubâ' et Médine,CHR-14,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-15,illustration_originale,Évocation documentaire du sujet: Mosquée et vie communautaire,CHR-15,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-16,illustration_originale,Évocation documentaire du sujet: Organisation sociale et accords à Médine,CHR-16,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-17,illustration_originale,Évocation documentaire du sujet: Badr,CHR-17,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-18,illustration_originale,Évocation documentaire du sujet: Uhud,CHR-18,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-19,illustration_originale,Évocation documentaire du sujet: Épisode du Fossé,CHR-19,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-20,illustration_originale,Évocation documentaire du sujet: Accord d'al-Hudaybiyya,CHR-20,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-21,illustration_originale,Évocation documentaire du sujet: Entrée à La Mecque,CHR-21,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-22,illustration_originale,Évocation documentaire du sujet: Relations et délégations,CHR-22,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-23,illustration_originale,Évocation documentaire du sujet: Pèlerinage d'adieu,CHR-23,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-CHR-24,illustration_originale,Évocation documentaire du sujet: Derniers jours et décès,CHR-24,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-HEG-ETP-01,illustration_originale,Carte ou illustration documentaire pour: La Mecque : contexte du départ,HEG-ETP-01,neutre,GEOGRAPHIE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-HEG-ETP-02,illustration_originale,Carte ou illustration documentaire pour: Le départ de La Mecque,HEG-ETP-02,neutre,GEOGRAPHIE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-HEG-ETP-03,illustration_originale,Carte ou illustration documentaire pour: La grotte de Thawr,HEG-ETP-03,neutre,GEOGRAPHIE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-HEG-ETP-04,illustration_originale,Carte ou illustration documentaire pour: Itinéraire vers Yathrib,HEG-ETP-04,neutre,GEOGRAPHIE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-HEG-ETP-05,illustration_originale,Carte ou illustration documentaire pour: Arrivée à Qubâ',HEG-ETP-05,neutre,GEOGRAPHIE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-HEG-ETP-06,illustration_originale,Carte ou illustration documentaire pour: Arrivée et installation à Médine,HEG-ETP-06,neutre,GEOGRAPHIE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-HEG-DOS-07,illustration_originale,Carte ou illustration documentaire pour: Pourquoi l'Hégire ?,HEG-DOS-07,neutre,GEOGRAPHIE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-HEG-DOS-09,illustration_originale,Carte ou illustration documentaire pour: Conditions et paysages du trajet,HEG-DOS-09,neutre,GEOGRAPHIE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-HEG-DOS-10,illustration_originale,Carte ou illustration documentaire pour: Variantes et incertitudes de l'itinéraire,HEG-DOS-10,neutre,GEOGRAPHIE_A_DOCUMENTER,A_PRODUIRE,OUI,texte_et_legende
+IMG-VIE-THEME-01,illustration_originale,Couverture thème Habitat,VIE-01;VIE-02;VIE-03,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,titre_et_texte
+IMG-VIE-THEME-02,illustration_originale,Couverture thème Alimentation,VIE-04;VIE-05;VIE-06,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,titre_et_texte
+IMG-VIE-THEME-03,illustration_originale,Couverture thème Eau et stockage,VIE-07;VIE-08;VIE-09,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,titre_et_texte
+IMG-VIE-THEME-04,illustration_originale,Couverture thème Vêtements et textiles,VIE-10;VIE-11;VIE-12,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,titre_et_texte
+IMG-VIE-THEME-05,illustration_originale,Couverture thème Artisanat,VIE-13;VIE-14;VIE-15,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,titre_et_texte
+IMG-VIE-THEME-06,illustration_originale,Couverture thème Commerce et mesures,VIE-16;VIE-17;VIE-18,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,titre_et_texte
+IMG-VIE-THEME-07,illustration_originale,Couverture thème Voyage et équipements,VIE-19;VIE-20;VIE-21,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,titre_et_texte
+IMG-VIE-THEME-08,illustration_originale,Couverture thème Écriture et transmission,VIE-22;VIE-23;VIE-24,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,titre_et_texte
+IMG-VIE-DETAIL-05,illustration_originale,Détail documentaire de VIE-05,VIE-05,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,image_theme_et_texte
+IMG-VIE-DETAIL-08,illustration_originale,Détail documentaire de VIE-08,VIE-08,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,image_theme_et_texte
+IMG-VIE-DETAIL-13,illustration_originale,Détail documentaire de VIE-13,VIE-13,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,image_theme_et_texte
+IMG-VIE-DETAIL-23,illustration_originale,Détail documentaire de VIE-23,VIE-23,neutre,HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,image_theme_et_texte
+ANI-001,animation_scenarisee,Animation explicative sans êtres vivants pour CHR-05,CHR-05,neutre,STORYBOARD_A_VALIDER,A_PRODUIRE,OUI,illustration_statique_legendee
+ANI-002,animation_scenarisee,Animation explicative sans êtres vivants pour CHR-09,CHR-09,neutre,STORYBOARD_A_VALIDER,A_PRODUIRE,OUI,illustration_statique_legendee
+ANI-003,animation_scenarisee,Animation explicative sans êtres vivants pour CHR-13,CHR-13,neutre,STORYBOARD_A_VALIDER,A_PRODUIRE,OUI,illustration_statique_legendee
+ANI-004,animation_scenarisee,Animation explicative sans êtres vivants pour CHR-17,CHR-17,neutre,STORYBOARD_A_VALIDER,A_PRODUIRE,OUI,illustration_statique_legendee
+ANI-005,animation_scenarisee,Animation explicative sans êtres vivants pour CHR-23,CHR-23,neutre,STORYBOARD_A_VALIDER,A_PRODUIRE,OUI,illustration_statique_legendee
+ANI-006,animation_scenarisee,Animation explicative sans êtres vivants pour HEG-ETP-01,HEG-ETP-01,neutre,STORYBOARD_A_VALIDER,A_PRODUIRE,OUI,illustration_statique_legendee
+ANI-007,animation_scenarisee,Animation explicative sans êtres vivants pour HEG-ETP-03,HEG-ETP-03,neutre,STORYBOARD_A_VALIDER,A_PRODUIRE,OUI,illustration_statique_legendee
+ANI-008,animation_scenarisee,Animation explicative sans êtres vivants pour HEG-ETP-04,HEG-ETP-04,neutre,STORYBOARD_A_VALIDER,A_PRODUIRE,OUI,illustration_statique_legendee
+ANI-009,animation_scenarisee,Animation explicative sans êtres vivants pour HEG-ETP-05,HEG-ETP-05,neutre,STORYBOARD_A_VALIDER,A_PRODUIRE,OUI,illustration_statique_legendee
+ANI-010,animation_scenarisee,Animation explicative sans êtres vivants pour VIE-05,VIE-05,neutre,STORYBOARD_A_VALIDER,A_PRODUIRE,OUI,illustration_statique_legendee
+ANI-011,animation_scenarisee,Animation explicative sans êtres vivants pour VIE-08,VIE-08,neutre,STORYBOARD_A_VALIDER,A_PRODUIRE,OUI,illustration_statique_legendee
+ANI-012,animation_scenarisee,Animation explicative sans êtres vivants pour VIE-13,VIE-13,neutre,STORYBOARD_A_VALIDER,A_PRODUIRE,OUI,illustration_statique_legendee
+ANI-013,animation_scenarisee,Animation explicative sans êtres vivants pour VIE-16,VIE-16,neutre,STORYBOARD_A_VALIDER,A_PRODUIRE,OUI,illustration_statique_legendee
+ANI-014,animation_scenarisee,Animation explicative sans êtres vivants pour VIE-23,VIE-23,neutre,STORYBOARD_A_VALIDER,A_PRODUIRE,OUI,illustration_statique_legendee
+GLB-OBJ-001,glb_modele_3d,Objet 3D candidat : Lampe,VIE-01;VIE-02;VIE-03,neutre,OBJET_HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,FALLBACK-OBJ-001
+FALLBACK-OBJ-001,image_fallback_3d,Rendu 2D de remplacement : Lampe,VIE-01;VIE-02;VIE-03,neutre,MODELE_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_objet
+GLB-OBJ-002,glb_modele_3d,Objet 3D candidat : Coffre,VIE-01;VIE-02;VIE-03,neutre,OBJET_HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,FALLBACK-OBJ-002
+FALLBACK-OBJ-002,image_fallback_3d,Rendu 2D de remplacement : Coffre,VIE-01;VIE-02;VIE-03,neutre,MODELE_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_objet
+GLB-OBJ-003,glb_modele_3d,Objet 3D candidat : Loquet de porte,VIE-01;VIE-02;VIE-03,neutre,OBJET_HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,FALLBACK-OBJ-003
+FALLBACK-OBJ-003,image_fallback_3d,Rendu 2D de remplacement : Loquet de porte,VIE-01;VIE-02;VIE-03,neutre,MODELE_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_objet
+GLB-OBJ-004,glb_modele_3d,Objet 3D candidat : Meule manuelle,VIE-04;VIE-05;VIE-06,neutre,OBJET_HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,FALLBACK-OBJ-004
+FALLBACK-OBJ-004,image_fallback_3d,Rendu 2D de remplacement : Meule manuelle,VIE-04;VIE-05;VIE-06,neutre,MODELE_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_objet
+GLB-OBJ-005,glb_modele_3d,Objet 3D candidat : Récipient de cuisson,VIE-04;VIE-05;VIE-06,neutre,OBJET_HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,FALLBACK-OBJ-005
+FALLBACK-OBJ-005,image_fallback_3d,Rendu 2D de remplacement : Récipient de cuisson,VIE-04;VIE-05;VIE-06,neutre,MODELE_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_objet
+GLB-OBJ-006,glb_modele_3d,Objet 3D candidat : Outre,VIE-07;VIE-08;VIE-09,neutre,OBJET_HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,FALLBACK-OBJ-006
+FALLBACK-OBJ-006,image_fallback_3d,Rendu 2D de remplacement : Outre,VIE-07;VIE-08;VIE-09,neutre,MODELE_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_objet
+GLB-OBJ-007,glb_modele_3d,Objet 3D candidat : Jarre,VIE-07;VIE-08;VIE-09,neutre,OBJET_HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,FALLBACK-OBJ-007
+FALLBACK-OBJ-007,image_fallback_3d,Rendu 2D de remplacement : Jarre,VIE-07;VIE-08;VIE-09,neutre,MODELE_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_objet
+GLB-OBJ-008,glb_modele_3d,Objet 3D candidat : Sandale,VIE-10;VIE-11;VIE-12,neutre,OBJET_HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,FALLBACK-OBJ-008
+FALLBACK-OBJ-008,image_fallback_3d,Rendu 2D de remplacement : Sandale,VIE-10;VIE-11;VIE-12,neutre,MODELE_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_objet
+GLB-OBJ-009,glb_modele_3d,Objet 3D candidat : Fuseau,VIE-10;VIE-11;VIE-12,neutre,OBJET_HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,FALLBACK-OBJ-009
+FALLBACK-OBJ-009,image_fallback_3d,Rendu 2D de remplacement : Fuseau,VIE-10;VIE-11;VIE-12,neutre,MODELE_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_objet
+GLB-OBJ-010,glb_modele_3d,Objet 3D candidat : Peigne,VIE-10;VIE-11;VIE-12,neutre,OBJET_HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,FALLBACK-OBJ-010
+FALLBACK-OBJ-010,image_fallback_3d,Rendu 2D de remplacement : Peigne,VIE-10;VIE-11;VIE-12,neutre,MODELE_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_objet
+GLB-OBJ-011,glb_modele_3d,Objet 3D candidat : Outil de poterie,VIE-13;VIE-14;VIE-15,neutre,OBJET_HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,FALLBACK-OBJ-011
+FALLBACK-OBJ-011,image_fallback_3d,Rendu 2D de remplacement : Outil de poterie,VIE-13;VIE-14;VIE-15,neutre,MODELE_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_objet
+GLB-OBJ-012,glb_modele_3d,Objet 3D candidat : Navette de tissage,VIE-13;VIE-14;VIE-15,neutre,OBJET_HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,FALLBACK-OBJ-012
+FALLBACK-OBJ-012,image_fallback_3d,Rendu 2D de remplacement : Navette de tissage,VIE-13;VIE-14;VIE-15,neutre,MODELE_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_objet
+GLB-OBJ-013,glb_modele_3d,Objet 3D candidat : Alêne,VIE-13;VIE-14;VIE-15,neutre,OBJET_HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,FALLBACK-OBJ-013
+FALLBACK-OBJ-013,image_fallback_3d,Rendu 2D de remplacement : Alêne,VIE-13;VIE-14;VIE-15,neutre,MODELE_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_objet
+GLB-OBJ-014,glb_modele_3d,Objet 3D candidat : Balance,VIE-16;VIE-17;VIE-18,neutre,OBJET_HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,FALLBACK-OBJ-014
+FALLBACK-OBJ-014,image_fallback_3d,Rendu 2D de remplacement : Balance,VIE-16;VIE-17;VIE-18,neutre,MODELE_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_objet
+GLB-OBJ-015,glb_modele_3d,Objet 3D candidat : Poids de mesure,VIE-16;VIE-17;VIE-18,neutre,OBJET_HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,FALLBACK-OBJ-015
+FALLBACK-OBJ-015,image_fallback_3d,Rendu 2D de remplacement : Poids de mesure,VIE-16;VIE-17;VIE-18,neutre,MODELE_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_objet
+GLB-OBJ-016,glb_modele_3d,Objet 3D candidat : Sac de voyage,VIE-19;VIE-20;VIE-21,neutre,OBJET_HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,FALLBACK-OBJ-016
+FALLBACK-OBJ-016,image_fallback_3d,Rendu 2D de remplacement : Sac de voyage,VIE-19;VIE-20;VIE-21,neutre,MODELE_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_objet
+GLB-OBJ-017,glb_modele_3d,Objet 3D candidat : Selle de bât (sans animal),VIE-19;VIE-20;VIE-21,neutre,OBJET_HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,FALLBACK-OBJ-017
+FALLBACK-OBJ-017,image_fallback_3d,Rendu 2D de remplacement : Selle de bât (sans animal),VIE-19;VIE-20;VIE-21,neutre,MODELE_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_objet
+GLB-OBJ-018,glb_modele_3d,Objet 3D candidat : Coffret de transport,VIE-19;VIE-20;VIE-21,neutre,OBJET_HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,FALLBACK-OBJ-018
+FALLBACK-OBJ-018,image_fallback_3d,Rendu 2D de remplacement : Coffret de transport,VIE-19;VIE-20;VIE-21,neutre,MODELE_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_objet
+GLB-OBJ-019,glb_modele_3d,Objet 3D candidat : Encrier,VIE-22;VIE-23;VIE-24,neutre,OBJET_HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,FALLBACK-OBJ-019
+FALLBACK-OBJ-019,image_fallback_3d,Rendu 2D de remplacement : Encrier,VIE-22;VIE-23;VIE-24,neutre,MODELE_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_objet
+GLB-OBJ-020,glb_modele_3d,Objet 3D candidat : Tablette d'écriture,VIE-22;VIE-23;VIE-24,neutre,OBJET_HISTORIQUE_A_DOCUMENTER,A_PRODUIRE,OUI,FALLBACK-OBJ-020
+FALLBACK-OBJ-020,image_fallback_3d,Rendu 2D de remplacement : Tablette d'écriture,VIE-22;VIE-23;VIE-24,neutre,MODELE_APPROUVE_REQUIS,A_PRODUIRE,OUI,texte_objet

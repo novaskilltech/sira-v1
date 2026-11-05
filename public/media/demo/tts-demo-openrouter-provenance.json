@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-10-26T00:19:29.692Z",
+  "samples": [
+    {
+      "file": "tts-demo-fr-openrouter.mp3",
+      "locale": "fr",
+      "provider": "openrouter",
+      "model": "x-ai/grok-voice-tts-1.0",
+      "voice": "ara",
+      "durationSeconds": null,
+      "sha256": "f8beeb52b878c310aba6f838a159169426006b06ff7f2284eb5d2adfd05c37cb",
+      "status": "DEMO_NON_VALIDE",
+      "publicationAllowed": false,
+      "statement": "Technical AI-voice sound check only; MP3 duration intentionally not used for publication."
+    },
+    {
+      "file": "tts-demo-ar-openrouter.mp3",
+      "locale": "ar",
+      "provider": "openrouter",
+      "model": "x-ai/grok-voice-tts-1.0",
+      "voice": "ara",
+      "durationSeconds": null,
+      "sha256": "0212f3880d9eed5d025c792d6fb4473fa9785f3c6220319b73b4243f46504f5e",
+      "status": "DEMO_NON_VALIDE",
+      "publicationAllowed": false,
+      "statement": "Technical AI-voice sound check only; MP3 duration intentionally not used for publication."
+    }
+  ]
+}

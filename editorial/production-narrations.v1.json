@@ -1,0 +1,4087 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-10-28T23:28:43.602Z",
+  "status": "BROUILLON_SANS_SCRIPT",
+  "entries": [
+    {
+      "assetId": "AUD-CHR-01-FR",
+      "contentId": "CHR-01",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-01-AR",
+      "contentId": "CHR-01",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-02-FR",
+      "contentId": "CHR-02",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-02-AR",
+      "contentId": "CHR-02",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-03-FR",
+      "contentId": "CHR-03",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-03-AR",
+      "contentId": "CHR-03",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-04-FR",
+      "contentId": "CHR-04",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-04-AR",
+      "contentId": "CHR-04",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-05-FR",
+      "contentId": "CHR-05",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-05-AR",
+      "contentId": "CHR-05",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-06-FR",
+      "contentId": "CHR-06",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-06-AR",
+      "contentId": "CHR-06",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-07-FR",
+      "contentId": "CHR-07",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-07-AR",
+      "contentId": "CHR-07",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-08-FR",
+      "contentId": "CHR-08",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-08-AR",
+      "contentId": "CHR-08",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-09-FR",
+      "contentId": "CHR-09",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-09-AR",
+      "contentId": "CHR-09",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-10-FR",
+      "contentId": "CHR-10",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-10-AR",
+      "contentId": "CHR-10",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-11-FR",
+      "contentId": "CHR-11",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-11-AR",
+      "contentId": "CHR-11",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-12-FR",
+      "contentId": "CHR-12",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-12-AR",
+      "contentId": "CHR-12",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-13-FR",
+      "contentId": "CHR-13",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-13-AR",
+      "contentId": "CHR-13",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-14-FR",
+      "contentId": "CHR-14",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-14-AR",
+      "contentId": "CHR-14",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-15-FR",
+      "contentId": "CHR-15",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-15-AR",
+      "contentId": "CHR-15",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-16-FR",
+      "contentId": "CHR-16",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-16-AR",
+      "contentId": "CHR-16",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-17-FR",
+      "contentId": "CHR-17",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-17-AR",
+      "contentId": "CHR-17",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-18-FR",
+      "contentId": "CHR-18",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-18-AR",
+      "contentId": "CHR-18",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-19-FR",
+      "contentId": "CHR-19",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-19-AR",
+      "contentId": "CHR-19",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-20-FR",
+      "contentId": "CHR-20",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-20-AR",
+      "contentId": "CHR-20",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-21-FR",
+      "contentId": "CHR-21",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-21-AR",
+      "contentId": "CHR-21",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-22-FR",
+      "contentId": "CHR-22",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-22-AR",
+      "contentId": "CHR-22",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-23-FR",
+      "contentId": "CHR-23",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-23-AR",
+      "contentId": "CHR-23",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-24-FR",
+      "contentId": "CHR-24",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-CHR-24-AR",
+      "contentId": "CHR-24",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-ETP-01-FR",
+      "contentId": "HEG-ETP-01",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-ETP-01-AR",
+      "contentId": "HEG-ETP-01",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-ETP-02-FR",
+      "contentId": "HEG-ETP-02",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-ETP-02-AR",
+      "contentId": "HEG-ETP-02",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-ETP-03-FR",
+      "contentId": "HEG-ETP-03",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-ETP-03-AR",
+      "contentId": "HEG-ETP-03",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-ETP-04-FR",
+      "contentId": "HEG-ETP-04",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-ETP-04-AR",
+      "contentId": "HEG-ETP-04",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-ETP-05-FR",
+      "contentId": "HEG-ETP-05",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-ETP-05-AR",
+      "contentId": "HEG-ETP-05",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-ETP-06-FR",
+      "contentId": "HEG-ETP-06",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-ETP-06-AR",
+      "contentId": "HEG-ETP-06",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-DOS-07-FR",
+      "contentId": "HEG-DOS-07",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-DOS-07-AR",
+      "contentId": "HEG-DOS-07",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-DOS-08-FR",
+      "contentId": "HEG-DOS-08",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-DOS-08-AR",
+      "contentId": "HEG-DOS-08",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-DOS-09-FR",
+      "contentId": "HEG-DOS-09",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-DOS-09-AR",
+      "contentId": "HEG-DOS-09",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-DOS-10-FR",
+      "contentId": "HEG-DOS-10",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-DOS-10-AR",
+      "contentId": "HEG-DOS-10",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-DOS-11-FR",
+      "contentId": "HEG-DOS-11",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-DOS-11-AR",
+      "contentId": "HEG-DOS-11",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-DOS-12-FR",
+      "contentId": "HEG-DOS-12",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-HEG-DOS-12-AR",
+      "contentId": "HEG-DOS-12",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-01-FR",
+      "contentId": "VIE-01",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-01-AR",
+      "contentId": "VIE-01",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-02-FR",
+      "contentId": "VIE-02",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-02-AR",
+      "contentId": "VIE-02",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-03-FR",
+      "contentId": "VIE-03",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-03-AR",
+      "contentId": "VIE-03",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-04-FR",
+      "contentId": "VIE-04",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-04-AR",
+      "contentId": "VIE-04",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-05-FR",
+      "contentId": "VIE-05",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-05-AR",
+      "contentId": "VIE-05",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-06-FR",
+      "contentId": "VIE-06",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-06-AR",
+      "contentId": "VIE-06",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-07-FR",
+      "contentId": "VIE-07",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-07-AR",
+      "contentId": "VIE-07",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-08-FR",
+      "contentId": "VIE-08",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-08-AR",
+      "contentId": "VIE-08",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-09-FR",
+      "contentId": "VIE-09",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-09-AR",
+      "contentId": "VIE-09",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-10-FR",
+      "contentId": "VIE-10",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-10-AR",
+      "contentId": "VIE-10",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-11-FR",
+      "contentId": "VIE-11",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-11-AR",
+      "contentId": "VIE-11",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-12-FR",
+      "contentId": "VIE-12",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-12-AR",
+      "contentId": "VIE-12",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-13-FR",
+      "contentId": "VIE-13",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-13-AR",
+      "contentId": "VIE-13",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-14-FR",
+      "contentId": "VIE-14",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-14-AR",
+      "contentId": "VIE-14",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-15-FR",
+      "contentId": "VIE-15",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-15-AR",
+      "contentId": "VIE-15",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-16-FR",
+      "contentId": "VIE-16",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-16-AR",
+      "contentId": "VIE-16",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-17-FR",
+      "contentId": "VIE-17",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-17-AR",
+      "contentId": "VIE-17",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-18-FR",
+      "contentId": "VIE-18",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-18-AR",
+      "contentId": "VIE-18",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-19-FR",
+      "contentId": "VIE-19",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-19-AR",
+      "contentId": "VIE-19",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-20-FR",
+      "contentId": "VIE-20",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-20-AR",
+      "contentId": "VIE-20",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-21-FR",
+      "contentId": "VIE-21",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-21-AR",
+      "contentId": "VIE-21",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-22-FR",
+      "contentId": "VIE-22",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-22-AR",
+      "contentId": "VIE-22",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-23-FR",
+      "contentId": "VIE-23",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-23-AR",
+      "contentId": "VIE-23",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-24-FR",
+      "contentId": "VIE-24",
+      "locale": "fr",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "assetId": "AUD-VIE-24-AR",
+      "contentId": "VIE-24",
+      "locale": "ar",
+      "state": "BROUILLON",
+      "writingRevision": null,
+      "claimIds": [],
+      "script": null,
+      "scriptRevision": null,
+      "targetDurationSeconds": {
+        "min": 180,
+        "max": 300
+      },
+      "audio": {
+        "file": null,
+        "durationSeconds": null,
+        "sha256": null,
+        "format": null
+      },
+      "synthesis": {
+        "provider": null,
+        "model": null,
+        "voice": null,
+        "generatedAt": null
+      },
+      "reviews": {
+        "historical": null,
+        "language": null,
+        "pronunciation": null,
+        "audio": null,
+        "rights": null
+      },
+      "publicationAllowed": false
+    }
+  ]
+}

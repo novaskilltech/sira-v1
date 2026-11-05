@@ -1,0 +1,1958 @@
+{
+  "generatedAt": "2026-10-25T21:05:56.575Z",
+  "status": "NON_VALIDE",
+  "baselineCorpus": [
+    {
+      "sourceId": "CORPUS-IBN-HISHAM",
+      "title": "Sīrat Ibn Hishām / al-Sīra al-nabawiyya",
+      "author": "Ibn Hishām",
+      "role": "source classique de sīra à citer avec édition, volume et page",
+      "editionRequired": [
+        "éditeur",
+        "année",
+        "langue",
+        "traducteur si applicable",
+        "volume",
+        "page ou section"
+      ],
+      "status": "BIBLIOGRAPHIE_A_COMPLETER"
+    },
+    {
+      "sourceId": "CORPUS-AR-RAHEEQ",
+      "title": "Ar-Raheeq Al-Makhtoum / al-Raḥīq al-Makhtūm",
+      "author": "Safiur Rahman al-Mubarakpuri",
+      "role": "synthèse moderne de sīra à attribuer, recouper et distinguer des sources classiques",
+      "editionRequired": [
+        "éditeur",
+        "année",
+        "langue",
+        "traducteur si applicable",
+        "ISBN si disponible",
+        "page ou chapitre"
+      ],
+      "status": "BIBLIOGRAPHIE_A_COMPLETER"
+    }
+  ],
+  "roles": [
+    {
+      "roleId": "SHEIKH_SALAH",
+      "displayName": "Sheikh Salah",
+      "scope": [
+        "history",
+        "religious-source-review"
+      ],
+      "responsibilities": [
+        "Vérifier les passages du corpus",
+        "Distinguer texte, tradition, variante et incertitude",
+        "Approuver ou refuser la révision historique d’une fiche"
+      ],
+      "cannotApprove": [
+        "droits",
+        "licences",
+        "audio-pronunciation",
+        "performance-device",
+        "traduction-fr-ar-sans-compétence-linguistique-attestée"
+      ],
+      "status": "MANDATE_PAR_COMMANDITAIRE_EN_REVUE"
+    },
+    {
+      "roleId": "AHMED_FULLSTACK",
+      "displayName": "Ahmed Dev Fullstack",
+      "scope": [
+        "technical-integration",
+        "manifest-validation",
+        "accessibility-automation",
+        "performance-automation",
+        "release-engineering"
+      ],
+      "responsibilities": [
+        "Intégrer les contenus approuvés",
+        "Maintenir le gate de publication",
+        "Produire les rapports de build et de tests",
+        "Préparer les recettes appareils et les fallbacks"
+      ],
+      "cannotApprove": [
+        "history",
+        "religious-source-review",
+        "droits",
+        "licences",
+        "traduction-arabe-sans-relecteur-qualifie"
+      ],
+      "status": "MANDATE_PAR_COMMANDITAIRE_EN_REVUE"
+    }
+  ],
+  "entries": [
+    {
+      "contentId": "CHR-01",
+      "title": "La Mecque : cadre géographique et social",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "PILOTE_1",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-01-FR",
+        "AUD-CHR-01-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-02",
+      "title": "Naissance et enfance",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-02-FR",
+        "AUD-CHR-02-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-03",
+      "title": "Jeunesse et activités",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-03-FR",
+        "AUD-CHR-03-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-04",
+      "title": "Vie familiale avant la Révélation",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-04-FR",
+        "AUD-CHR-04-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-05",
+      "title": "Premières révélations",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-05-FR",
+        "AUD-CHR-05-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-06",
+      "title": "Premiers adhérents au message",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-06-FR",
+        "AUD-CHR-06-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-07",
+      "title": "Prédication publique",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-07-FR",
+        "AUD-CHR-07-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-08",
+      "title": "Oppositions et premières épreuves",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-08-FR",
+        "AUD-CHR-08-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-09",
+      "title": "Départs vers l'Abyssinie",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-09-FR",
+        "AUD-CHR-09-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-10",
+      "title": "Boycott et difficultés à La Mecque",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-10-FR",
+        "AUD-CHR-10-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-11",
+      "title": "Année de tristesse et épisode de Taïf",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-11-FR",
+        "AUD-CHR-11-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-12",
+      "title": "Rencontres de Yathrib et engagements d'al-‘Aqaba",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-12-FR",
+        "AUD-CHR-12-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-13",
+      "title": "Départ pour l'Hégire",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-13-FR",
+        "AUD-CHR-13-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-14",
+      "title": "Arrivée à Qubâ' et Médine",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-14-FR",
+        "AUD-CHR-14-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-15",
+      "title": "Mosquée et vie communautaire",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-15-FR",
+        "AUD-CHR-15-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-16",
+      "title": "Organisation sociale et accords à Médine",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-16-FR",
+        "AUD-CHR-16-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-17",
+      "title": "Badr",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-17-FR",
+        "AUD-CHR-17-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-18",
+      "title": "Uhud",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-18-FR",
+        "AUD-CHR-18-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-19",
+      "title": "Épisode du Fossé",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-19-FR",
+        "AUD-CHR-19-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-20",
+      "title": "Accord d'al-Hudaybiyya",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-20-FR",
+        "AUD-CHR-20-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-21",
+      "title": "Entrée à La Mecque",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-21-FR",
+        "AUD-CHR-21-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-22",
+      "title": "Relations et délégations",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-22-FR",
+        "AUD-CHR-22-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-23",
+      "title": "Pèlerinage d'adieu",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-23-FR",
+        "AUD-CHR-23-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "CHR-24",
+      "title": "Derniers jours et décès",
+      "space": "chronologie",
+      "type": "evenement",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "selon besoin",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-CHR-24-FR",
+        "AUD-CHR-24-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "HEG-ETP-01",
+      "title": "La Mecque : contexte du départ",
+      "space": "hegire",
+      "type": "sequence",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "repère général",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights",
+        "geography"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-HEG-ETP-01-FR",
+        "AUD-HEG-ETP-01-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "HEG-ETP-02",
+      "title": "Le départ de La Mecque",
+      "space": "hegire",
+      "type": "sequence",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "épisode; point de sortie non supposé exact",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights",
+        "geography"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-HEG-ETP-02-FR",
+        "AUD-HEG-ETP-02-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "HEG-ETP-03",
+      "title": "La grotte de Thawr",
+      "space": "hegire",
+      "type": "sequence",
+      "priority": "PILOTE_1",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "site à documenter",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights",
+        "geography"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-HEG-ETP-03-FR",
+        "AUD-HEG-ETP-03-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "HEG-ETP-04",
+      "title": "Itinéraire vers Yathrib",
+      "space": "hegire",
+      "type": "sequence",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "corridor incertain; aucune trace GPS supposée",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights",
+        "geography"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-HEG-ETP-04-FR",
+        "AUD-HEG-ETP-04-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "HEG-ETP-05",
+      "title": "Arrivée à Qubâ'",
+      "space": "hegire",
+      "type": "sequence",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "repère à documenter",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights",
+        "geography"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-HEG-ETP-05-FR",
+        "AUD-HEG-ETP-05-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "HEG-ETP-06",
+      "title": "Arrivée et installation à Médine",
+      "space": "hegire",
+      "type": "sequence",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "repère général",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights",
+        "geography"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-HEG-ETP-06-FR",
+        "AUD-HEG-ETP-06-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "HEG-DOS-07",
+      "title": "Pourquoi l'Hégire ?",
+      "space": "hegire",
+      "type": "dossier",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans repère",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights",
+        "geography"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-HEG-DOS-07-FR",
+        "AUD-HEG-DOS-07-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "HEG-DOS-08",
+      "title": "Préparation et organisation du voyage",
+      "space": "hegire",
+      "type": "dossier",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans repère",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights",
+        "geography"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-HEG-DOS-08-FR",
+        "AUD-HEG-DOS-08-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "HEG-DOS-09",
+      "title": "Conditions et paysages du trajet",
+      "space": "hegire",
+      "type": "dossier",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans repère",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights",
+        "geography"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-HEG-DOS-09-FR",
+        "AUD-HEG-DOS-09-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "HEG-DOS-10",
+      "title": "Variantes et incertitudes de l'itinéraire",
+      "space": "hegire",
+      "type": "dossier",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans repère",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights",
+        "geography"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-HEG-DOS-10-FR",
+        "AUD-HEG-DOS-10-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "HEG-DOS-11",
+      "title": "Compagnonnage et entraide",
+      "space": "hegire",
+      "type": "dossier",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans représentation humaine",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights",
+        "geography"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-HEG-DOS-11-FR",
+        "AUD-HEG-DOS-11-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "HEG-DOS-12",
+      "title": "Portée et conséquences de l'Hégire",
+      "space": "hegire",
+      "type": "dossier",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans repère",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights",
+        "geography"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-HEG-DOS-12-FR",
+        "AUD-HEG-DOS-12-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-01",
+      "title": "Espaces domestiques",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "PILOTE_1",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-01-FR",
+        "AUD-VIE-01-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-02",
+      "title": "Matériaux et construction",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-02-FR",
+        "AUD-VIE-02-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-03",
+      "title": "Éclairage et rangement",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-03-FR",
+        "AUD-VIE-03-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-04",
+      "title": "Denrées et usages",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-04-FR",
+        "AUD-VIE-04-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-05",
+      "title": "Préparation des repas",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-05-FR",
+        "AUD-VIE-05-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-06",
+      "title": "Conservation des aliments",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-06-FR",
+        "AUD-VIE-06-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-07",
+      "title": "Approvisionnement en eau",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-07-FR",
+        "AUD-VIE-07-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-08",
+      "title": "Transport de l'eau",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-08-FR",
+        "AUD-VIE-08-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-09",
+      "title": "Stockage domestique",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-09-FR",
+        "AUD-VIE-09-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-10",
+      "title": "Fibres et matières",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-10-FR",
+        "AUD-VIE-10-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-11",
+      "title": "Confection et entretien",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-11-FR",
+        "AUD-VIE-11-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-12",
+      "title": "Chaussures et accessoires",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-12-FR",
+        "AUD-VIE-12-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-13",
+      "title": "Poterie et récipients",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-13-FR",
+        "AUD-VIE-13-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-14",
+      "title": "Tissage et fabrication",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-14-FR",
+        "AUD-VIE-14-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-15",
+      "title": "Travail du cuir",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-15-FR",
+        "AUD-VIE-15-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-16",
+      "title": "Échanges et marchés",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-16-FR",
+        "AUD-VIE-16-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-17",
+      "title": "Poids et mesures",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-17-FR",
+        "AUD-VIE-17-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-18",
+      "title": "Circulation des produits",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-18-FR",
+        "AUD-VIE-18-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-19",
+      "title": "Préparatifs matériels",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-19-FR",
+        "AUD-VIE-19-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-20",
+      "title": "Transport des effets",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-20-FR",
+        "AUD-VIE-20-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-21",
+      "title": "Orientation et provisions",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-21-FR",
+        "AUD-VIE-21-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-22",
+      "title": "Supports d'écriture",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-22-FR",
+        "AUD-VIE-22-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-23",
+      "title": "Outils et matériaux",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-23-FR",
+        "AUD-VIE-23-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    },
+    {
+      "contentId": "VIE-24",
+      "title": "Usages de la transmission écrite",
+      "space": "vie_quotidienne",
+      "type": "theme",
+      "priority": "LOT_A_PLANIFIER",
+      "state": "BROUILLON",
+      "historicalClaims": [],
+      "documentedVariants": [],
+      "references": [],
+      "baselineCorpus": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "geography": "sans objet",
+      "requiredReviews": [
+        "history",
+        "fr",
+        "ar",
+        "rights"
+      ],
+      "reviewAssignments": {
+        "history": "SHEIKH_SALAH",
+        "technicalIntegration": "AHMED_FULLSTACK"
+      },
+      "requiredNarrations": [
+        "AUD-VIE-24-FR",
+        "AUD-VIE-24-AR"
+      ],
+      "blockingRule": "Aucune narration ou publication sans références localisées et décisions indépendantes liées à la révision."
+    }
+  ]
+}

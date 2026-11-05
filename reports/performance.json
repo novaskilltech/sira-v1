@@ -1,0 +1,201 @@
+{
+  "profile": "Local Windows Chromium, 834x1194 CSS, cold HTTP cache, 20 Mbit/s and 50 ms RTT emulated. Not physical iPad/Android acceptance.",
+  "runs": [
+    {
+      "lcp": 864,
+      "cls": 0.00005899171978293227,
+      "resources": [
+        {
+          "name": "http://127.0.0.1:4173/assets/index-C7vUNCRg.js",
+          "size": 122037
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/index-Crlwl85J.css",
+          "size": 6002
+        },
+        {
+          "name": "http://127.0.0.1:4173/content/manifest.v1.json",
+          "size": 14583
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/ibm-plex-sans-latin-400-normal-CDDApCn2.woff2",
+          "size": 22588
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/ibm-plex-sans-latin-500-normal-6ng42L7E.woff2",
+          "size": 24184
+        },
+        {
+          "name": "http://127.0.0.1:4173/media/demo/atlas-valley.webp",
+          "size": 297990
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/ibm-plex-sans-arabic-arabic-400-normal-CyU-ddYS.woff2",
+          "size": 42848
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/ibm-plex-sans-latin-600-normal-CuJfVYMP.woff2",
+          "size": 24252
+        }
+      ]
+    },
+    {
+      "lcp": 908,
+      "cls": 0.00005899171978293227,
+      "resources": [
+        {
+          "name": "http://127.0.0.1:4173/assets/index-C7vUNCRg.js",
+          "size": 122037
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/index-Crlwl85J.css",
+          "size": 6002
+        },
+        {
+          "name": "http://127.0.0.1:4173/content/manifest.v1.json",
+          "size": 14583
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/ibm-plex-sans-latin-400-normal-CDDApCn2.woff2",
+          "size": 22588
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/ibm-plex-sans-latin-500-normal-6ng42L7E.woff2",
+          "size": 24184
+        },
+        {
+          "name": "http://127.0.0.1:4173/media/demo/atlas-valley.webp",
+          "size": 297990
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/ibm-plex-sans-arabic-arabic-400-normal-CyU-ddYS.woff2",
+          "size": 42848
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/ibm-plex-sans-latin-600-normal-CuJfVYMP.woff2",
+          "size": 24252
+        }
+      ]
+    },
+    {
+      "lcp": 936,
+      "cls": 0.00005899171978293227,
+      "resources": [
+        {
+          "name": "http://127.0.0.1:4173/assets/index-C7vUNCRg.js",
+          "size": 122037
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/index-Crlwl85J.css",
+          "size": 6002
+        },
+        {
+          "name": "http://127.0.0.1:4173/content/manifest.v1.json",
+          "size": 14583
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/ibm-plex-sans-latin-400-normal-CDDApCn2.woff2",
+          "size": 22588
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/ibm-plex-sans-latin-500-normal-6ng42L7E.woff2",
+          "size": 24184
+        },
+        {
+          "name": "http://127.0.0.1:4173/media/demo/atlas-valley.webp",
+          "size": 297990
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/ibm-plex-sans-arabic-arabic-400-normal-CyU-ddYS.woff2",
+          "size": 42848
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/ibm-plex-sans-latin-600-normal-CuJfVYMP.woff2",
+          "size": 24252
+        }
+      ]
+    },
+    {
+      "lcp": 804,
+      "cls": 0.000046177379283748406,
+      "resources": [
+        {
+          "name": "http://127.0.0.1:4173/assets/index-C7vUNCRg.js",
+          "size": 122037
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/index-Crlwl85J.css",
+          "size": 6002
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/ibm-plex-sans-latin-400-normal-CDDApCn2.woff2",
+          "size": 22588
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/ibm-plex-sans-latin-500-normal-6ng42L7E.woff2",
+          "size": 24184
+        },
+        {
+          "name": "http://127.0.0.1:4173/content/manifest.v1.json",
+          "size": 14583
+        },
+        {
+          "name": "http://127.0.0.1:4173/media/demo/atlas-valley.webp",
+          "size": 297990
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/ibm-plex-sans-latin-600-normal-CuJfVYMP.woff2",
+          "size": 24252
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/ibm-plex-sans-arabic-arabic-400-normal-CyU-ddYS.woff2",
+          "size": 42848
+        }
+      ]
+    },
+    {
+      "lcp": 780,
+      "cls": 0,
+      "resources": [
+        {
+          "name": "http://127.0.0.1:4173/assets/index-C7vUNCRg.js",
+          "size": 122037
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/index-Crlwl85J.css",
+          "size": 6002
+        },
+        {
+          "name": "http://127.0.0.1:4173/content/manifest.v1.json",
+          "size": 14583
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/ibm-plex-sans-latin-400-normal-CDDApCn2.woff2",
+          "size": 22588
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/ibm-plex-sans-latin-500-normal-6ng42L7E.woff2",
+          "size": 24184
+        },
+        {
+          "name": "http://127.0.0.1:4173/media/demo/atlas-valley.webp",
+          "size": 297990
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/ibm-plex-sans-arabic-arabic-400-normal-CyU-ddYS.woff2",
+          "size": 42848
+        },
+        {
+          "name": "http://127.0.0.1:4173/assets/ibm-plex-sans-latin-600-normal-CuJfVYMP.woff2",
+          "size": 24252
+        }
+      ]
+    }
+  ],
+  "medianLcpMs": 864,
+  "maximumCls": 0.00005899171978293227,
+  "initialJsGzipBytes": 122037,
+  "homeImageBytes": 297990,
+  "INP": "not measured: no field sample",
+  "physicalDeviceFps": "not measured"
+}

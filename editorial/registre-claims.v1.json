@@ -1,0 +1,2008 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-10-28T22:58:05.683Z",
+  "status": "BROUILLON_SANS_CLAIM",
+  "purpose": "Saisir les affirmations historiques seulement apres localisation des passages et revue humaine.",
+  "claimSchema": {
+    "claimId": "ID stable, unique dans la fiche",
+    "projectedText": {
+      "fr": "texte de la revision",
+      "ar": "texte de la revision"
+    },
+    "revision": "revision exacte de la fiche ou du script",
+    "classification": "TEXTE | RECIT_SIRA | TRADITION | SYNTHESE | VARIANTE | INTERPRETATION",
+    "sourceEvidence": [
+      {
+        "sourceId": "CORPUS-IBN-HISHAM ou CORPUS-AR-RAHEEQ",
+        "copyId": "exemplaire identifie",
+        "location": "tome, chapitre/section, pages",
+        "scope": "ce que le passage etablit",
+        "limitation": "ce qu il ne permet pas de conclure"
+      }
+    ],
+    "comparison": "CONCORDANCE | DIVERGENCE | ABSENCE | NON_APPLICABLE",
+    "decision": "EN_ATTENTE | APPROUVE | REFUSE avec identite humaine et preuve"
+  },
+  "entries": [
+    {
+      "contentId": "CHR-01",
+      "title": "La Mecque : cadre géographique et social",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-02",
+      "title": "Naissance et enfance",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-03",
+      "title": "Jeunesse et activités",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-04",
+      "title": "Vie familiale avant la Révélation",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-05",
+      "title": "Premières révélations",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-06",
+      "title": "Premiers adhérents au message",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-07",
+      "title": "Prédication publique",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-08",
+      "title": "Oppositions et premières épreuves",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-09",
+      "title": "Départs vers l'Abyssinie",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-10",
+      "title": "Boycott et difficultés à La Mecque",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-11",
+      "title": "Année de tristesse et épisode de Taïf",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-12",
+      "title": "Rencontres de Yathrib et engagements d'al-‘Aqaba",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-13",
+      "title": "Départ pour l'Hégire",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-14",
+      "title": "Arrivée à Qubâ' et Médine",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-15",
+      "title": "Mosquée et vie communautaire",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-16",
+      "title": "Organisation sociale et accords à Médine",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-17",
+      "title": "Badr",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-18",
+      "title": "Uhud",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-19",
+      "title": "Épisode du Fossé",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-20",
+      "title": "Accord d'al-Hudaybiyya",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-21",
+      "title": "Entrée à La Mecque",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-22",
+      "title": "Relations et délégations",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-23",
+      "title": "Pèlerinage d'adieu",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "CHR-24",
+      "title": "Derniers jours et décès",
+      "space": "chronologie",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "HEG-ETP-01",
+      "title": "La Mecque : contexte du départ",
+      "space": "hegire",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "HEG-ETP-02",
+      "title": "Le départ de La Mecque",
+      "space": "hegire",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "HEG-ETP-03",
+      "title": "La grotte de Thawr",
+      "space": "hegire",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "HEG-ETP-04",
+      "title": "Itinéraire vers Yathrib",
+      "space": "hegire",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "HEG-ETP-05",
+      "title": "Arrivée à Qubâ'",
+      "space": "hegire",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "HEG-ETP-06",
+      "title": "Arrivée et installation à Médine",
+      "space": "hegire",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "HEG-DOS-07",
+      "title": "Pourquoi l'Hégire ?",
+      "space": "hegire",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "HEG-DOS-08",
+      "title": "Préparation et organisation du voyage",
+      "space": "hegire",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "HEG-DOS-09",
+      "title": "Conditions et paysages du trajet",
+      "space": "hegire",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "HEG-DOS-10",
+      "title": "Variantes et incertitudes de l'itinéraire",
+      "space": "hegire",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "HEG-DOS-11",
+      "title": "Compagnonnage et entraide",
+      "space": "hegire",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "HEG-DOS-12",
+      "title": "Portée et conséquences de l'Hégire",
+      "space": "hegire",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-01",
+      "title": "Espaces domestiques",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-02",
+      "title": "Matériaux et construction",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-03",
+      "title": "Éclairage et rangement",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-04",
+      "title": "Denrées et usages",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-05",
+      "title": "Préparation des repas",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-06",
+      "title": "Conservation des aliments",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-07",
+      "title": "Approvisionnement en eau",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-08",
+      "title": "Transport de l'eau",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-09",
+      "title": "Stockage domestique",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-10",
+      "title": "Fibres et matières",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-11",
+      "title": "Confection et entretien",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-12",
+      "title": "Chaussures et accessoires",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-13",
+      "title": "Poterie et récipients",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-14",
+      "title": "Tissage et fabrication",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-15",
+      "title": "Travail du cuir",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-16",
+      "title": "Échanges et marchés",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-17",
+      "title": "Poids et mesures",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-18",
+      "title": "Circulation des produits",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-19",
+      "title": "Préparatifs matériels",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-20",
+      "title": "Transport des effets",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-21",
+      "title": "Orientation et provisions",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-22",
+      "title": "Supports d'écriture",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-23",
+      "title": "Outils et matériaux",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    },
+    {
+      "contentId": "VIE-24",
+      "title": "Usages de la transmission écrite",
+      "space": "vie_quotidienne",
+      "intakeStatus": "A_RENSEIGNER",
+      "claimRules": {
+        "minimumSources": [
+          "CORPUS-IBN-HISHAM",
+          "CORPUS-AR-RAHEEQ"
+        ],
+        "requiredBeforeHistoricalApproval": [
+          "texte projete FR et AR, rattache a une revision",
+          "passage localise dans un exemplaire identifie",
+          "nature : texte, recit de sira, tradition, synthese, variante ou interpretation",
+          "portee et limite explicites",
+          "comparaison des deux ouvrages ou motif documente de non-applicabilite",
+          "decision humaine historique datee"
+        ]
+      },
+      "claims": [],
+      "comparison": {
+        "ibnHisham": "A_RELEVER",
+        "arRaheeq": "A_RELEVER",
+        "variants": [],
+        "editorialLimit": "AUCUN_RECIT_OU_ASSERTION_HISTORIQUE_AUTORISE"
+      },
+      "historicalDecision": {
+        "status": "NON_OBTENUE",
+        "reviewerId": null,
+        "evidenceLink": null,
+        "targetRevision": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "generatedAt": "2026-10-25T21:05:56.575Z",
+  "status": "NON_VALIDE",
+  "entries": [
+    {
+      "objectId": "OBJ-001",
+      "name": "Lampe",
+      "state": "BROUILLON",
+      "sourceDocumentation": null,
+      "interpretationNotes": null,
+      "editableSourceFile": null,
+      "finalGlb": null,
+      "finalFallback": null,
+      "reviews": [
+        "history",
+        "rights",
+        "visual",
+        "device-performance"
+      ]
+    },
+    {
+      "objectId": "OBJ-002",
+      "name": "Coffre",
+      "state": "BROUILLON",
+      "sourceDocumentation": null,
+      "interpretationNotes": null,
+      "editableSourceFile": null,
+      "finalGlb": null,
+      "finalFallback": null,
+      "reviews": [
+        "history",
+        "rights",
+        "visual",
+        "device-performance"
+      ]
+    },
+    {
+      "objectId": "OBJ-003",
+      "name": "Loquet de porte",
+      "state": "BROUILLON",
+      "sourceDocumentation": null,
+      "interpretationNotes": null,
+      "editableSourceFile": null,
+      "finalGlb": null,
+      "finalFallback": null,
+      "reviews": [
+        "history",
+        "rights",
+        "visual",
+        "device-performance"
+      ]
+    },
+    {
+      "objectId": "OBJ-004",
+      "name": "Meule manuelle",
+      "state": "BROUILLON",
+      "sourceDocumentation": null,
+      "interpretationNotes": null,
+      "editableSourceFile": null,
+      "finalGlb": null,
+      "finalFallback": null,
+      "reviews": [
+        "history",
+        "rights",
+        "visual",
+        "device-performance"
+      ]
+    },
+    {
+      "objectId": "OBJ-005",
+      "name": "Récipient de cuisson",
+      "state": "BROUILLON",
+      "sourceDocumentation": null,
+      "interpretationNotes": null,
+      "editableSourceFile": null,
+      "finalGlb": null,
+      "finalFallback": null,
+      "reviews": [
+        "history",
+        "rights",
+        "visual",
+        "device-performance"
+      ]
+    },
+    {
+      "objectId": "OBJ-006",
+      "name": "Outre",
+      "state": "BROUILLON",
+      "sourceDocumentation": null,
+      "interpretationNotes": null,
+      "editableSourceFile": null,
+      "finalGlb": null,
+      "finalFallback": null,
+      "reviews": [
+        "history",
+        "rights",
+        "visual",
+        "device-performance"
+      ]
+    },
+    {
+      "objectId": "OBJ-007",
+      "name": "Jarre",
+      "state": "BROUILLON",
+      "sourceDocumentation": null,
+      "interpretationNotes": null,
+      "editableSourceFile": null,
+      "finalGlb": null,
+      "finalFallback": null,
+      "reviews": [
+        "history",
+        "rights",
+        "visual",
+        "device-performance"
+      ]
+    },
+    {
+      "objectId": "OBJ-008",
+      "name": "Sandale",
+      "state": "BROUILLON",
+      "sourceDocumentation": null,
+      "interpretationNotes": null,
+      "editableSourceFile": null,
+      "finalGlb": null,
+      "finalFallback": null,
+      "reviews": [
+        "history",
+        "rights",
+        "visual",
+        "device-performance"
+      ]
+    },
+    {
+      "objectId": "OBJ-009",
+      "name": "Fuseau",
+      "state": "BROUILLON",
+      "sourceDocumentation": null,
+      "interpretationNotes": null,
+      "editableSourceFile": null,
+      "finalGlb": null,
+      "finalFallback": null,
+      "reviews": [
+        "history",
+        "rights",
+        "visual",
+        "device-performance"
+      ]
+    },
+    {
+      "objectId": "OBJ-010",
+      "name": "Peigne",
+      "state": "BROUILLON",
+      "sourceDocumentation": null,
+      "interpretationNotes": null,
+      "editableSourceFile": null,
+      "finalGlb": null,
+      "finalFallback": null,
+      "reviews": [
+        "history",
+        "rights",
+        "visual",
+        "device-performance"
+      ]
+    },
+    {
+      "objectId": "OBJ-011",
+      "name": "Outil de poterie",
+      "state": "BROUILLON",
+      "sourceDocumentation": null,
+      "interpretationNotes": null,
+      "editableSourceFile": null,
+      "finalGlb": null,
+      "finalFallback": null,
+      "reviews": [
+        "history",
+        "rights",
+        "visual",
+        "device-performance"
+      ]
+    },
+    {
+      "objectId": "OBJ-012",
+      "name": "Navette de tissage",
+      "state": "BROUILLON",
+      "sourceDocumentation": null,
+      "interpretationNotes": null,
+      "editableSourceFile": null,
+      "finalGlb": null,
+      "finalFallback": null,
+      "reviews": [
+        "history",
+        "rights",
+        "visual",
+        "device-performance"
+      ]
+    },
+    {
+      "objectId": "OBJ-013",
+      "name": "Alêne",
+      "state": "BROUILLON",
+      "sourceDocumentation": null,
+      "interpretationNotes": null,
+      "editableSourceFile": null,
+      "finalGlb": null,
+      "finalFallback": null,
+      "reviews": [
+        "history",
+        "rights",
+        "visual",
+        "device-performance"
+      ]
+    },
+    {
+      "objectId": "OBJ-014",
+      "name": "Balance",
+      "state": "BROUILLON",
+      "sourceDocumentation": null,
+      "interpretationNotes": null,
+      "editableSourceFile": null,
+      "finalGlb": null,
+      "finalFallback": null,
+      "reviews": [
+        "history",
+        "rights",
+        "visual",
+        "device-performance"
+      ]
+    },
+    {
+      "objectId": "OBJ-015",
+      "name": "Poids de mesure",
+      "state": "BROUILLON",
+      "sourceDocumentation": null,
+      "interpretationNotes": null,
+      "editableSourceFile": null,
+      "finalGlb": null,
+      "finalFallback": null,
+      "reviews": [
+        "history",
+        "rights",
+        "visual",
+        "device-performance"
+      ]
+    },
+    {
+      "objectId": "OBJ-016",
+      "name": "Sac de voyage",
+      "state": "BROUILLON",
+      "sourceDocumentation": null,
+      "interpretationNotes": null,
+      "editableSourceFile": null,
+      "finalGlb": null,
+      "finalFallback": null,
+      "reviews": [
+        "history",
+        "rights",
+        "visual",
+        "device-performance"
+      ]
+    },
+    {
+      "objectId": "OBJ-017",
+      "name": "Selle de bât (sans animal)",
+      "state": "BROUILLON",
+      "sourceDocumentation": null,
+      "interpretationNotes": null,
+      "editableSourceFile": null,
+      "finalGlb": null,
+      "finalFallback": null,
+      "reviews": [
+        "history",
+        "rights",
+        "visual",
+        "device-performance"
+      ]
+    },
+    {
+      "objectId": "OBJ-018",
+      "name": "Coffret de transport",
+      "state": "BROUILLON",
+      "sourceDocumentation": null,
+      "interpretationNotes": null,
+      "editableSourceFile": null,
+      "finalGlb": null,
+      "finalFallback": null,
+      "reviews": [
+        "history",
+        "rights",
+        "visual",
+        "device-performance"
+      ]
+    },
+    {
+      "objectId": "OBJ-019",
+      "name": "Encrier",
+      "state": "BROUILLON",
+      "sourceDocumentation": null,
+      "interpretationNotes": null,
+      "editableSourceFile": null,
+      "finalGlb": null,
+      "finalFallback": null,
+      "reviews": [
+        "history",
+        "rights",
+        "visual",
+        "device-performance"
+      ]
+    },
+    {
+      "objectId": "OBJ-020",
+      "name": "Tablette d'écriture",
+      "state": "BROUILLON",
+      "sourceDocumentation": null,
+      "interpretationNotes": null,
+      "editableSourceFile": null,
+      "finalGlb": null,
+      "finalFallback": null,
+      "reviews": [
+        "history",
+        "rights",
+        "visual",
+        "device-performance"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿id,epic,priorite,livrable,dependances,criteres,statut_initial
+US-001,E01,P0,"Socle — Structure SPA React/TS/Vite, lint/typecheck, routing, URL directes",,AC-001;AC-002;AC-030,A_FAIRE
+US-002,E01,P0,Socle — Gestion état local et reprise dernière fiche/section,route,AC-012;AC-013,A_FAIRE
+US-003,E01,P0,"i18n — i18n FR/AR, RTL, changement de langue et persistance",structure,AC-012;AC-021,A_FAIRE
+US-004,E02,P0,DA — Tokens palette et composants UI communs,E01,AC-022;AC-023,A_FAIRE
+US-005,E02,P0,Responsive — Tablette portrait/paysage et téléphone portrait/paysage,E01,AC-013;AC-021,A_FAIRE
+US-006,E02,P0,"Accessibilité — Clavier, lecteurs d'écran, grande police, reduced motion",E01,AC-023,A_FAIRE
+US-007,E03,P0,Données — Schéma ContentEntry/MediaAsset/Reference/ApprovalRecord/Geometry,E01,AC-006;AC-007;AC-027,A_FAIRE
+US-008,E03,P0,"Publication — Validateur 60/120/20, approbations, licences, ruptures de liens",schémas,AC-027,A_FAIRE
+US-009,E03,P0,Publication — Manifeste versionné séparé du code et fixtures DEMO,schémas,AC-027,A_FAIRE
+US-010,E04,P0,Contenu — Gabarit universel des fiches avec sources et média fallback,E02;E03,AC-007;AC-014,A_FAIRE
+US-011,E04,P0,"Audio — Lecteur audio unique, pause, seek, mémoire par langue",E01;E03,AC-008;AC-009;AC-010;AC-011;AC-012,A_FAIRE
+US-012,E04,P0,"Audio — Gestion verrouillage, retour et erreurs audio",lecteur,AC-009;AC-024,A_FAIRE
+US-013,E05,P0,"Chronologie — 6 périodes et 24 événements, aperçu et fiches",E04,AC-003,A_FAIRE
+US-014,E05,P0,"Chronologie — Frise accessible, navigation sans drag, liens croisés",E04,AC-003;AC-023,A_FAIRE
+US-015,E06,P0,"Hégire — Carte SVG, liste séquences, 6 dossiers, repères et légende",E04,AC-004;AC-017;AC-019,A_FAIRE
+US-016,E06,P0,"Hégire — Pan/zoom par commandes et pinch, recentrage",carte,AC-017,A_FAIRE
+US-017,E06,P0,"Hégire — Tracé explicatif contrôlé, reduced motion",carte,AC-018,A_FAIRE
+US-018,E06,P0,"Hégire — Storyboard pilote Thawr, FR/AR, états erreur",carte;lecteur,AC-004;AC-024,A_FAIRE
+US-019,E07,P0,Vie — Galerie 8 thèmes et 24 fiches,E04,AC-005,A_FAIRE
+US-020,E07,P0,"3D — Visualiseur glTF, rotation, zoom, recentrage, libération GPU",E04,AC-015;AC-016,A_FAIRE
+US-021,E07,P0,3D — Fallback 2D en erreur/indisponibilité WebGL,visualiseur,AC-016,A_FAIRE
+US-022,E08,P0,Éditorial — Production et validation recherche historique 60 fiches,sources/expertise,AC-006;AC-007,A_FAIRE
+US-023,E08,P0,Éditorial — Traduction et relecture français / arabe 120 textes,textes,AC-006;AC-021,A_FAIRE
+US-024,E08,P0,Audio — Produire 120 narrations finales et valider prononciation,scripts approuvés,AC-008,A_FAIRE
+US-025,E08,P0,3D — Produire 20 modèles GLB documentés + fallbacks,recherche,AC-015;AC-020,A_FAIRE
+US-026,E08,P0,"Arts — Produire visuels/scènes, légendes/licences et séquences utiles",recherche,AC-007;AC-020,A_FAIRE
+US-027,E08,P0,Carto — Documenter approbation lieux/corridors sans GPS inventé,recherche,AC-019,A_FAIRE
+US-028,E09,P0,"QA — Tests end-to-end FR/AR, rotation, lecteur, pannes",E01-E08,AC-001;AC-024,A_FAIRE
+US-029,E09,P0,QA — Audit accessibilité WCAG 2.2 AA et lecteurs d'écran,E01-E08,AC-022;AC-023,A_FAIRE
+US-030,E09,P0,"QA — Audit performance Web Vitals, GLB sur vrais appareils",E01-E08,AC-025,A_FAIRE
+US-031,E09,P0,"Sécurité — Audit dépendances, CSP, HTTPS, sanitation manifest",E01-E08,AC-029,A_FAIRE
+US-032,E09,P0,Légal — Mentions et crédits/licences données de l'exploitant,E08,AC-026;AC-028,A_FAIRE
+US-033,E10,P0,CI/CD — Build/déploiement/rollback/documentation et release gate,E09,AC-027;AC-030,A_FAIRE
+US-034,E04,P1,Audio P1 — Retour de 15 secondes et saut de sections,E04,AC-011,A_FAIRE
+US-035,E04,P1,Audio P1 — Mini-lecteur persistant et synchronisations spéciales,E04;E06,-,A_FAIRE
+US-036,E08,P1,Editorial P1 — Interface CMS / outils de saisie avancés,E03,-,A_FAIRE
+US-037,E11,P2,Extensions — Quiz et progression gamifiée,E10,-,A_FAIRE
+US-038,E11,P2,Extensions — Ambiances sonores opt-in,E10,-,A_FAIRE
+US-039,E11,P2,Extensions — Compte/sync multi-appareil/offline complet,E10,-,A_FAIRE

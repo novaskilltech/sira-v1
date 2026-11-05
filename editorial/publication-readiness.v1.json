@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2026-10-25T21:05:56.575Z",
+  "status": "NON_VALIDE",
+  "checks": {
+    "contents": 60,
+    "narrations": 120,
+    "illustrations": 45,
+    "animations": 14,
+    "objects": 20
+  },
+  "assignments": {
+    "historicalReligiousReview": "SHEIKH_SALAH",
+    "technicalIntegration": "AHMED_FULLSTACK"
+  },
+  "completed": {
+    "approvedContents": 0,
+    "approvedNarrations": 0,
+    "approvedIllustrations": 0,
+    "approvedAnimations": 0,
+    "approvedObjects": 0
+  },
+  "blockers": [
+    "Historique",
+    "Linguistique FR",
+    "Linguistique AR",
+    "Audio et prononciation",
+    "Droits",
+    "Cartographie",
+    "Recette sur appareils physiques",
+    "Exploitant et HTTPS"
+  ]
+}

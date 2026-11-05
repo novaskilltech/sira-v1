@@ -1,0 +1,80 @@
+{
+  "version": "1.0.0",
+  "createdAt": "2026-10-28T00:00:00.000Z",
+  "targetId": "HEG-ETP-03",
+  "targetTitle": "La grotte de Thawr",
+  "status": "RELEVE_DE_RECOUPEMENT_NON_PUBLIABLE",
+  "purpose": "Documenter les copies consultées et préparer une revue humaine. Aucun élément de ce fichier ne constitue une affirmation historique approuvée.",
+  "bibliographicStatus": {
+    "ibnHishamReferenceEdition": {
+      "status": "NOTICE_IDENTIFIEE_COPIE_A_EXAMINER",
+      "publication": "Le Caire, Sharikat Maktabat wa-Matbaʿat Mustafa al-Babi al-Halabi wa-awladih, 1955",
+      "editors": ["Mustafa al-Saqqa", "Ibrahim al-Abyari", "Abd al-Hafiz Shalabi"],
+      "catalogRecords": [
+        "https://catalogue.bnf.fr/ark:/12148/cb44037744w",
+        "https://hdl.handle.net/2333.1/0cfxq0gt"
+      ],
+      "missingBeforeUse": ["vérification visuelle de la page du passage dans la copie retenue", "pagination de la copie consultée", "conditions de réutilisation"]
+    },
+    "arRaheeqReferenceEdition": {
+      "status": "COPIE_CONSULTEE_BIBLIOGRAPHIE_INCOMPLETE",
+      "consultedCopy": "PDF arabe de 452 pages ; titre et auteur visibles",
+      "url": "https://d1.islamhouse.com/data/ar/ih_books/single_010/ar-alraheq-almakhtum.pdf",
+      "missingBeforeUse": ["éditeur", "année de cette impression", "ISBN", "conditions de réutilisation", "comparaison avec l'exemplaire imprimé retenu"]
+    }
+  },
+  "passageLeads": [
+    {
+      "leadId": "HEG03-IBN-001",
+      "source": "Ibn Hisham — transcription de repérage",
+      "onlineLocation": "vol. 1, p. 486 ; « قصة الرسول صلى الله عليه وسلم مع أبي بكر في الغار »",
+      "url": "https://www.islamweb.net/ar/library/index.php?ID=565&bk_no=58&flag=1&page=bookcontents",
+      "whatWasChecked": "Le relevé attribue un récit à Ibn Ishaq puis présente un commentaire attribué à Ibn Hisham. La relation éditoriale avec l'édition de référence 1955 n'est pas établie.",
+      "useBeforeReview": "Repérage du passage seulement",
+      "status": "A_RECROISER_DANS_COPIE_IDENTIFIEE"
+    },
+    {
+      "leadId": "HEG03-AR-RAHEEQ-001",
+      "source": "al-Rahiq al-Makhtum — copie PDF de repérage",
+      "onlineLocation": "pages imprimées 156–157 ; pages PDF 155–156 ; « من الدار إلى الغار » et « إذ هما في الغار »",
+      "url": "https://d1.islamhouse.com/data/ar/ih_books/single_010/ar-alraheq-almakhtum.pdf",
+      "whatWasChecked": "La copie comporte une synthèse de l'épisode, avec des indications de chronologie, parcours et détails narratifs qui doivent être séparés et vérifiés un par un.",
+      "useBeforeReview": "Repérage du passage seulement",
+      "status": "A_RECROISER_DANS_COPIE_IDENTIFIEE"
+    }
+  ],
+  "comparison": [
+    {
+      "comparisonId": "HEG03-CMP-001",
+      "subject": "Association de l'épisode à une grotte et à Thawr",
+      "ibnHishamLead": "Le repérage numérique le mentionne dans le récit associé à Ibn Ishaq/Ibn Hisham.",
+      "arRaheeqLead": "Le repérage numérique le présente dans une synthèse moderne.",
+      "result": "CONVERGENCE_DE_REPERAGE_NON_VALIDEE",
+      "editorialUse": "Aucun texte de fiche ; préparer la question pour la revue Sheikh Salah."
+    },
+    {
+      "comparisonId": "HEG03-CMP-002",
+      "subject": "Dates, durée, parcours, distance, topographie et détails de scène",
+      "ibnHishamLead": "Aucun inventaire complet n'est encore relevé dans une édition identifiée.",
+      "arRaheeqLead": "La copie de repérage contient plusieurs précisions de synthèse.",
+      "result": "NON_COMPARABLE_A_CE_STADE",
+      "editorialUse": "Exclure chaque détail du brouillon jusqu'à localisation, qualification et décision distinctes."
+    }
+  ],
+  "decisions": [
+    {
+      "decisionId": "HEG03-DEC-001",
+      "type": "GESTION_DE_RECHERCHE",
+      "decision": "CONSERVER_COMME_PISTES_NON_PUBLIABLES",
+      "scope": ["HEG03-IBN-001", "HEG03-AR-RAHEEQ-001"],
+      "doesNotMean": ["approbation historique", "approbation religieuse", "approbation linguistique", "autorisation de publication"],
+      "nextEvidence": ["scan ou consultation vérifiable de l'édition retenue", "passages exacts par source", "décision humaine datée de Sheikh Salah"]
+    }
+  ],
+  "gate": {
+    "historicalClaimsApproved": 0,
+    "passagesVerifiedInSelectedEdition": 0,
+    "humanHistoricalDecision": "NON_OBTENUE",
+    "publicationAllowed": false
+  }
+}

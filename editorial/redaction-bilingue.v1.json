@@ -1,0 +1,4028 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-10-29T06:44:20.569Z",
+  "status": "BROUILLON_SANS_TEXTE",
+  "purpose": "Préparer les 60 récits FR/AR sans rédiger ni approuver de contenu historique.",
+  "entries": [
+    {
+      "contentId": "CHR-01",
+      "title": "La Mecque : cadre géographique et social",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-02",
+      "title": "Naissance et enfance",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-03",
+      "title": "Jeunesse et activités",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-04",
+      "title": "Vie familiale avant la Révélation",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-05",
+      "title": "Premières révélations",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-06",
+      "title": "Premiers adhérents au message",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-07",
+      "title": "Prédication publique",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-08",
+      "title": "Oppositions et premières épreuves",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-09",
+      "title": "Départs vers l'Abyssinie",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-10",
+      "title": "Boycott et difficultés à La Mecque",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-11",
+      "title": "Année de tristesse et épisode de Taïf",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-12",
+      "title": "Rencontres de Yathrib et engagements d'al-‘Aqaba",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-13",
+      "title": "Départ pour l'Hégire",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-14",
+      "title": "Arrivée à Qubâ' et Médine",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-15",
+      "title": "Mosquée et vie communautaire",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-16",
+      "title": "Organisation sociale et accords à Médine",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-17",
+      "title": "Badr",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-18",
+      "title": "Uhud",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-19",
+      "title": "Épisode du Fossé",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-20",
+      "title": "Accord d'al-Hudaybiyya",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-21",
+      "title": "Entrée à La Mecque",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-22",
+      "title": "Relations et délégations",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-23",
+      "title": "Pèlerinage d'adieu",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-24",
+      "title": "Derniers jours et décès",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-01",
+      "title": "La Mecque : contexte du départ",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-02",
+      "title": "Le départ de La Mecque",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-03",
+      "title": "La grotte de Thawr",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-04",
+      "title": "Itinéraire vers Yathrib",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-05",
+      "title": "Arrivée à Qubâ'",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-06",
+      "title": "Arrivée et installation à Médine",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "REPERAGE_DISPONIBLE_NON_VALIDE",
+        "precondition": "COLLATIONNER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-07",
+      "title": "Pourquoi l'Hégire ?",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "A_RELEVER",
+        "precondition": "LOCALISER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-08",
+      "title": "Préparation et organisation du voyage",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "A_RELEVER",
+        "precondition": "LOCALISER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-09",
+      "title": "Conditions et paysages du trajet",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "A_RELEVER",
+        "precondition": "LOCALISER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-10",
+      "title": "Variantes et incertitudes de l'itinéraire",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "A_RELEVER",
+        "precondition": "LOCALISER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-11",
+      "title": "Compagnonnage et entraide",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "A_RELEVER",
+        "precondition": "LOCALISER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-12",
+      "title": "Portée et conséquences de l'Hégire",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "A_RELEVER",
+        "precondition": "LOCALISER_PASSAGES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-01",
+      "title": "Espaces domestiques",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-02",
+      "title": "Matériaux et construction",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-03",
+      "title": "Éclairage et rangement",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-04",
+      "title": "Denrées et usages",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-05",
+      "title": "Préparation des repas",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-06",
+      "title": "Conservation des aliments",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-07",
+      "title": "Approvisionnement en eau",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-08",
+      "title": "Transport de l'eau",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-09",
+      "title": "Stockage domestique",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-10",
+      "title": "Fibres et matières",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-11",
+      "title": "Confection et entretien",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-12",
+      "title": "Chaussures et accessoires",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-13",
+      "title": "Poterie et récipients",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-14",
+      "title": "Tissage et fabrication",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-15",
+      "title": "Travail du cuir",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-16",
+      "title": "Échanges et marchés",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-17",
+      "title": "Poids et mesures",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-18",
+      "title": "Circulation des produits",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-19",
+      "title": "Préparatifs matériels",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-20",
+      "title": "Transport des effets",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-21",
+      "title": "Orientation et provisions",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-22",
+      "title": "Supports d'écriture",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-23",
+      "title": "Outils et matériaux",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-24",
+      "title": "Usages de la transmission écrite",
+      "state": "BROUILLON",
+      "sourceState": "AUCUN_CLAIM_APPROUVE",
+      "target": {
+        "frWords": {
+          "min": 500,
+          "max": 650
+        },
+        "narrationDurationSeconds": {
+          "min": 180,
+          "max": 300
+        },
+        "arabicMode": "REDACTION_NATIVE_SEPAREE_NON_TRADUCTION_AUTOMATIQUE"
+      },
+      "languages": {
+        "fr": {
+          "locale": "fr",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        },
+        "ar": {
+          "locale": "ar",
+          "state": "BROUILLON",
+          "revision": null,
+          "text": null,
+          "sourceClaimIds": [],
+          "linguisticReview": null,
+          "notes": []
+        }
+      },
+      "authoringBrief": {
+        "sourceResearchStatus": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+        "precondition": "COLLECTER_SOURCES_MATERIELLES_AVANT_REDACTION",
+        "fr": {
+          "sections": [
+            "repère et périmètre",
+            "éléments sourcés",
+            "variantes et limites",
+            "synthèse pédagogique"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_FR_PAR_REVISION"
+        },
+        "ar": {
+          "sections": [
+            "تحديد الموضوع ونطاقه",
+            "العناصر المسندة إلى المصادر",
+            "الاختلافات والحدود",
+            "خلاصة تربوية"
+          ],
+          "linguisticRequirement": "RELECTURE_HUMAINE_AR_NATIF_PAR_REVISION"
+        },
+        "narrationRule": "LE_SCRIPT_AUDIO_EST_DISTINCT_DU_RECIT_ET_NE_PEUT_COMMENCER_QU_APRES_REVISION_HISTORIQUE"
+      },
+      "requiredBeforeApproval": [
+        "claims localisés et décision historique humaine liée à la révision",
+        "texte propre à chaque langue, avec révision distincte",
+        "relecture linguistique humaine de la langue concernée",
+        "variantes et limites conservées dans les deux langues"
+      ],
+      "publicationAllowed": false
+    }
+  ]
+}

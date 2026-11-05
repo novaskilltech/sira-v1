@@ -1,0 +1,73 @@
+{
+  "channel": "demo",
+  "checkedAt": "2026-10-28T23:42:07.018Z",
+  "passed": true,
+  "checks": [
+    {
+      "name": "manifest-demo",
+      "command": "npm run validate",
+      "startedAt": "2026-10-28T23:40:58.876Z",
+      "passed": true,
+      "exitCode": 0,
+      "error": null
+    },
+    {
+      "name": "media-demo",
+      "command": "npm run demo:validate",
+      "startedAt": "2026-10-28T23:41:00.253Z",
+      "passed": true,
+      "exitCode": 0,
+      "error": null
+    },
+    {
+      "name": "editorial-registers",
+      "command": "npm run editorial:verify",
+      "startedAt": "2026-10-28T23:41:01.001Z",
+      "passed": true,
+      "exitCode": 0,
+      "error": null
+    },
+    {
+      "name": "physical-recipe-register",
+      "command": "npm run physical:validate",
+      "startedAt": "2026-10-28T23:41:08.744Z",
+      "passed": true,
+      "exitCode": 0,
+      "error": null
+    },
+    {
+      "name": "types",
+      "command": "npm run typecheck",
+      "startedAt": "2026-10-28T23:41:09.708Z",
+      "passed": true,
+      "exitCode": 0,
+      "error": null
+    },
+    {
+      "name": "lint",
+      "command": "npm run lint",
+      "startedAt": "2026-10-28T23:41:19.594Z",
+      "passed": true,
+      "exitCode": 0,
+      "error": null
+    },
+    {
+      "name": "unit-tests",
+      "command": "npm test",
+      "startedAt": "2026-10-28T23:41:23.315Z",
+      "passed": true,
+      "exitCode": 0,
+      "error": null
+    },
+    {
+      "name": "demo-build",
+      "command": "npm run build",
+      "startedAt": "2026-10-28T23:41:41.728Z",
+      "passed": true,
+      "exitCode": 0,
+      "error": null
+    }
+  ],
+  "publicReleaseAttempted": false,
+  "publicReleaseNote": "Not attempted: build:public must remain blocked until independent evidence and an approved release lot exist."
+}

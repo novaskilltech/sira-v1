@@ -1,0 +1,11 @@
+{
+  "checkedAt": "2026-10-29T06:44:25.235Z",
+  "passed": true,
+  "entries": 60,
+  "counts": {
+    "REPERAGE_DISPONIBLE_NON_VALIDE": 30,
+    "A_RELEVER": 6,
+    "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES": 24
+  },
+  "problems": []
+}

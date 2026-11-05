@@ -1,0 +1,187 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-10-28T23:28:44.308Z",
+  "status": "BROUILLON_SANS_GEOMETRIE",
+  "dossiers": [
+    {
+      "contentId": "HEG-ETP-01",
+      "title": "La Mecque : contexte du départ",
+      "state": "SANS_REPERE_DOCUMENTE",
+      "representation": "SANS_REPERE",
+      "geometry": null,
+      "coordinates": null,
+      "sourceEvidence": [],
+      "uncertaintyLabel": {
+        "fr": "Repérage non documenté pour publication.",
+        "ar": "لم يوثّق التحديد للنشر."
+      },
+      "cartographicReview": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-02",
+      "title": "Le départ de La Mecque",
+      "state": "SANS_REPERE_DOCUMENTE",
+      "representation": "SANS_REPERE",
+      "geometry": null,
+      "coordinates": null,
+      "sourceEvidence": [],
+      "uncertaintyLabel": {
+        "fr": "Repérage non documenté pour publication.",
+        "ar": "لم يوثّق التحديد للنشر."
+      },
+      "cartographicReview": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-03",
+      "title": "La grotte de Thawr",
+      "state": "SANS_REPERE_DOCUMENTE",
+      "representation": "SANS_REPERE",
+      "geometry": null,
+      "coordinates": null,
+      "sourceEvidence": [],
+      "uncertaintyLabel": {
+        "fr": "Repérage non documenté pour publication.",
+        "ar": "لم يوثّق التحديد للنشر."
+      },
+      "cartographicReview": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-04",
+      "title": "Itinéraire vers Yathrib",
+      "state": "SANS_REPERE_DOCUMENTE",
+      "representation": "SANS_REPERE",
+      "geometry": null,
+      "coordinates": null,
+      "sourceEvidence": [],
+      "uncertaintyLabel": {
+        "fr": "Repérage non documenté pour publication.",
+        "ar": "لم يوثّق التحديد للنشر."
+      },
+      "cartographicReview": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-05",
+      "title": "Arrivée à Qubâ'",
+      "state": "SANS_REPERE_DOCUMENTE",
+      "representation": "SANS_REPERE",
+      "geometry": null,
+      "coordinates": null,
+      "sourceEvidence": [],
+      "uncertaintyLabel": {
+        "fr": "Repérage non documenté pour publication.",
+        "ar": "لم يوثّق التحديد للنشر."
+      },
+      "cartographicReview": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-06",
+      "title": "Arrivée et installation à Médine",
+      "state": "SANS_REPERE_DOCUMENTE",
+      "representation": "SANS_REPERE",
+      "geometry": null,
+      "coordinates": null,
+      "sourceEvidence": [],
+      "uncertaintyLabel": {
+        "fr": "Repérage non documenté pour publication.",
+        "ar": "لم يوثّق التحديد للنشر."
+      },
+      "cartographicReview": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-07",
+      "title": "Pourquoi l'Hégire ?",
+      "state": "SANS_REPERE_DOCUMENTE",
+      "representation": "SANS_REPERE",
+      "geometry": null,
+      "coordinates": null,
+      "sourceEvidence": [],
+      "uncertaintyLabel": {
+        "fr": "Repérage non documenté pour publication.",
+        "ar": "لم يوثّق التحديد للنشر."
+      },
+      "cartographicReview": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-08",
+      "title": "Préparation et organisation du voyage",
+      "state": "SANS_REPERE_DOCUMENTE",
+      "representation": "SANS_REPERE",
+      "geometry": null,
+      "coordinates": null,
+      "sourceEvidence": [],
+      "uncertaintyLabel": {
+        "fr": "Repérage non documenté pour publication.",
+        "ar": "لم يوثّق التحديد للنشر."
+      },
+      "cartographicReview": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-09",
+      "title": "Conditions et paysages du trajet",
+      "state": "SANS_REPERE_DOCUMENTE",
+      "representation": "SANS_REPERE",
+      "geometry": null,
+      "coordinates": null,
+      "sourceEvidence": [],
+      "uncertaintyLabel": {
+        "fr": "Repérage non documenté pour publication.",
+        "ar": "لم يوثّق التحديد للنشر."
+      },
+      "cartographicReview": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-10",
+      "title": "Variantes et incertitudes de l'itinéraire",
+      "state": "SANS_REPERE_DOCUMENTE",
+      "representation": "SANS_REPERE",
+      "geometry": null,
+      "coordinates": null,
+      "sourceEvidence": [],
+      "uncertaintyLabel": {
+        "fr": "Repérage non documenté pour publication.",
+        "ar": "لم يوثّق التحديد للنشر."
+      },
+      "cartographicReview": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-11",
+      "title": "Compagnonnage et entraide",
+      "state": "SANS_REPERE_DOCUMENTE",
+      "representation": "SANS_REPERE",
+      "geometry": null,
+      "coordinates": null,
+      "sourceEvidence": [],
+      "uncertaintyLabel": {
+        "fr": "Repérage non documenté pour publication.",
+        "ar": "لم يوثّق التحديد للنشر."
+      },
+      "cartographicReview": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-12",
+      "title": "Portée et conséquences de l'Hégire",
+      "state": "SANS_REPERE_DOCUMENTE",
+      "representation": "SANS_REPERE",
+      "geometry": null,
+      "coordinates": null,
+      "sourceEvidence": [],
+      "uncertaintyLabel": {
+        "fr": "Repérage non documenté pour publication.",
+        "ar": "لم يوثّق التحديد للنشر."
+      },
+      "cartographicReview": null,
+      "publicationAllowed": false
+    }
+  ]
+}

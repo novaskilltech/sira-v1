@@ -1,0 +1,62 @@
+[
+  {
+    "route": "/",
+    "locale": "fr",
+    "violations": []
+  },
+  {
+    "route": "/chronologie",
+    "locale": "fr",
+    "violations": []
+  },
+  {
+    "route": "/hegire",
+    "locale": "fr",
+    "violations": []
+  },
+  {
+    "route": "/vie",
+    "locale": "fr",
+    "violations": []
+  },
+  {
+    "route": "/vie/VIE-01",
+    "locale": "fr",
+    "violations": []
+  },
+  {
+    "route": "/aide",
+    "locale": "fr",
+    "violations": []
+  },
+  {
+    "route": "/",
+    "locale": "ar",
+    "violations": []
+  },
+  {
+    "route": "/chronologie",
+    "locale": "ar",
+    "violations": []
+  },
+  {
+    "route": "/hegire",
+    "locale": "ar",
+    "violations": []
+  },
+  {
+    "route": "/vie",
+    "locale": "ar",
+    "violations": []
+  },
+  {
+    "route": "/vie/VIE-01",
+    "locale": "ar",
+    "violations": []
+  },
+  {
+    "route": "/aide",
+    "locale": "ar",
+    "violations": []
+  }
+]

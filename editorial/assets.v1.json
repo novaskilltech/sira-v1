@@ -1,0 +1,1587 @@
+{
+  "generatedAt": "2026-10-25T21:05:56.575Z",
+  "status": "NON_VALIDE",
+  "entries": [
+    {
+      "assetId": "IMG-CHR-01",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-01"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: La Mecque : cadre géographique et social"
+    },
+    {
+      "assetId": "IMG-CHR-02",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-02"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Naissance et enfance"
+    },
+    {
+      "assetId": "IMG-CHR-03",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-03"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Jeunesse et activités"
+    },
+    {
+      "assetId": "IMG-CHR-04",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-04"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Vie familiale avant la Révélation"
+    },
+    {
+      "assetId": "IMG-CHR-05",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-05"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Premières révélations"
+    },
+    {
+      "assetId": "IMG-CHR-06",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-06"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Premiers adhérents au message"
+    },
+    {
+      "assetId": "IMG-CHR-07",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-07"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Prédication publique"
+    },
+    {
+      "assetId": "IMG-CHR-08",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-08"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Oppositions et premières épreuves"
+    },
+    {
+      "assetId": "IMG-CHR-09",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-09"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Départs vers l'Abyssinie"
+    },
+    {
+      "assetId": "IMG-CHR-10",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-10"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Boycott et difficultés à La Mecque"
+    },
+    {
+      "assetId": "IMG-CHR-11",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-11"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Année de tristesse et épisode de Taïf"
+    },
+    {
+      "assetId": "IMG-CHR-12",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-12"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Rencontres de Yathrib et engagements d'al-‘Aqaba"
+    },
+    {
+      "assetId": "IMG-CHR-13",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-13"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Départ pour l'Hégire"
+    },
+    {
+      "assetId": "IMG-CHR-14",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-14"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Arrivée à Qubâ' et Médine"
+    },
+    {
+      "assetId": "IMG-CHR-15",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-15"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Mosquée et vie communautaire"
+    },
+    {
+      "assetId": "IMG-CHR-16",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-16"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Organisation sociale et accords à Médine"
+    },
+    {
+      "assetId": "IMG-CHR-17",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-17"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Badr"
+    },
+    {
+      "assetId": "IMG-CHR-18",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-18"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Uhud"
+    },
+    {
+      "assetId": "IMG-CHR-19",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-19"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Épisode du Fossé"
+    },
+    {
+      "assetId": "IMG-CHR-20",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-20"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Accord d'al-Hudaybiyya"
+    },
+    {
+      "assetId": "IMG-CHR-21",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-21"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Entrée à La Mecque"
+    },
+    {
+      "assetId": "IMG-CHR-22",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-22"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Relations et délégations"
+    },
+    {
+      "assetId": "IMG-CHR-23",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-23"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Pèlerinage d'adieu"
+    },
+    {
+      "assetId": "IMG-CHR-24",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "CHR-24"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Évocation documentaire du sujet: Derniers jours et décès"
+    },
+    {
+      "assetId": "IMG-HEG-ETP-01",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "HEG-ETP-01"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Carte ou illustration documentaire pour: La Mecque : contexte du départ"
+    },
+    {
+      "assetId": "IMG-HEG-ETP-02",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "HEG-ETP-02"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Carte ou illustration documentaire pour: Le départ de La Mecque"
+    },
+    {
+      "assetId": "IMG-HEG-ETP-03",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "HEG-ETP-03"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Carte ou illustration documentaire pour: La grotte de Thawr"
+    },
+    {
+      "assetId": "IMG-HEG-ETP-04",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "HEG-ETP-04"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Carte ou illustration documentaire pour: Itinéraire vers Yathrib"
+    },
+    {
+      "assetId": "IMG-HEG-ETP-05",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "HEG-ETP-05"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Carte ou illustration documentaire pour: Arrivée à Qubâ'"
+    },
+    {
+      "assetId": "IMG-HEG-ETP-06",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "HEG-ETP-06"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Carte ou illustration documentaire pour: Arrivée et installation à Médine"
+    },
+    {
+      "assetId": "IMG-HEG-DOS-07",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "HEG-DOS-07"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Carte ou illustration documentaire pour: Pourquoi l'Hégire ?"
+    },
+    {
+      "assetId": "IMG-HEG-DOS-09",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "HEG-DOS-09"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Carte ou illustration documentaire pour: Conditions et paysages du trajet"
+    },
+    {
+      "assetId": "IMG-HEG-DOS-10",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "HEG-DOS-10"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_et_legende",
+      "brief": "Carte ou illustration documentaire pour: Variantes et incertitudes de l'itinéraire"
+    },
+    {
+      "assetId": "IMG-VIE-THEME-01",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "VIE-01",
+        "VIE-02",
+        "VIE-03"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "titre_et_texte",
+      "brief": "Couverture thème Habitat"
+    },
+    {
+      "assetId": "IMG-VIE-THEME-02",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "VIE-04",
+        "VIE-05",
+        "VIE-06"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "titre_et_texte",
+      "brief": "Couverture thème Alimentation"
+    },
+    {
+      "assetId": "IMG-VIE-THEME-03",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "VIE-07",
+        "VIE-08",
+        "VIE-09"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "titre_et_texte",
+      "brief": "Couverture thème Eau et stockage"
+    },
+    {
+      "assetId": "IMG-VIE-THEME-04",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "VIE-10",
+        "VIE-11",
+        "VIE-12"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "titre_et_texte",
+      "brief": "Couverture thème Vêtements et textiles"
+    },
+    {
+      "assetId": "IMG-VIE-THEME-05",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "VIE-13",
+        "VIE-14",
+        "VIE-15"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "titre_et_texte",
+      "brief": "Couverture thème Artisanat"
+    },
+    {
+      "assetId": "IMG-VIE-THEME-06",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "VIE-16",
+        "VIE-17",
+        "VIE-18"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "titre_et_texte",
+      "brief": "Couverture thème Commerce et mesures"
+    },
+    {
+      "assetId": "IMG-VIE-THEME-07",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "VIE-19",
+        "VIE-20",
+        "VIE-21"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "titre_et_texte",
+      "brief": "Couverture thème Voyage et équipements"
+    },
+    {
+      "assetId": "IMG-VIE-THEME-08",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "VIE-22",
+        "VIE-23",
+        "VIE-24"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "titre_et_texte",
+      "brief": "Couverture thème Écriture et transmission"
+    },
+    {
+      "assetId": "IMG-VIE-DETAIL-05",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "VIE-05"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "image_theme_et_texte",
+      "brief": "Détail documentaire de VIE-05"
+    },
+    {
+      "assetId": "IMG-VIE-DETAIL-08",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "VIE-08"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "image_theme_et_texte",
+      "brief": "Détail documentaire de VIE-08"
+    },
+    {
+      "assetId": "IMG-VIE-DETAIL-13",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "VIE-13"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "image_theme_et_texte",
+      "brief": "Détail documentaire de VIE-13"
+    },
+    {
+      "assetId": "IMG-VIE-DETAIL-23",
+      "kind": "illustration_originale",
+      "contentIds": [
+        "VIE-23"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "image_theme_et_texte",
+      "brief": "Détail documentaire de VIE-23"
+    },
+    {
+      "assetId": "ANI-001",
+      "kind": "animation_scenarisee",
+      "contentIds": [
+        "CHR-05"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "illustration_statique_legendee",
+      "brief": "Animation explicative sans êtres vivants pour CHR-05"
+    },
+    {
+      "assetId": "ANI-002",
+      "kind": "animation_scenarisee",
+      "contentIds": [
+        "CHR-09"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "illustration_statique_legendee",
+      "brief": "Animation explicative sans êtres vivants pour CHR-09"
+    },
+    {
+      "assetId": "ANI-003",
+      "kind": "animation_scenarisee",
+      "contentIds": [
+        "CHR-13"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "illustration_statique_legendee",
+      "brief": "Animation explicative sans êtres vivants pour CHR-13"
+    },
+    {
+      "assetId": "ANI-004",
+      "kind": "animation_scenarisee",
+      "contentIds": [
+        "CHR-17"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "illustration_statique_legendee",
+      "brief": "Animation explicative sans êtres vivants pour CHR-17"
+    },
+    {
+      "assetId": "ANI-005",
+      "kind": "animation_scenarisee",
+      "contentIds": [
+        "CHR-23"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "illustration_statique_legendee",
+      "brief": "Animation explicative sans êtres vivants pour CHR-23"
+    },
+    {
+      "assetId": "ANI-006",
+      "kind": "animation_scenarisee",
+      "contentIds": [
+        "HEG-ETP-01"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "illustration_statique_legendee",
+      "brief": "Animation explicative sans êtres vivants pour HEG-ETP-01"
+    },
+    {
+      "assetId": "ANI-007",
+      "kind": "animation_scenarisee",
+      "contentIds": [
+        "HEG-ETP-03"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "illustration_statique_legendee",
+      "brief": "Animation explicative sans êtres vivants pour HEG-ETP-03"
+    },
+    {
+      "assetId": "ANI-008",
+      "kind": "animation_scenarisee",
+      "contentIds": [
+        "HEG-ETP-04"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "illustration_statique_legendee",
+      "brief": "Animation explicative sans êtres vivants pour HEG-ETP-04"
+    },
+    {
+      "assetId": "ANI-009",
+      "kind": "animation_scenarisee",
+      "contentIds": [
+        "HEG-ETP-05"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "illustration_statique_legendee",
+      "brief": "Animation explicative sans êtres vivants pour HEG-ETP-05"
+    },
+    {
+      "assetId": "ANI-010",
+      "kind": "animation_scenarisee",
+      "contentIds": [
+        "VIE-05"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "illustration_statique_legendee",
+      "brief": "Animation explicative sans êtres vivants pour VIE-05"
+    },
+    {
+      "assetId": "ANI-011",
+      "kind": "animation_scenarisee",
+      "contentIds": [
+        "VIE-08"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "illustration_statique_legendee",
+      "brief": "Animation explicative sans êtres vivants pour VIE-08"
+    },
+    {
+      "assetId": "ANI-012",
+      "kind": "animation_scenarisee",
+      "contentIds": [
+        "VIE-13"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "illustration_statique_legendee",
+      "brief": "Animation explicative sans êtres vivants pour VIE-13"
+    },
+    {
+      "assetId": "ANI-013",
+      "kind": "animation_scenarisee",
+      "contentIds": [
+        "VIE-16"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "illustration_statique_legendee",
+      "brief": "Animation explicative sans êtres vivants pour VIE-16"
+    },
+    {
+      "assetId": "ANI-014",
+      "kind": "animation_scenarisee",
+      "contentIds": [
+        "VIE-23"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "illustration_statique_legendee",
+      "brief": "Animation explicative sans êtres vivants pour VIE-23"
+    },
+    {
+      "assetId": "GLB-OBJ-001",
+      "kind": "glb_modele_3d",
+      "contentIds": [
+        "VIE-01",
+        "VIE-02",
+        "VIE-03"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "FALLBACK-OBJ-001",
+      "brief": "Objet 3D candidat : Lampe"
+    },
+    {
+      "assetId": "FALLBACK-OBJ-001",
+      "kind": "image_fallback_3d",
+      "contentIds": [
+        "VIE-01",
+        "VIE-02",
+        "VIE-03"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_objet",
+      "brief": "Rendu 2D de remplacement : Lampe"
+    },
+    {
+      "assetId": "GLB-OBJ-002",
+      "kind": "glb_modele_3d",
+      "contentIds": [
+        "VIE-01",
+        "VIE-02",
+        "VIE-03"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "FALLBACK-OBJ-002",
+      "brief": "Objet 3D candidat : Coffre"
+    },
+    {
+      "assetId": "FALLBACK-OBJ-002",
+      "kind": "image_fallback_3d",
+      "contentIds": [
+        "VIE-01",
+        "VIE-02",
+        "VIE-03"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_objet",
+      "brief": "Rendu 2D de remplacement : Coffre"
+    },
+    {
+      "assetId": "GLB-OBJ-003",
+      "kind": "glb_modele_3d",
+      "contentIds": [
+        "VIE-01",
+        "VIE-02",
+        "VIE-03"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "FALLBACK-OBJ-003",
+      "brief": "Objet 3D candidat : Loquet de porte"
+    },
+    {
+      "assetId": "FALLBACK-OBJ-003",
+      "kind": "image_fallback_3d",
+      "contentIds": [
+        "VIE-01",
+        "VIE-02",
+        "VIE-03"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_objet",
+      "brief": "Rendu 2D de remplacement : Loquet de porte"
+    },
+    {
+      "assetId": "GLB-OBJ-004",
+      "kind": "glb_modele_3d",
+      "contentIds": [
+        "VIE-04",
+        "VIE-05",
+        "VIE-06"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "FALLBACK-OBJ-004",
+      "brief": "Objet 3D candidat : Meule manuelle"
+    },
+    {
+      "assetId": "FALLBACK-OBJ-004",
+      "kind": "image_fallback_3d",
+      "contentIds": [
+        "VIE-04",
+        "VIE-05",
+        "VIE-06"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_objet",
+      "brief": "Rendu 2D de remplacement : Meule manuelle"
+    },
+    {
+      "assetId": "GLB-OBJ-005",
+      "kind": "glb_modele_3d",
+      "contentIds": [
+        "VIE-04",
+        "VIE-05",
+        "VIE-06"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "FALLBACK-OBJ-005",
+      "brief": "Objet 3D candidat : Récipient de cuisson"
+    },
+    {
+      "assetId": "FALLBACK-OBJ-005",
+      "kind": "image_fallback_3d",
+      "contentIds": [
+        "VIE-04",
+        "VIE-05",
+        "VIE-06"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_objet",
+      "brief": "Rendu 2D de remplacement : Récipient de cuisson"
+    },
+    {
+      "assetId": "GLB-OBJ-006",
+      "kind": "glb_modele_3d",
+      "contentIds": [
+        "VIE-07",
+        "VIE-08",
+        "VIE-09"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "FALLBACK-OBJ-006",
+      "brief": "Objet 3D candidat : Outre"
+    },
+    {
+      "assetId": "FALLBACK-OBJ-006",
+      "kind": "image_fallback_3d",
+      "contentIds": [
+        "VIE-07",
+        "VIE-08",
+        "VIE-09"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_objet",
+      "brief": "Rendu 2D de remplacement : Outre"
+    },
+    {
+      "assetId": "GLB-OBJ-007",
+      "kind": "glb_modele_3d",
+      "contentIds": [
+        "VIE-07",
+        "VIE-08",
+        "VIE-09"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "FALLBACK-OBJ-007",
+      "brief": "Objet 3D candidat : Jarre"
+    },
+    {
+      "assetId": "FALLBACK-OBJ-007",
+      "kind": "image_fallback_3d",
+      "contentIds": [
+        "VIE-07",
+        "VIE-08",
+        "VIE-09"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_objet",
+      "brief": "Rendu 2D de remplacement : Jarre"
+    },
+    {
+      "assetId": "GLB-OBJ-008",
+      "kind": "glb_modele_3d",
+      "contentIds": [
+        "VIE-10",
+        "VIE-11",
+        "VIE-12"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "FALLBACK-OBJ-008",
+      "brief": "Objet 3D candidat : Sandale"
+    },
+    {
+      "assetId": "FALLBACK-OBJ-008",
+      "kind": "image_fallback_3d",
+      "contentIds": [
+        "VIE-10",
+        "VIE-11",
+        "VIE-12"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_objet",
+      "brief": "Rendu 2D de remplacement : Sandale"
+    },
+    {
+      "assetId": "GLB-OBJ-009",
+      "kind": "glb_modele_3d",
+      "contentIds": [
+        "VIE-10",
+        "VIE-11",
+        "VIE-12"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "FALLBACK-OBJ-009",
+      "brief": "Objet 3D candidat : Fuseau"
+    },
+    {
+      "assetId": "FALLBACK-OBJ-009",
+      "kind": "image_fallback_3d",
+      "contentIds": [
+        "VIE-10",
+        "VIE-11",
+        "VIE-12"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_objet",
+      "brief": "Rendu 2D de remplacement : Fuseau"
+    },
+    {
+      "assetId": "GLB-OBJ-010",
+      "kind": "glb_modele_3d",
+      "contentIds": [
+        "VIE-10",
+        "VIE-11",
+        "VIE-12"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "FALLBACK-OBJ-010",
+      "brief": "Objet 3D candidat : Peigne"
+    },
+    {
+      "assetId": "FALLBACK-OBJ-010",
+      "kind": "image_fallback_3d",
+      "contentIds": [
+        "VIE-10",
+        "VIE-11",
+        "VIE-12"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_objet",
+      "brief": "Rendu 2D de remplacement : Peigne"
+    },
+    {
+      "assetId": "GLB-OBJ-011",
+      "kind": "glb_modele_3d",
+      "contentIds": [
+        "VIE-13",
+        "VIE-14",
+        "VIE-15"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "FALLBACK-OBJ-011",
+      "brief": "Objet 3D candidat : Outil de poterie"
+    },
+    {
+      "assetId": "FALLBACK-OBJ-011",
+      "kind": "image_fallback_3d",
+      "contentIds": [
+        "VIE-13",
+        "VIE-14",
+        "VIE-15"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_objet",
+      "brief": "Rendu 2D de remplacement : Outil de poterie"
+    },
+    {
+      "assetId": "GLB-OBJ-012",
+      "kind": "glb_modele_3d",
+      "contentIds": [
+        "VIE-13",
+        "VIE-14",
+        "VIE-15"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "FALLBACK-OBJ-012",
+      "brief": "Objet 3D candidat : Navette de tissage"
+    },
+    {
+      "assetId": "FALLBACK-OBJ-012",
+      "kind": "image_fallback_3d",
+      "contentIds": [
+        "VIE-13",
+        "VIE-14",
+        "VIE-15"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_objet",
+      "brief": "Rendu 2D de remplacement : Navette de tissage"
+    },
+    {
+      "assetId": "GLB-OBJ-013",
+      "kind": "glb_modele_3d",
+      "contentIds": [
+        "VIE-13",
+        "VIE-14",
+        "VIE-15"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "FALLBACK-OBJ-013",
+      "brief": "Objet 3D candidat : Alêne"
+    },
+    {
+      "assetId": "FALLBACK-OBJ-013",
+      "kind": "image_fallback_3d",
+      "contentIds": [
+        "VIE-13",
+        "VIE-14",
+        "VIE-15"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_objet",
+      "brief": "Rendu 2D de remplacement : Alêne"
+    },
+    {
+      "assetId": "GLB-OBJ-014",
+      "kind": "glb_modele_3d",
+      "contentIds": [
+        "VIE-16",
+        "VIE-17",
+        "VIE-18"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "FALLBACK-OBJ-014",
+      "brief": "Objet 3D candidat : Balance"
+    },
+    {
+      "assetId": "FALLBACK-OBJ-014",
+      "kind": "image_fallback_3d",
+      "contentIds": [
+        "VIE-16",
+        "VIE-17",
+        "VIE-18"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_objet",
+      "brief": "Rendu 2D de remplacement : Balance"
+    },
+    {
+      "assetId": "GLB-OBJ-015",
+      "kind": "glb_modele_3d",
+      "contentIds": [
+        "VIE-16",
+        "VIE-17",
+        "VIE-18"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "FALLBACK-OBJ-015",
+      "brief": "Objet 3D candidat : Poids de mesure"
+    },
+    {
+      "assetId": "FALLBACK-OBJ-015",
+      "kind": "image_fallback_3d",
+      "contentIds": [
+        "VIE-16",
+        "VIE-17",
+        "VIE-18"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_objet",
+      "brief": "Rendu 2D de remplacement : Poids de mesure"
+    },
+    {
+      "assetId": "GLB-OBJ-016",
+      "kind": "glb_modele_3d",
+      "contentIds": [
+        "VIE-19",
+        "VIE-20",
+        "VIE-21"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "FALLBACK-OBJ-016",
+      "brief": "Objet 3D candidat : Sac de voyage"
+    },
+    {
+      "assetId": "FALLBACK-OBJ-016",
+      "kind": "image_fallback_3d",
+      "contentIds": [
+        "VIE-19",
+        "VIE-20",
+        "VIE-21"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_objet",
+      "brief": "Rendu 2D de remplacement : Sac de voyage"
+    },
+    {
+      "assetId": "GLB-OBJ-017",
+      "kind": "glb_modele_3d",
+      "contentIds": [
+        "VIE-19",
+        "VIE-20",
+        "VIE-21"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "FALLBACK-OBJ-017",
+      "brief": "Objet 3D candidat : Selle de bât (sans animal)"
+    },
+    {
+      "assetId": "FALLBACK-OBJ-017",
+      "kind": "image_fallback_3d",
+      "contentIds": [
+        "VIE-19",
+        "VIE-20",
+        "VIE-21"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_objet",
+      "brief": "Rendu 2D de remplacement : Selle de bât (sans animal)"
+    },
+    {
+      "assetId": "GLB-OBJ-018",
+      "kind": "glb_modele_3d",
+      "contentIds": [
+        "VIE-19",
+        "VIE-20",
+        "VIE-21"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "FALLBACK-OBJ-018",
+      "brief": "Objet 3D candidat : Coffret de transport"
+    },
+    {
+      "assetId": "FALLBACK-OBJ-018",
+      "kind": "image_fallback_3d",
+      "contentIds": [
+        "VIE-19",
+        "VIE-20",
+        "VIE-21"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_objet",
+      "brief": "Rendu 2D de remplacement : Coffret de transport"
+    },
+    {
+      "assetId": "GLB-OBJ-019",
+      "kind": "glb_modele_3d",
+      "contentIds": [
+        "VIE-22",
+        "VIE-23",
+        "VIE-24"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "FALLBACK-OBJ-019",
+      "brief": "Objet 3D candidat : Encrier"
+    },
+    {
+      "assetId": "FALLBACK-OBJ-019",
+      "kind": "image_fallback_3d",
+      "contentIds": [
+        "VIE-22",
+        "VIE-23",
+        "VIE-24"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_objet",
+      "brief": "Rendu 2D de remplacement : Encrier"
+    },
+    {
+      "assetId": "GLB-OBJ-020",
+      "kind": "glb_modele_3d",
+      "contentIds": [
+        "VIE-22",
+        "VIE-23",
+        "VIE-24"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "FALLBACK-OBJ-020",
+      "brief": "Objet 3D candidat : Tablette d'écriture"
+    },
+    {
+      "assetId": "FALLBACK-OBJ-020",
+      "kind": "image_fallback_3d",
+      "contentIds": [
+        "VIE-22",
+        "VIE-23",
+        "VIE-24"
+      ],
+      "state": "BROUILLON",
+      "source": null,
+      "rights": null,
+      "visualReview": "PENDING",
+      "historicalReview": "PENDING",
+      "humanAndAnimalFreeReview": "PENDING",
+      "fallback": "texte_objet",
+      "brief": "Rendu 2D de remplacement : Tablette d'écriture"
+    }
+  ]
+}

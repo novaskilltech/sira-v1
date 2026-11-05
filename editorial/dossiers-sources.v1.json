@@ -1,0 +1,1579 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-10-29T00:02:17.671Z",
+  "status": "BROUILLON_SANS_PASSAGE",
+  "dossiers": [
+    {
+      "contentId": "CHR-01",
+      "title": "La Mecque : cadre géographique et social",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-02",
+      "title": "Naissance et enfance",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-03",
+      "title": "Jeunesse et activités",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-04",
+      "title": "Vie familiale avant la Révélation",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-05",
+      "title": "Premières révélations",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-06",
+      "title": "Premiers adhérents au message",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-07",
+      "title": "Prédication publique",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-08",
+      "title": "Oppositions et premières épreuves",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-09",
+      "title": "Départs vers l'Abyssinie",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-10",
+      "title": "Boycott et difficultés à La Mecque",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-11",
+      "title": "Année de tristesse et épisode de Taïf",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-12",
+      "title": "Rencontres de Yathrib et engagements d'al-‘Aqaba",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-13",
+      "title": "Départ pour l'Hégire",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-14",
+      "title": "Arrivée à Qubâ' et Médine",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-15",
+      "title": "Mosquée et vie communautaire",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-16",
+      "title": "Organisation sociale et accords à Médine",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-17",
+      "title": "Badr",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-18",
+      "title": "Uhud",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-19",
+      "title": "Épisode du Fossé",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-20",
+      "title": "Accord d'al-Hudaybiyya",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-21",
+      "title": "Entrée à La Mecque",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-22",
+      "title": "Relations et délégations",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-23",
+      "title": "Pèlerinage d'adieu",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-24",
+      "title": "Derniers jours et décès",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_DANS_LES_DEUX_OUVRAGES",
+      "requiredAdditionalSourceTypes": [],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-01",
+      "title": "La Mecque : contexte du départ",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_SANS_INFERENCE_CARTOGRAPHIQUE",
+      "requiredAdditionalSourceTypes": [
+        "source cartographique ou géographique propre au repère",
+        "revue cartographique indépendante pour toute géométrie, distance ou coordonnée"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-02",
+      "title": "Le départ de La Mecque",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_SANS_INFERENCE_CARTOGRAPHIQUE",
+      "requiredAdditionalSourceTypes": [
+        "source cartographique ou géographique propre au repère",
+        "revue cartographique indépendante pour toute géométrie, distance ou coordonnée"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-03",
+      "title": "La grotte de Thawr",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_SANS_INFERENCE_CARTOGRAPHIQUE",
+      "requiredAdditionalSourceTypes": [
+        "source cartographique ou géographique propre au repère",
+        "revue cartographique indépendante pour toute géométrie, distance ou coordonnée"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-04",
+      "title": "Itinéraire vers Yathrib",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_SANS_INFERENCE_CARTOGRAPHIQUE",
+      "requiredAdditionalSourceTypes": [
+        "source cartographique ou géographique propre au repère",
+        "revue cartographique indépendante pour toute géométrie, distance ou coordonnée"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-05",
+      "title": "Arrivée à Qubâ'",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_SANS_INFERENCE_CARTOGRAPHIQUE",
+      "requiredAdditionalSourceTypes": [
+        "source cartographique ou géographique propre au repère",
+        "revue cartographique indépendante pour toute géométrie, distance ou coordonnée"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-06",
+      "title": "Arrivée et installation à Médine",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_SANS_INFERENCE_CARTOGRAPHIQUE",
+      "requiredAdditionalSourceTypes": [
+        "source cartographique ou géographique propre au repère",
+        "revue cartographique indépendante pour toute géométrie, distance ou coordonnée"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-07",
+      "title": "Pourquoi l'Hégire ?",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_SANS_INFERENCE_CARTOGRAPHIQUE",
+      "requiredAdditionalSourceTypes": [
+        "source cartographique ou géographique propre au repère",
+        "revue cartographique indépendante pour toute géométrie, distance ou coordonnée"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-08",
+      "title": "Préparation et organisation du voyage",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_SANS_INFERENCE_CARTOGRAPHIQUE",
+      "requiredAdditionalSourceTypes": [
+        "source cartographique ou géographique propre au repère",
+        "revue cartographique indépendante pour toute géométrie, distance ou coordonnée"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-09",
+      "title": "Conditions et paysages du trajet",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_SANS_INFERENCE_CARTOGRAPHIQUE",
+      "requiredAdditionalSourceTypes": [
+        "source cartographique ou géographique propre au repère",
+        "revue cartographique indépendante pour toute géométrie, distance ou coordonnée"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-10",
+      "title": "Variantes et incertitudes de l'itinéraire",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_SANS_INFERENCE_CARTOGRAPHIQUE",
+      "requiredAdditionalSourceTypes": [
+        "source cartographique ou géographique propre au repère",
+        "revue cartographique indépendante pour toute géométrie, distance ou coordonnée"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-11",
+      "title": "Compagnonnage et entraide",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_SANS_INFERENCE_CARTOGRAPHIQUE",
+      "requiredAdditionalSourceTypes": [
+        "source cartographique ou géographique propre au repère",
+        "revue cartographique indépendante pour toute géométrie, distance ou coordonnée"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-12",
+      "title": "Portée et conséquences de l'Hégire",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "RECIT_A_RECOUPER_SANS_INFERENCE_CARTOGRAPHIQUE",
+      "requiredAdditionalSourceTypes": [
+        "source cartographique ou géographique propre au repère",
+        "revue cartographique indépendante pour toute géométrie, distance ou coordonnée"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-01",
+      "title": "Espaces domestiques",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-02",
+      "title": "Matériaux et construction",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-03",
+      "title": "Éclairage et rangement",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-04",
+      "title": "Denrées et usages",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-05",
+      "title": "Préparation des repas",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-06",
+      "title": "Conservation des aliments",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-07",
+      "title": "Approvisionnement en eau",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-08",
+      "title": "Transport de l'eau",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-09",
+      "title": "Stockage domestique",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-10",
+      "title": "Fibres et matières",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-11",
+      "title": "Confection et entretien",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-12",
+      "title": "Chaussures et accessoires",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-13",
+      "title": "Poterie et récipients",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-14",
+      "title": "Tissage et fabrication",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-15",
+      "title": "Travail du cuir",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-16",
+      "title": "Échanges et marchés",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-17",
+      "title": "Poids et mesures",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-18",
+      "title": "Circulation des produits",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-19",
+      "title": "Préparatifs matériels",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-20",
+      "title": "Transport des effets",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-21",
+      "title": "Orientation et provisions",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-22",
+      "title": "Supports d'écriture",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-23",
+      "title": "Outils et matériaux",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-24",
+      "title": "Usages de la transmission écrite",
+      "state": "A_RELEVER",
+      "targetSources": [
+        "CORPUS-IBN-HISHAM",
+        "CORPUS-AR-RAHEEQ"
+      ],
+      "corpusRole": "CONTEXTE_SIRA_NON_SUFFISANT_POUR_RECONSTITUTION_MATERIELLE",
+      "requiredAdditionalSourceTypes": [
+        "source archéologique, muséale ou historique documentant l’objet",
+        "provenance et droits de toute représentation",
+        "revue spécialisée de la restitution matérielle"
+      ],
+      "passages": [],
+      "requiredForEachPassage": [
+        "sourceId",
+        "copyId",
+        "location",
+        "extractOrReference",
+        "scope",
+        "limitation",
+        "capturedBy",
+        "capturedAt"
+      ],
+      "historicalDecision": null,
+      "publicationAllowed": false
+    }
+  ]
+}

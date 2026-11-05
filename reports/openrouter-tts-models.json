@@ -1,0 +1,293 @@
+{
+  "checkedAt": "2026-10-26T00:19:19.836Z",
+  "models": [
+    {
+      "id": "mistralai/voxtral-mini-tts-3-0",
+      "name": "Mistral: Voxtral TTS 3",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "heygen/heygen-voice-1",
+      "name": "HeyGen: HeyGen Voice",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "heygen/heygen-voice-1-turbo",
+      "name": "HeyGen: HeyGen Voice Turbo",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "fish-audio/drama-3",
+      "name": "Fish Audio: Drama 3",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "elevenlabs/eleven-v4",
+      "name": "ElevenLabs: Eleven v4",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "elevenlabs/eleven-v4-turbo",
+      "name": "ElevenLabs: Eleven v4 Turbo",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "elevenlabs/eleven-v3",
+      "name": "ElevenLabs: Eleven v3",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "elevenlabs/eleven-v3-conversational",
+      "name": "ElevenLabs: Eleven v3 Conversational",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "elevenlabs/eleven-flash-v2.5",
+      "name": "ElevenLabs: Eleven Flash v2.5",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "elevenlabs/eleven-turbo-v2",
+      "name": "ElevenLabs: Eleven Turbo v2",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "elevenlabs/eleven-multilingual-v2",
+      "name": "ElevenLabs: Eleven Multilingual v2",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "elevenlabs/eleven-turbo-v2.5",
+      "name": "ElevenLabs: Eleven Turbo v2.5",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "elevenlabs/eleven-flash-v2",
+      "name": "ElevenLabs: Eleven Flash v2",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "microsoft/mai-voice-2.1-flash",
+      "name": "Microsoft AI: MAI-Voice-2.1-Flash",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "microsoft/mai-voice-2.1",
+      "name": "Microsoft AI: MAI-Voice-2.1",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "bytedance-seed/seed-audio-1-0",
+      "name": "ByteDance Seed: Seed Audio 1.0",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "google/gemini-3.8-flash-lite-tts",
+      "name": "Google: Gemini 3.8 Flash Lite TTS",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "google/gemini-3.8-flash-tts",
+      "name": "Google: Gemini 3.8 Flash TTS",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "deepgram/flux-tts",
+      "name": "Deepgram: Flux TTS",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "fish-audio/s1",
+      "name": "Fish Audio: S1",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "fish-audio/s2-pro",
+      "name": "Fish Audio: S2 Pro",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "fish-audio/s2.1-pro-free:free",
+      "name": "Fish Audio: S2.1 Pro Free (free)",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "fish-audio/s2.1-pro",
+      "name": "Fish Audio: S2.1 Pro",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "microsoft/mai-voice-2-flash",
+      "name": "Microsoft AI: MAI-Voice-2-Flash",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "qwen/qwen-audio-3.0-tts-flash",
+      "name": "Qwen: Qwen-Audio-3.0-TTS Flash",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "qwen/qwen-audio-3.0-tts-plus",
+      "name": "Qwen: Qwen-Audio-3.0-TTS Plus",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "deepgram/aura-2",
+      "name": "Deepgram: Aura-2",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "minimax/speech-2.8-hd",
+      "name": "MiniMax: Speech 2.8 HD",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "minimax/speech-2.8-turbo",
+      "name": "MiniMax: Speech 2.8 Turbo",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "microsoft/mai-voice-2",
+      "name": "Microsoft AI: MAI-Voice-2",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "x-ai/grok-voice-tts-1.0",
+      "name": "SpaceXAI: Grok Voice TTS 1.0",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "google/gemini-3.1-flash-tts-preview",
+      "name": "Google: Gemini 3.1 Flash TTS Preview",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "canopylabs/orpheus-3b-0.1-ft",
+      "name": "Canopy Labs: Orpheus 3B",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "sesame/csm-1b",
+      "name": "Sesame: CSM 1B",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "hexgrad/kokoro-82m",
+      "name": "hexgrad: Kokoro 82M",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "mistralai/voxtral-mini-tts-2603",
+      "name": "Mistral: Voxtral Mini TTS",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    }
+  ]
+}

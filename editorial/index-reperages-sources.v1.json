@@ -1,0 +1,547 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-10-29T06:38:16.578Z",
+  "status": "INDEX_DE_REPERAGE_NON_PUBLIABLE",
+  "entries": [
+    {
+      "contentId": "CHR-01",
+      "title": "La Mecque : cadre géographique et social",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Bulak/Bulaq bibliographic hypothesis and Ar-Raheeq PDF work location.",
+      "researchFile": "docs/RELEVE_PILOTE_CHR01_BULAK_AR_RAHEEQ.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-02",
+      "title": "Naissance et enfance",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; edition-to-transcription equivalence is unverified.",
+      "researchFile": "docs/REPERAGE_SOURCES_CHR02_CHR08_NON_PUBLIABLE.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-03",
+      "title": "Jeunesse et activités",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; edition-to-transcription equivalence is unverified.",
+      "researchFile": "docs/REPERAGE_SOURCES_CHR02_CHR08_NON_PUBLIABLE.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-04",
+      "title": "Vie familiale avant la Révélation",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; edition-to-transcription equivalence is unverified.",
+      "researchFile": "docs/REPERAGE_SOURCES_CHR02_CHR08_NON_PUBLIABLE.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-05",
+      "title": "Premières révélations",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; edition-to-transcription equivalence is unverified.",
+      "researchFile": "docs/REPERAGE_SOURCES_CHR02_CHR08_NON_PUBLIABLE.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-06",
+      "title": "Premiers adhérents au message",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; edition-to-transcription equivalence is unverified.",
+      "researchFile": "docs/REPERAGE_SOURCES_CHR02_CHR08_NON_PUBLIABLE.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-07",
+      "title": "Prédication publique",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; edition-to-transcription equivalence is unverified.",
+      "researchFile": "docs/REPERAGE_SOURCES_CHR02_CHR08_NON_PUBLIABLE.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-08",
+      "title": "Oppositions et premières épreuves",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; edition-to-transcription equivalence is unverified.",
+      "researchFile": "docs/REPERAGE_SOURCES_CHR02_CHR08_NON_PUBLIABLE.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-09",
+      "title": "Départs vers l'Abyssinie",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free PDF and transcription pointers, with explicit gaps requiring collation.",
+      "researchFile": "docs/REPERAGE_CHR09_CHR16_SOURCES_GRATUITES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-10",
+      "title": "Boycott et difficultés à La Mecque",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free PDF and transcription pointers, with explicit gaps requiring collation.",
+      "researchFile": "docs/REPERAGE_CHR09_CHR16_SOURCES_GRATUITES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-11",
+      "title": "Année de tristesse et épisode de Taïf",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free PDF and transcription pointers, with explicit gaps requiring collation.",
+      "researchFile": "docs/REPERAGE_CHR09_CHR16_SOURCES_GRATUITES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-12",
+      "title": "Rencontres de Yathrib et engagements d'al-‘Aqaba",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free PDF and transcription pointers, with explicit gaps requiring collation.",
+      "researchFile": "docs/REPERAGE_CHR09_CHR16_SOURCES_GRATUITES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-13",
+      "title": "Départ pour l'Hégire",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free PDF and transcription pointers, with explicit gaps requiring collation.",
+      "researchFile": "docs/REPERAGE_CHR09_CHR16_SOURCES_GRATUITES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-14",
+      "title": "Arrivée à Qubâ' et Médine",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free PDF and transcription pointers, with explicit gaps requiring collation.",
+      "researchFile": "docs/REPERAGE_CHR09_CHR16_SOURCES_GRATUITES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-15",
+      "title": "Mosquée et vie communautaire",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free PDF and transcription pointers, with explicit gaps requiring collation.",
+      "researchFile": "docs/REPERAGE_CHR09_CHR16_SOURCES_GRATUITES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-16",
+      "title": "Organisation sociale et accords à Médine",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free PDF and transcription pointers, with explicit gaps requiring collation.",
+      "researchFile": "docs/REPERAGE_CHR09_CHR16_SOURCES_GRATUITES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-17",
+      "title": "Badr",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; cartographic and narrative limits remain separate.",
+      "researchFile": "docs/RELEVE_PILOTE_CHR17_24_HEG01_06.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-18",
+      "title": "Uhud",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; cartographic and narrative limits remain separate.",
+      "researchFile": "docs/RELEVE_PILOTE_CHR17_24_HEG01_06.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-19",
+      "title": "Épisode du Fossé",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; cartographic and narrative limits remain separate.",
+      "researchFile": "docs/RELEVE_PILOTE_CHR17_24_HEG01_06.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-20",
+      "title": "Accord d'al-Hudaybiyya",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; cartographic and narrative limits remain separate.",
+      "researchFile": "docs/RELEVE_PILOTE_CHR17_24_HEG01_06.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-21",
+      "title": "Entrée à La Mecque",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; cartographic and narrative limits remain separate.",
+      "researchFile": "docs/RELEVE_PILOTE_CHR17_24_HEG01_06.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-22",
+      "title": "Relations et délégations",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; cartographic and narrative limits remain separate.",
+      "researchFile": "docs/RELEVE_PILOTE_CHR17_24_HEG01_06.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-23",
+      "title": "Pèlerinage d'adieu",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; cartographic and narrative limits remain separate.",
+      "researchFile": "docs/RELEVE_PILOTE_CHR17_24_HEG01_06.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "CHR-24",
+      "title": "Derniers jours et décès",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; cartographic and narrative limits remain separate.",
+      "researchFile": "docs/RELEVE_PILOTE_CHR17_24_HEG01_06.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-01",
+      "title": "La Mecque : contexte du départ",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; cartographic and narrative limits remain separate.",
+      "researchFile": "docs/RELEVE_PILOTE_CHR17_24_HEG01_06.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-02",
+      "title": "Le départ de La Mecque",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; cartographic and narrative limits remain separate.",
+      "researchFile": "docs/RELEVE_PILOTE_CHR17_24_HEG01_06.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-03",
+      "title": "La grotte de Thawr",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; cartographic and narrative limits remain separate.",
+      "researchFile": "docs/RELEVE_PILOTE_CHR17_24_HEG01_06.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-04",
+      "title": "Itinéraire vers Yathrib",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; cartographic and narrative limits remain separate.",
+      "researchFile": "docs/RELEVE_PILOTE_CHR17_24_HEG01_06.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-05",
+      "title": "Arrivée à Qubâ'",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; cartographic and narrative limits remain separate.",
+      "researchFile": "docs/RELEVE_PILOTE_CHR17_24_HEG01_06.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-ETP-06",
+      "title": "Arrivée et installation à Médine",
+      "status": "REPERAGE_DISPONIBLE_NON_VALIDE",
+      "note": "Free online section pointers; cartographic and narrative limits remain separate.",
+      "researchFile": "docs/RELEVE_PILOTE_CHR17_24_HEG01_06.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-07",
+      "title": "Pourquoi l'Hégire ?",
+      "status": "A_RELEVER",
+      "note": "No passage lead yet; use the two books for narrative context only and keep geometry absent.",
+      "researchFile": null,
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-08",
+      "title": "Préparation et organisation du voyage",
+      "status": "A_RELEVER",
+      "note": "No passage lead yet; use the two books for narrative context only and keep geometry absent.",
+      "researchFile": null,
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-09",
+      "title": "Conditions et paysages du trajet",
+      "status": "A_RELEVER",
+      "note": "No passage lead yet; use the two books for narrative context only and keep geometry absent.",
+      "researchFile": null,
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-10",
+      "title": "Variantes et incertitudes de l'itinéraire",
+      "status": "A_RELEVER",
+      "note": "No passage lead yet; use the two books for narrative context only and keep geometry absent.",
+      "researchFile": null,
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-11",
+      "title": "Compagnonnage et entraide",
+      "status": "A_RELEVER",
+      "note": "No passage lead yet; use the two books for narrative context only and keep geometry absent.",
+      "researchFile": null,
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "HEG-DOS-12",
+      "title": "Portée et conséquences de l'Hégire",
+      "status": "A_RELEVER",
+      "note": "No passage lead yet; use the two books for narrative context only and keep geometry absent.",
+      "researchFile": null,
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-01",
+      "title": "Espaces domestiques",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-02",
+      "title": "Matériaux et construction",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-03",
+      "title": "Éclairage et rangement",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-04",
+      "title": "Denrées et usages",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-05",
+      "title": "Préparation des repas",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-06",
+      "title": "Conservation des aliments",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-07",
+      "title": "Approvisionnement en eau",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-08",
+      "title": "Transport de l'eau",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-09",
+      "title": "Stockage domestique",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-10",
+      "title": "Fibres et matières",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-11",
+      "title": "Confection et entretien",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-12",
+      "title": "Chaussures et accessoires",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-13",
+      "title": "Poterie et récipients",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-14",
+      "title": "Tissage et fabrication",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-15",
+      "title": "Travail du cuir",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-16",
+      "title": "Échanges et marchés",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-17",
+      "title": "Poids et mesures",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-18",
+      "title": "Circulation des produits",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-19",
+      "title": "Préparatifs matériels",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-20",
+      "title": "Transport des effets",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-21",
+      "title": "Orientation et provisions",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-22",
+      "title": "Supports d'écriture",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-23",
+      "title": "Outils et matériaux",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    },
+    {
+      "contentId": "VIE-24",
+      "title": "Usages de la transmission écrite",
+      "status": "SOURCES_MATERIELLES_COMPLEMENTAIRES_REQUISES",
+      "note": "The two sira books are context only; an object-specific archaeological, museum or historical source is required.",
+      "researchFile": "docs/COUVERTURE_CORPUS_DEUX_OUVRAGES.md",
+      "claimIds": [],
+      "publicationAllowed": false
+    }
+  ]
+}

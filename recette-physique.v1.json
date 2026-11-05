@@ -1,0 +1,881 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-10-28T23:37:56.069Z",
+  "status": "A_REALISER_SUR_APPAREILS_REELS",
+  "checks": [
+    {
+      "id": "AC-001",
+      "priority": "P0",
+      "objective": "Accueil sans compte",
+      "procedure": "Ouvrir '/' en navigation privée FR puis AR; vérifier tuiles et aucun compte",
+      "environment": "tablette+téléphone",
+      "expectedEvidence": "Capture accueil FR/AR; réseau sans auth",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-002",
+      "priority": "P0",
+      "objective": "Trois espaces",
+      "procedure": "Naviguer ACC vers CHR HEG VIE et retour sans ordre imposé",
+      "environment": "FR/AR",
+      "expectedEvidence": "Vidéos courtes des 6 parcours",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-003",
+      "priority": "P0",
+      "objective": "Frise 24/6",
+      "procedure": "Comparer nombre et IDs CHR-01..24, ouvrir 3 périodes sur 2 langues",
+      "environment": "FR/AR",
+      "expectedEvidence": "Sortie validateur + captures",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-004",
+      "priority": "P0",
+      "objective": "Hégire 6+6",
+      "procedure": "Ouvrir 6 HEG-ETP et 6 HEG-DOS; aucun pin de dossier",
+      "environment": "FR/AR",
+      "expectedEvidence": "Captures carte et liste",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-005",
+      "priority": "P0",
+      "objective": "Vie 24/8",
+      "procedure": "Lister 8 thèmes, 3 fiches par thème, vérifier ids VIE-01..24",
+      "environment": "FR/AR",
+      "expectedEvidence": "Rapport comptage",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-006",
+      "priority": "P0",
+      "objective": "Textes bilingues",
+      "procedure": "Vérifier 60 IDs ont FR/AR avec sections et approbations",
+      "environment": "CI build prod",
+      "expectedEvidence": "Rapport export de 120 textes APPROUVE",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-007",
+      "priority": "P0",
+      "objective": "Références",
+      "procedure": "Contrôler registre source et légende de chaque fiche, 60/60",
+      "environment": "CI+QA éditorial",
+      "expectedEvidence": "Export registre attesté",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-008",
+      "priority": "P0",
+      "objective": "Audio 120",
+      "procedure": "Vérifier présence 120 fichiers, durée 180..300 s mesurée, hash et approbation",
+      "environment": "CI+2 appareils",
+      "expectedEvidence": "Rapport durées, écoute échantillon",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-009",
+      "priority": "P0",
+      "objective": "Pas autoplay",
+      "procedure": "Ouvrir écran, changer langue, orientation, verrouiller et revenir",
+      "environment": "Safari+Chrome",
+      "expectedEvidence": "Capture logs événement playback",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-010",
+      "priority": "P0",
+      "objective": "Audio exclusif",
+      "procedure": "Démarrer piste A puis demander B; une seule audible",
+      "environment": "2 appareils",
+      "expectedEvidence": "Logs joueur actif unique",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-011",
+      "priority": "P0",
+      "objective": "Contrôles audio",
+      "procedure": "Play, pause, seek, durée, reprise par fiche/langue",
+      "environment": "FR/AR",
+      "expectedEvidence": "Vidéo de tests",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-012",
+      "priority": "P0",
+      "objective": "FR/AR reprise",
+      "procedure": "Changer langue à mi-section, vérifier pause et section équivalente",
+      "environment": "iPad+Android",
+      "expectedEvidence": "Capture positions séparées",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-013",
+      "priority": "P0",
+      "objective": "Rotation",
+      "procedure": "Faire pivoter en CHR/HEG/VIE avec audio et sélection",
+      "environment": "iPad+Android",
+      "expectedEvidence": "Enregistrement état avant/après",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-014",
+      "priority": "P0",
+      "objective": "Sans son",
+      "procedure": "Couper volume, désactiver animation; terminer fiches textuellement",
+      "environment": "tablette+téléphone",
+      "expectedEvidence": "Feuille résultat",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-015",
+      "priority": "P0",
+      "objective": "20 GLB",
+      "procedure": "Ouvrir et manipuler 20 modèles, reset et zoom",
+      "environment": "iPad+Android",
+      "expectedEvidence": "20 rapports mini FPS",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-016",
+      "priority": "P0",
+      "objective": "Fallback 3D",
+      "procedure": "Simuler WebGL indisponible et GLB 404",
+      "environment": "Chrome/Safari",
+      "expectedEvidence": "Capture image fallback",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-017",
+      "priority": "P0",
+      "objective": "Carte actions",
+      "procedure": "Touch repère/liste idem, +/- et recentrer sans pinch",
+      "environment": "iPad+Android",
+      "expectedEvidence": "Vidéo interaction",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-018",
+      "priority": "P0",
+      "objective": "Animation manuelle",
+      "procedure": "Voir parcours play, pause, rejouer, reduced motion",
+      "environment": "iPad+Android",
+      "expectedEvidence": "Vidéo à état contrôlé",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-019",
+      "priority": "P0",
+      "objective": "Incertitude Hégire",
+      "procedure": "Vérifier types zone/corridor, légendes visibles FR/AR",
+      "environment": "QA historique",
+      "expectedEvidence": "Capture et note spécialiste",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-020",
+      "priority": "P0",
+      "objective": "Absence humaine",
+      "procedure": "Inspection manuelle exhaustive visuels, 3D et vidéos",
+      "environment": "tous médias production",
+      "expectedEvidence": "Registre revue visuelle signé",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-021",
+      "priority": "P0",
+      "objective": "RTL non miroir",
+      "procedure": "Comparer FR/AR positions géographiques, ordre panneaux, bidi",
+      "environment": "iPad+Android",
+      "expectedEvidence": "Captures superposées",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-022",
+      "priority": "P0",
+      "objective": "Zones tactiles",
+      "procedure": "Inspecter commandes essentielles >= 48x48 CSS px",
+      "environment": "viewports min+tablettes",
+      "expectedEvidence": "Rapport DOM et QA tactile",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-023",
+      "priority": "P0",
+      "objective": "Accessibilité",
+      "procedure": "Contraste, texte 200%, focus, VoiceOver/TalkBack, reduced motion",
+      "environment": "iPad+Android+clavier",
+      "expectedEvidence": "Audit WCAG",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-024",
+      "priority": "P0",
+      "objective": "Erreurs et réseau",
+      "procedure": "Simuler échecs image/carte/audio/glb et offline; réessayer",
+      "environment": "8 Mbps+offline",
+      "expectedEvidence": "Capture zéro page blanche",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-025",
+      "priority": "P0",
+      "objective": "Performances",
+      "procedure": "Profil LCP/INP/CLS, GLB FPS 30s, poids des assets",
+      "environment": "WiFi profil et matériels réf",
+      "expectedEvidence": "Rapport 5 essais et fps",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-026",
+      "priority": "P0",
+      "objective": "Mentions",
+      "procedure": "Vérifier éditeur, crédits, licence, contact, confidentialité",
+      "environment": "prod pré-release",
+      "expectedEvidence": "Checklist légale",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-027",
+      "priority": "P0",
+      "objective": "Gate publication",
+      "procedure": "Injecter un contenu DEMO et voir échec CI; approuvé passe",
+      "environment": "CI",
+      "expectedEvidence": "Logs de build rouge/vert",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-028",
+      "priority": "P0",
+      "objective": "Vie privée",
+      "procedure": "Inspecter stockage, requests, cookies, collecte et logs",
+      "environment": "navigateur/devtools",
+      "expectedEvidence": "Rapport sans tracking tiers",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-029",
+      "priority": "P0",
+      "objective": "Sécurité",
+      "procedure": "Scanner dépendances/secrets, CSP, invalid input to manifest",
+      "environment": "CI et audit",
+      "expectedEvidence": "Rapport vérification",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "AC-030",
+      "priority": "P0",
+      "objective": "Handoff",
+      "procedure": "Cloner, installer, build, test, deploy et rollback avec instructions",
+      "environment": "machine vierge",
+      "expectedEvidence": "Compte rendu recette exploitation",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "HEG-AC-01",
+      "priority": "P0",
+      "objective": "Ouverture carte sans lecture",
+      "procedure": "Ouvrir HEG sur 2 langues; aucune piste ou animation démarre",
+      "environment": "tablette+iPhone+Android FR/AR",
+      "expectedEvidence": "Capture / log résultat",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "HEG-AC-02",
+      "priority": "P0",
+      "objective": "Sélection par carte/liste",
+      "procedure": "Toucher un repère et sa ligne; comparer ID sélectionné",
+      "environment": "tablette+iPhone+Android FR/AR",
+      "expectedEvidence": "Capture / log résultat",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "HEG-AC-03",
+      "priority": "P0",
+      "objective": "Dossier sans géoloc",
+      "procedure": "Ouvrir HEG-DOS-07..12; aucun pin artificiel",
+      "environment": "tablette+iPhone+Android FR/AR",
+      "expectedEvidence": "Capture / log résultat",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "HEG-AC-04",
+      "priority": "P0",
+      "objective": "Fiche complète",
+      "procedure": "Thawr fournit titre, récit, sources, audio, incertitude",
+      "environment": "tablette+iPhone+Android FR/AR",
+      "expectedEvidence": "Capture / log résultat",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "HEG-AC-05",
+      "priority": "P0",
+      "objective": "Tracé contrôlé",
+      "procedure": "Play / pause / rejouer et états finaux",
+      "environment": "tablette+iPhone+Android FR/AR",
+      "expectedEvidence": "Capture / log résultat",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "HEG-AC-06",
+      "priority": "P0",
+      "objective": "Incertitude",
+      "procedure": "Trajet indicatif plus légende textuelle non color-only",
+      "environment": "tablette+iPhone+Android FR/AR",
+      "expectedEvidence": "Capture / log résultat",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "HEG-AC-07",
+      "priority": "P0",
+      "objective": "Audio",
+      "procedure": "Temps, seek, pause et lecture demande seulement",
+      "environment": "tablette+iPhone+Android FR/AR",
+      "expectedEvidence": "Capture / log résultat",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "HEG-AC-08",
+      "priority": "P0",
+      "objective": "Pas auto son",
+      "procedure": "Changer étape/langue, aucun nouveau son",
+      "environment": "tablette+iPhone+Android FR/AR",
+      "expectedEvidence": "Capture / log résultat",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "HEG-AC-09",
+      "priority": "P0",
+      "objective": "Rotation",
+      "procedure": "Rotation maintient sélection/zoom/section/position",
+      "environment": "tablette+iPhone+Android FR/AR",
+      "expectedEvidence": "Capture / log résultat",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "HEG-AC-10",
+      "priority": "P0",
+      "objective": "RTL",
+      "procedure": "Géographie non miroir, interface arabe fluide",
+      "environment": "tablette+iPhone+Android FR/AR",
+      "expectedEvidence": "Capture / log résultat",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "HEG-AC-11",
+      "priority": "P0",
+      "objective": "Zoom alternatif",
+      "procedure": "Utiliser +/- et reset sans pinch",
+      "environment": "tablette+iPhone+Android FR/AR",
+      "expectedEvidence": "Capture / log résultat",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "HEG-AC-12",
+      "priority": "P0",
+      "objective": "Sans média",
+      "procedure": "Lire textes et références sans audio/animation",
+      "environment": "tablette+iPhone+Android FR/AR",
+      "expectedEvidence": "Capture / log résultat",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "HEG-AC-13",
+      "priority": "P0",
+      "objective": "Défaillance",
+      "procedure": "Simuler carte/audio KO, liste et texte disponibles",
+      "environment": "tablette+iPhone+Android FR/AR",
+      "expectedEvidence": "Capture / log résultat",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "HEG-AC-14",
+      "priority": "P0",
+      "objective": "Mouvements réduits",
+      "procedure": "Tracé statique ou séquencé accessible",
+      "environment": "tablette+iPhone+Android FR/AR",
+      "expectedEvidence": "Capture / log résultat",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "HEG-AC-15",
+      "priority": "P0",
+      "objective": "Publication",
+      "procedure": "Rejeter image/itinéraire non approuvé en prod",
+      "environment": "tablette+iPhone+Android FR/AR",
+      "expectedEvidence": "Capture / log résultat",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    },
+    {
+      "id": "HEG-AC-16",
+      "priority": "P0",
+      "objective": "Responsive",
+      "procedure": "Portrait/paysage tablette/téléphone sans coupure",
+      "environment": "tablette+iPhone+Android FR/AR",
+      "expectedEvidence": "Capture / log résultat",
+      "execution": {
+        "status": "NON_EXECUTE",
+        "executedAt": null,
+        "device": null,
+        "osVersion": null,
+        "browserOrAssistiveTechnology": null,
+        "testerId": null,
+        "evidencePaths": [],
+        "notes": null
+      },
+      "publicationAllowed": false
+    }
+  ]
+}

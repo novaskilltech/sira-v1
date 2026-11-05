@@ -1,0 +1,61 @@
+﻿id,space,type,group,title,cartography,objects,status,image_refs,animation_refs,audio_fr_id,audio_ar_id,langues,references,historique_valide,juridique_valide
+CHR-01,chronologie,evenement,Contexte mecquois,La Mecque : cadre géographique et social,selon besoin,,A_RECHERCHER,IMG-CHR-01,,AUD-CHR-01-FR,AUD-CHR-01-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-02,chronologie,evenement,Contexte mecquois,Naissance et enfance,selon besoin,,A_RECHERCHER,IMG-CHR-02,,AUD-CHR-02-FR,AUD-CHR-02-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-03,chronologie,evenement,Contexte mecquois,Jeunesse et activités,selon besoin,,A_RECHERCHER,IMG-CHR-03,,AUD-CHR-03-FR,AUD-CHR-03-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-04,chronologie,evenement,Contexte mecquois,Vie familiale avant la Révélation,selon besoin,,A_RECHERCHER,IMG-CHR-04,,AUD-CHR-04-FR,AUD-CHR-04-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-05,chronologie,evenement,Débuts de la Révélation,Premières révélations,selon besoin,,A_RECHERCHER,IMG-CHR-05,ANI-001,AUD-CHR-05-FR,AUD-CHR-05-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-06,chronologie,evenement,Débuts de la Révélation,Premiers adhérents au message,selon besoin,,A_RECHERCHER,IMG-CHR-06,,AUD-CHR-06-FR,AUD-CHR-06-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-07,chronologie,evenement,Débuts de la Révélation,Prédication publique,selon besoin,,A_RECHERCHER,IMG-CHR-07,,AUD-CHR-07-FR,AUD-CHR-07-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-08,chronologie,evenement,Débuts de la Révélation,Oppositions et premières épreuves,selon besoin,,A_RECHERCHER,IMG-CHR-08,,AUD-CHR-08-FR,AUD-CHR-08-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-09,chronologie,evenement,Avant l'Hégire,Départs vers l'Abyssinie,selon besoin,,A_RECHERCHER,IMG-CHR-09,ANI-002,AUD-CHR-09-FR,AUD-CHR-09-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-10,chronologie,evenement,Avant l'Hégire,Boycott et difficultés à La Mecque,selon besoin,,A_RECHERCHER,IMG-CHR-10,,AUD-CHR-10-FR,AUD-CHR-10-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-11,chronologie,evenement,Avant l'Hégire,Année de tristesse et épisode de Taïf,selon besoin,,A_RECHERCHER,IMG-CHR-11,,AUD-CHR-11-FR,AUD-CHR-11-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-12,chronologie,evenement,Avant l'Hégire,Rencontres de Yathrib et engagements d'al-‘Aqaba,selon besoin,,A_RECHERCHER,IMG-CHR-12,,AUD-CHR-12-FR,AUD-CHR-12-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-13,chronologie,evenement,Installation à Médine,Départ pour l'Hégire,selon besoin,,A_RECHERCHER,IMG-CHR-13,ANI-003,AUD-CHR-13-FR,AUD-CHR-13-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-14,chronologie,evenement,Installation à Médine,Arrivée à Qubâ' et Médine,selon besoin,,A_RECHERCHER,IMG-CHR-14,,AUD-CHR-14-FR,AUD-CHR-14-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-15,chronologie,evenement,Installation à Médine,Mosquée et vie communautaire,selon besoin,,A_RECHERCHER,IMG-CHR-15,,AUD-CHR-15-FR,AUD-CHR-15-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-16,chronologie,evenement,Installation à Médine,Organisation sociale et accords à Médine,selon besoin,,A_RECHERCHER,IMG-CHR-16,,AUD-CHR-16-FR,AUD-CHR-16-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-17,chronologie,evenement,Épreuves médinoises,Badr,selon besoin,,A_RECHERCHER,IMG-CHR-17,ANI-004,AUD-CHR-17-FR,AUD-CHR-17-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-18,chronologie,evenement,Épreuves médinoises,Uhud,selon besoin,,A_RECHERCHER,IMG-CHR-18,,AUD-CHR-18-FR,AUD-CHR-18-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-19,chronologie,evenement,Épreuves médinoises,Épisode du Fossé,selon besoin,,A_RECHERCHER,IMG-CHR-19,,AUD-CHR-19-FR,AUD-CHR-19-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-20,chronologie,evenement,Épreuves médinoises,Accord d'al-Hudaybiyya,selon besoin,,A_RECHERCHER,IMG-CHR-20,,AUD-CHR-20-FR,AUD-CHR-20-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-21,chronologie,evenement,Dernières années,Entrée à La Mecque,selon besoin,,A_RECHERCHER,IMG-CHR-21,,AUD-CHR-21-FR,AUD-CHR-21-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-22,chronologie,evenement,Dernières années,Relations et délégations,selon besoin,,A_RECHERCHER,IMG-CHR-22,,AUD-CHR-22-FR,AUD-CHR-22-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-23,chronologie,evenement,Dernières années,Pèlerinage d'adieu,selon besoin,,A_RECHERCHER,IMG-CHR-23,ANI-005,AUD-CHR-23-FR,AUD-CHR-23-AR,fr;ar,A_DOCUMENTER,NON,NON
+CHR-24,chronologie,evenement,Dernières années,Derniers jours et décès,selon besoin,,A_RECHERCHER,IMG-CHR-24,,AUD-CHR-24-FR,AUD-CHR-24-AR,fr;ar,A_DOCUMENTER,NON,NON
+HEG-ETP-01,hegire,sequence,Parcours,La Mecque : contexte du départ,repère général,,A_RECHERCHER,IMG-HEG-ETP-01,ANI-006,AUD-HEG-ETP-01-FR,AUD-HEG-ETP-01-AR,fr;ar,A_DOCUMENTER,NON,NON
+HEG-ETP-02,hegire,sequence,Parcours,Le départ de La Mecque,épisode; point de sortie non supposé exact,,A_RECHERCHER,IMG-HEG-ETP-02,,AUD-HEG-ETP-02-FR,AUD-HEG-ETP-02-AR,fr;ar,A_DOCUMENTER,NON,NON
+HEG-ETP-03,hegire,sequence,Parcours,La grotte de Thawr,site à documenter,,A_RECHERCHER,IMG-HEG-ETP-03,ANI-007,AUD-HEG-ETP-03-FR,AUD-HEG-ETP-03-AR,fr;ar,A_DOCUMENTER,NON,NON
+HEG-ETP-04,hegire,sequence,Parcours,Itinéraire vers Yathrib,corridor incertain; aucune trace GPS supposée,,A_RECHERCHER,IMG-HEG-ETP-04,ANI-008,AUD-HEG-ETP-04-FR,AUD-HEG-ETP-04-AR,fr;ar,A_DOCUMENTER,NON,NON
+HEG-ETP-05,hegire,sequence,Parcours,Arrivée à Qubâ',repère à documenter,,A_RECHERCHER,IMG-HEG-ETP-05,ANI-009,AUD-HEG-ETP-05-FR,AUD-HEG-ETP-05-AR,fr;ar,A_DOCUMENTER,NON,NON
+HEG-ETP-06,hegire,sequence,Parcours,Arrivée et installation à Médine,repère général,,A_RECHERCHER,IMG-HEG-ETP-06,,AUD-HEG-ETP-06-FR,AUD-HEG-ETP-06-AR,fr;ar,A_DOCUMENTER,NON,NON
+HEG-DOS-07,hegire,dossier,Dossiers,Pourquoi l'Hégire ?,sans repère,,A_RECHERCHER,IMG-HEG-DOS-07,,AUD-HEG-DOS-07-FR,AUD-HEG-DOS-07-AR,fr;ar,A_DOCUMENTER,NON,NON
+HEG-DOS-08,hegire,dossier,Dossiers,Préparation et organisation du voyage,sans repère,,A_RECHERCHER,,,AUD-HEG-DOS-08-FR,AUD-HEG-DOS-08-AR,fr;ar,A_DOCUMENTER,NON,NON
+HEG-DOS-09,hegire,dossier,Dossiers,Conditions et paysages du trajet,sans repère,,A_RECHERCHER,IMG-HEG-DOS-09,,AUD-HEG-DOS-09-FR,AUD-HEG-DOS-09-AR,fr;ar,A_DOCUMENTER,NON,NON
+HEG-DOS-10,hegire,dossier,Dossiers,Variantes et incertitudes de l'itinéraire,sans repère,,A_RECHERCHER,IMG-HEG-DOS-10,,AUD-HEG-DOS-10-FR,AUD-HEG-DOS-10-AR,fr;ar,A_DOCUMENTER,NON,NON
+HEG-DOS-11,hegire,dossier,Dossiers,Compagnonnage et entraide,sans représentation humaine,,A_RECHERCHER,,,AUD-HEG-DOS-11-FR,AUD-HEG-DOS-11-AR,fr;ar,A_DOCUMENTER,NON,NON
+HEG-DOS-12,hegire,dossier,Dossiers,Portée et conséquences de l'Hégire,sans repère,,A_RECHERCHER,,,AUD-HEG-DOS-12-FR,AUD-HEG-DOS-12-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-01,vie_quotidienne,theme,Habitat,Espaces domestiques,sans objet,OBJ-001;OBJ-002;OBJ-003,A_RECHERCHER,IMG-VIE-THEME-01,,AUD-VIE-01-FR,AUD-VIE-01-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-02,vie_quotidienne,theme,Habitat,Matériaux et construction,sans objet,OBJ-001;OBJ-002;OBJ-003,A_RECHERCHER,IMG-VIE-THEME-01,,AUD-VIE-02-FR,AUD-VIE-02-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-03,vie_quotidienne,theme,Habitat,Éclairage et rangement,sans objet,OBJ-001;OBJ-002;OBJ-003,A_RECHERCHER,IMG-VIE-THEME-01,,AUD-VIE-03-FR,AUD-VIE-03-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-04,vie_quotidienne,theme,Alimentation,Denrées et usages,sans objet,OBJ-004;OBJ-005,A_RECHERCHER,IMG-VIE-THEME-02,,AUD-VIE-04-FR,AUD-VIE-04-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-05,vie_quotidienne,theme,Alimentation,Préparation des repas,sans objet,OBJ-004;OBJ-005,A_RECHERCHER,IMG-VIE-THEME-02;IMG-VIE-DETAIL-05,ANI-010,AUD-VIE-05-FR,AUD-VIE-05-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-06,vie_quotidienne,theme,Alimentation,Conservation des aliments,sans objet,OBJ-004;OBJ-005,A_RECHERCHER,IMG-VIE-THEME-02,,AUD-VIE-06-FR,AUD-VIE-06-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-07,vie_quotidienne,theme,Eau et stockage,Approvisionnement en eau,sans objet,OBJ-006;OBJ-007,A_RECHERCHER,IMG-VIE-THEME-03,,AUD-VIE-07-FR,AUD-VIE-07-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-08,vie_quotidienne,theme,Eau et stockage,Transport de l'eau,sans objet,OBJ-006;OBJ-007,A_RECHERCHER,IMG-VIE-THEME-03;IMG-VIE-DETAIL-08,ANI-011,AUD-VIE-08-FR,AUD-VIE-08-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-09,vie_quotidienne,theme,Eau et stockage,Stockage domestique,sans objet,OBJ-006;OBJ-007,A_RECHERCHER,IMG-VIE-THEME-03,,AUD-VIE-09-FR,AUD-VIE-09-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-10,vie_quotidienne,theme,Vêtements et textiles,Fibres et matières,sans objet,OBJ-008;OBJ-009;OBJ-010,A_RECHERCHER,IMG-VIE-THEME-04,,AUD-VIE-10-FR,AUD-VIE-10-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-11,vie_quotidienne,theme,Vêtements et textiles,Confection et entretien,sans objet,OBJ-008;OBJ-009;OBJ-010,A_RECHERCHER,IMG-VIE-THEME-04,,AUD-VIE-11-FR,AUD-VIE-11-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-12,vie_quotidienne,theme,Vêtements et textiles,Chaussures et accessoires,sans objet,OBJ-008;OBJ-009;OBJ-010,A_RECHERCHER,IMG-VIE-THEME-04,,AUD-VIE-12-FR,AUD-VIE-12-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-13,vie_quotidienne,theme,Artisanat,Poterie et récipients,sans objet,OBJ-011;OBJ-012;OBJ-013,A_RECHERCHER,IMG-VIE-THEME-05;IMG-VIE-DETAIL-13,ANI-012,AUD-VIE-13-FR,AUD-VIE-13-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-14,vie_quotidienne,theme,Artisanat,Tissage et fabrication,sans objet,OBJ-011;OBJ-012;OBJ-013,A_RECHERCHER,IMG-VIE-THEME-05,,AUD-VIE-14-FR,AUD-VIE-14-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-15,vie_quotidienne,theme,Artisanat,Travail du cuir,sans objet,OBJ-011;OBJ-012;OBJ-013,A_RECHERCHER,IMG-VIE-THEME-05,,AUD-VIE-15-FR,AUD-VIE-15-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-16,vie_quotidienne,theme,Commerce et mesures,Échanges et marchés,sans objet,OBJ-014;OBJ-015,A_RECHERCHER,IMG-VIE-THEME-06,ANI-013,AUD-VIE-16-FR,AUD-VIE-16-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-17,vie_quotidienne,theme,Commerce et mesures,Poids et mesures,sans objet,OBJ-014;OBJ-015,A_RECHERCHER,IMG-VIE-THEME-06,,AUD-VIE-17-FR,AUD-VIE-17-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-18,vie_quotidienne,theme,Commerce et mesures,Circulation des produits,sans objet,OBJ-014;OBJ-015,A_RECHERCHER,IMG-VIE-THEME-06,,AUD-VIE-18-FR,AUD-VIE-18-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-19,vie_quotidienne,theme,Voyage et équipements,Préparatifs matériels,sans objet,OBJ-016;OBJ-017;OBJ-018,A_RECHERCHER,IMG-VIE-THEME-07,,AUD-VIE-19-FR,AUD-VIE-19-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-20,vie_quotidienne,theme,Voyage et équipements,Transport des effets,sans objet,OBJ-016;OBJ-017;OBJ-018,A_RECHERCHER,IMG-VIE-THEME-07,,AUD-VIE-20-FR,AUD-VIE-20-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-21,vie_quotidienne,theme,Voyage et équipements,Orientation et provisions,sans objet,OBJ-016;OBJ-017;OBJ-018,A_RECHERCHER,IMG-VIE-THEME-07,,AUD-VIE-21-FR,AUD-VIE-21-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-22,vie_quotidienne,theme,Écriture et transmission,Supports d'écriture,sans objet,OBJ-019;OBJ-020,A_RECHERCHER,IMG-VIE-THEME-08,,AUD-VIE-22-FR,AUD-VIE-22-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-23,vie_quotidienne,theme,Écriture et transmission,Outils et matériaux,sans objet,OBJ-019;OBJ-020,A_RECHERCHER,IMG-VIE-THEME-08;IMG-VIE-DETAIL-23,ANI-014,AUD-VIE-23-FR,AUD-VIE-23-AR,fr;ar,A_DOCUMENTER,NON,NON
+VIE-24,vie_quotidienne,theme,Écriture et transmission,Usages de la transmission écrite,sans objet,OBJ-019;OBJ-020,A_RECHERCHER,IMG-VIE-THEME-08,,AUD-VIE-24-FR,AUD-VIE-24-AR,fr;ar,A_DOCUMENTER,NON,NON

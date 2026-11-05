@@ -1,0 +1,47 @@
+﻿id,priorite,objectif,procedure,environnement,preuve_attendue,statut_initial
+AC-001,P0,Accueil sans compte,Ouvrir '/' en navigation privée FR puis AR; vérifier tuiles et aucun compte,tablette+téléphone,Capture accueil FR/AR; réseau sans auth,NON_EXECUTE
+AC-002,P0,Trois espaces,Naviguer ACC vers CHR HEG VIE et retour sans ordre imposé,FR/AR,Vidéos courtes des 6 parcours,NON_EXECUTE
+AC-003,P0,Frise 24/6,"Comparer nombre et IDs CHR-01..24, ouvrir 3 périodes sur 2 langues",FR/AR,Sortie validateur + captures,NON_EXECUTE
+AC-004,P0,Hégire 6+6,Ouvrir 6 HEG-ETP et 6 HEG-DOS; aucun pin de dossier,FR/AR,Captures carte et liste,NON_EXECUTE
+AC-005,P0,Vie 24/8,"Lister 8 thèmes, 3 fiches par thème, vérifier ids VIE-01..24",FR/AR,Rapport comptage,NON_EXECUTE
+AC-006,P0,Textes bilingues,Vérifier 60 IDs ont FR/AR avec sections et approbations,CI build prod,Rapport export de 120 textes APPROUVE,NON_EXECUTE
+AC-007,P0,Références,"Contrôler registre source et légende de chaque fiche, 60/60",CI+QA éditorial,Export registre attesté,NON_EXECUTE
+AC-008,P0,Audio 120,"Vérifier présence 120 fichiers, durée 180..300 s mesurée, hash et approbation",CI+2 appareils,"Rapport durées, écoute échantillon",NON_EXECUTE
+AC-009,P0,Pas autoplay,"Ouvrir écran, changer langue, orientation, verrouiller et revenir",Safari+Chrome,Capture logs événement playback,NON_EXECUTE
+AC-010,P0,Audio exclusif,Démarrer piste A puis demander B; une seule audible,2 appareils,Logs joueur actif unique,NON_EXECUTE
+AC-011,P0,Contrôles audio,"Play, pause, seek, durée, reprise par fiche/langue",FR/AR,Vidéo de tests,NON_EXECUTE
+AC-012,P0,FR/AR reprise,"Changer langue à mi-section, vérifier pause et section équivalente",iPad+Android,Capture positions séparées,NON_EXECUTE
+AC-013,P0,Rotation,Faire pivoter en CHR/HEG/VIE avec audio et sélection,iPad+Android,Enregistrement état avant/après,NON_EXECUTE
+AC-014,P0,Sans son,"Couper volume, désactiver animation; terminer fiches textuellement",tablette+téléphone,Feuille résultat,NON_EXECUTE
+AC-015,P0,20 GLB,"Ouvrir et manipuler 20 modèles, reset et zoom",iPad+Android,20 rapports mini FPS,NON_EXECUTE
+AC-016,P0,Fallback 3D,Simuler WebGL indisponible et GLB 404,Chrome/Safari,Capture image fallback,NON_EXECUTE
+AC-017,P0,Carte actions,"Touch repère/liste idem, +/- et recentrer sans pinch",iPad+Android,Vidéo interaction,NON_EXECUTE
+AC-018,P0,Animation manuelle,"Voir parcours play, pause, rejouer, reduced motion",iPad+Android,Vidéo à état contrôlé,NON_EXECUTE
+AC-019,P0,Incertitude Hégire,"Vérifier types zone/corridor, légendes visibles FR/AR",QA historique,Capture et note spécialiste,NON_EXECUTE
+AC-020,P0,Absence humaine,"Inspection manuelle exhaustive visuels, 3D et vidéos",tous médias production,Registre revue visuelle signé,NON_EXECUTE
+AC-021,P0,RTL non miroir,"Comparer FR/AR positions géographiques, ordre panneaux, bidi",iPad+Android,Captures superposées,NON_EXECUTE
+AC-022,P0,Zones tactiles,Inspecter commandes essentielles >= 48x48 CSS px,viewports min+tablettes,Rapport DOM et QA tactile,NON_EXECUTE
+AC-023,P0,Accessibilité,"Contraste, texte 200%, focus, VoiceOver/TalkBack, reduced motion",iPad+Android+clavier,Audit WCAG,NON_EXECUTE
+AC-024,P0,Erreurs et réseau,Simuler échecs image/carte/audio/glb et offline; réessayer,8 Mbps+offline,Capture zéro page blanche,NON_EXECUTE
+AC-025,P0,Performances,"Profil LCP/INP/CLS, GLB FPS 30s, poids des assets",WiFi profil et matériels réf,Rapport 5 essais et fps,NON_EXECUTE
+AC-026,P0,Mentions,"Vérifier éditeur, crédits, licence, contact, confidentialité",prod pré-release,Checklist légale,NON_EXECUTE
+AC-027,P0,Gate publication,Injecter un contenu DEMO et voir échec CI; approuvé passe,CI,Logs de build rouge/vert,NON_EXECUTE
+AC-028,P0,Vie privée,"Inspecter stockage, requests, cookies, collecte et logs",navigateur/devtools,Rapport sans tracking tiers,NON_EXECUTE
+AC-029,P0,Sécurité,"Scanner dépendances/secrets, CSP, invalid input to manifest",CI et audit,Rapport vérification,NON_EXECUTE
+AC-030,P0,Handoff,"Cloner, installer, build, test, deploy et rollback avec instructions",machine vierge,Compte rendu recette exploitation,NON_EXECUTE
+HEG-AC-01,P0,Ouverture carte sans lecture,Ouvrir HEG sur 2 langues; aucune piste ou animation démarre,tablette+iPhone+Android FR/AR,Capture / log résultat,NON_EXECUTE
+HEG-AC-02,P0,Sélection par carte/liste,Toucher un repère et sa ligne; comparer ID sélectionné,tablette+iPhone+Android FR/AR,Capture / log résultat,NON_EXECUTE
+HEG-AC-03,P0,Dossier sans géoloc,Ouvrir HEG-DOS-07..12; aucun pin artificiel,tablette+iPhone+Android FR/AR,Capture / log résultat,NON_EXECUTE
+HEG-AC-04,P0,Fiche complète,"Thawr fournit titre, récit, sources, audio, incertitude",tablette+iPhone+Android FR/AR,Capture / log résultat,NON_EXECUTE
+HEG-AC-05,P0,Tracé contrôlé,Play / pause / rejouer et états finaux,tablette+iPhone+Android FR/AR,Capture / log résultat,NON_EXECUTE
+HEG-AC-06,P0,Incertitude,Trajet indicatif plus légende textuelle non color-only,tablette+iPhone+Android FR/AR,Capture / log résultat,NON_EXECUTE
+HEG-AC-07,P0,Audio,"Temps, seek, pause et lecture demande seulement",tablette+iPhone+Android FR/AR,Capture / log résultat,NON_EXECUTE
+HEG-AC-08,P0,Pas auto son,"Changer étape/langue, aucun nouveau son",tablette+iPhone+Android FR/AR,Capture / log résultat,NON_EXECUTE
+HEG-AC-09,P0,Rotation,Rotation maintient sélection/zoom/section/position,tablette+iPhone+Android FR/AR,Capture / log résultat,NON_EXECUTE
+HEG-AC-10,P0,RTL,"Géographie non miroir, interface arabe fluide",tablette+iPhone+Android FR/AR,Capture / log résultat,NON_EXECUTE
+HEG-AC-11,P0,Zoom alternatif,Utiliser +/- et reset sans pinch,tablette+iPhone+Android FR/AR,Capture / log résultat,NON_EXECUTE
+HEG-AC-12,P0,Sans média,Lire textes et références sans audio/animation,tablette+iPhone+Android FR/AR,Capture / log résultat,NON_EXECUTE
+HEG-AC-13,P0,Défaillance,"Simuler carte/audio KO, liste et texte disponibles",tablette+iPhone+Android FR/AR,Capture / log résultat,NON_EXECUTE
+HEG-AC-14,P0,Mouvements réduits,Tracé statique ou séquencé accessible,tablette+iPhone+Android FR/AR,Capture / log résultat,NON_EXECUTE
+HEG-AC-15,P0,Publication,Rejeter image/itinéraire non approuvé en prod,tablette+iPhone+Android FR/AR,Capture / log résultat,NON_EXECUTE
+HEG-AC-16,P0,Responsive,Portrait/paysage tablette/téléphone sans coupure,tablette+iPhone+Android FR/AR,Capture / log résultat,NON_EXECUTE

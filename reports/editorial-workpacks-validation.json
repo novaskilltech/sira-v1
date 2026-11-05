@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-10-29T06:44:27.612Z",
+  "passed": true,
+  "counts": {
+    "fiches": 60,
+    "narrations": 120,
+    "assets": 99,
+    "objects": 20,
+    "writing": 60,
+    "sourceDossiers": 60,
+    "sourceResearchIndex": 60,
+    "narrationProduction": 120,
+    "cartography": 12,
+    "roles": 2,
+    "corpusSources": 2,
+    "consultedCopies": 3,
+    "passageLeads": 3,
+    "corpusPassages": 0
+  },
+  "problems": []
+}

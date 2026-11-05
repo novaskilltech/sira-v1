@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-10-29T06:38:59.240Z",
+  "passed": true,
+  "demoFileCount": 105,
+  "mediaFileCount": 104,
+  "byExtension": {
+    ".glb": 20,
+    ".svg": 79,
+    ".wav": 2,
+    ".mp3": 2,
+    ".webp": 1,
+    ".json": 1
+  },
+  "failures": []
+}

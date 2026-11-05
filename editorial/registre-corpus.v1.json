@@ -1,0 +1,170 @@
+{
+  "version": "1.0.0",
+  "createdAt": "2026-10-28T00:00:00.000Z",
+  "status": "BIBLIOGRAPHIE_PREPAREE_AUCUN_PASSAGE_VERIFIE",
+  "purpose": "Préparer le choix d'exemplaires pour la revue humaine ; ce registre ne prouve aucune affirmation historique.",
+  "sources": [
+    {
+      "sourceId": "CORPUS-IBN-HISHAM",
+      "title": "al-Sīra al-nabawiyya",
+      "author": "Ibn Hishām",
+      "reviewStatus": "EXEMPLAIRE_A_SELECTIONNER",
+      "selectedCopy": null,
+      "bibliographicCandidates": [
+        {
+          "candidateId": "IBN-HISHAM-BULAK-1259",
+          "requestedName": "Bulrich",
+          "normalizedName": "Bulak / Bulaq",
+          "language": "ar",
+          "publication": "Bulak, 1259 AH, 3 volumes",
+          "bibliographicEvidence": "La notice encyclopédique TDV décrit Bulak 1259 comme première impression en Égypte ; aucune copie de cette impression n'a été consultée dans ce projet.",
+          "catalogRecord": "https://islamansiklopedisi.org.tr/ibn-hisam",
+          "copyVerificationRequired": ["vérifier la graphie et l'édition voulue par le commanditaire", "consulter une copie ou fac-similé identifiable", "relever tome, page et conditions de réutilisation"],
+          "status": "NOTICE_CANDIDATE_NON_ADOPTEE"
+        },
+        {
+          "candidateId": "IBN-HISHAM-1955-SAQQA-AL-ABYARI-SHALABI",
+          "language": "ar",
+          "publication": "Le Caire : Sharikat Maktabat wa-Matbaʿat Mustafa al-Babi al-Halabi wa-awladih, 1955",
+          "editors": ["Mustafa al-Saqqa", "Ibrahim al-Abyari", "Abd al-Hafiz Shalabi"],
+          "physicalDescription": "2 volumes ; notices de catalogue : 24-834 et 766 pages",
+          "catalogRecords": [
+            "https://catalogue.bnf.fr/ark:/12148/cb44037744w",
+            "https://hdl.handle.net/2333.1/0cfxq0gt"
+          ],
+          "copyVerificationRequired": ["page de titre", "pagination du volume consulté", "état de numérisation ou exemplaire physique", "droits et conditions d'usage"],
+          "status": "NOTICE_CANDIDATE_NON_ADOPTEE"
+        }
+      ],
+      "consultedCopies": [
+        {
+          "copyId": "IBN-HISHAM-ACO-1955-METADATA",
+          "consultedAt": "2026-10-28",
+          "format": "notice et lecteur d'une copie numérisée",
+          "url": "https://sites.dlib.nyu.edu/viewer/books/uaena_aco000030/display?lang=en",
+          "identifiedAs": "édition du Caire, 1955, Sharikat Maktabat wa-Matbaʿat Mustafa al-Babi al-Halabi wa-awladih ; éditeurs indiqués : al-Saqqa, al-Abyari, Shalabi",
+          "consultationLimit": "les métadonnées ont été vérifiées ; aucun passage du PDF de cette copie n'a été extrait",
+          "status": "BIBLIOGRAPHIE_VERIFIEE_SANS_PASSAGE"
+        },
+        {
+          "copyId": "IBN-HISHAM-ISLAMWEB-V1-P486",
+          "consultedAt": "2026-10-28",
+          "format": "transcription web",
+          "url": "https://www.islamweb.net/ar/library/index.php?ID=565&bk_no=58&flag=1&page=bookcontents",
+          "identifiedAs": "al-Sira al-nabawiyya, vol. 1, p. 486, chapitre sur le récit avec Abu Bakr dans la grotte",
+          "bibliographicLimits": ["éditeur de la copie transcrite non identifié dans le relevé", "relation à l'édition ACO 1955 non établie", "droits et conditions de réutilisation du texte non vérifiés"],
+          "status": "TEXTE_RELEVE_A_RECROISER"
+        }
+      ],
+      "passageLeads": [
+        {
+          "leadId": "HEG03-IBN-001",
+          "targetId": "HEG-ETP-03",
+          "sourceCopyId": "IBN-HISHAM-ISLAMWEB-V1-P486",
+          "location": "vol. 1, p. 486 ; chapitre « قصة الرسول صلى الله عليه وسلم مع أبي بكر في الغار »",
+          "scope": "La transcription attribue à Ibn Ishaq un récit situant les deux personnes dans une grotte associée à Thawr, puis ajoute un commentaire attribué à Ibn Hisham.",
+          "reviewRequired": ["recouper le passage dans un exemplaire à édition identifiée", "distinguer le récit attribué à Ibn Ishaq du commentaire attribué à Ibn Hisham", "examiner séparément chaque détail matériel ou chronologique"],
+          "status": "A_CONFIRMER_DANS_EXEMPLAIRE_IDENTIFIE",
+          "publicationAllowed": false
+        }
+      ],
+      "researchDecisions": [
+        {
+          "decisionId": "DEC-HEG03-IBN-001",
+          "decision": "CONSERVER_COMME_PISTE_NON_PUBLIABLE",
+          "reason": "La transcription fournit une localisation de travail, mais pas l'identification bibliographique complète exigée pour une assertion dans le produit.",
+          "historicalApproval": "NON_OBTENUE"
+        }
+      ],
+      "passages": [],
+      "humanReview": null
+    },
+    {
+      "sourceId": "CORPUS-AR-RAHEEQ",
+      "title": "al-Raḥīq al-Makhtūm",
+      "author": "Safiur Rahman al-Mubarakpuri",
+      "reviewStatus": "EXEMPLAIRE_A_SELECTIONNER",
+      "selectedCopy": null,
+      "bibliographicCandidates": [
+        {
+          "candidateId": "AR-RAHEEQ-WAQFEYA-DARUSSALAM-1416-1996",
+          "language": "ar",
+          "publication": "Maktaba Dar-us-Salam, 1416 AH / 1996, 1 volume, 503 pages",
+          "catalogRecord": "https://waqfeya.net/books/%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D9%88%D9%85--ARRAHEEQ-ALMAKHTUM/e7cfdd10db504f92aad4528b0b41065c",
+          "copyVerificationRequired": ["vérifier que le PDF de travail correspond à cette impression", "relever ISBN et page de titre de l'exemplaire retenu", "vérifier les conditions de réutilisation"],
+          "status": "NOTICE_CANDIDATE_NON_ADOPTEE"
+        },
+        {
+          "candidateId": "AR-RAHEEQ-DARUSSALAM-ARABIC-CATALOGUE",
+          "language": "ar",
+          "publisher": "Darussalam Publishers",
+          "catalogRecord": "https://darussalamstore.com/products/ar-rahiqul-makhtum",
+          "catalogueMetadataToConfirmOnCopy": ["ISBN", "année", "pagination", "impression", "éditeur exact"],
+          "status": "NOTICE_CANDIDATE_NON_ADOPTEE"
+        },
+        {
+          "candidateId": "AR-RAHEEQ-DARUSSALAM-UK-ARABIC-CATALOGUE",
+          "language": "ar",
+          "publisher": "Darussalam Publishers",
+          "catalogRecord": "https://darussalam.uk/products/the-sealed-nectar-ar-rahiqul-makhtum-arabic",
+          "catalogueMetadataToConfirmOnCopy": ["ISBN", "année", "pagination", "impression", "éditeur exact"],
+          "status": "NOTICE_CANDIDATE_NON_ADOPTEE"
+        }
+      ],
+      "consultedCopies": [
+        {
+          "copyId": "AR-RAHEEQ-ISLAMHOUSE-PDF-452",
+          "consultedAt": "2026-10-28",
+          "format": "PDF arabe en ligne, 452 pages document",
+          "url": "https://d1.islamhouse.com/data/ar/ih_books/single_010/ar-alraheq-almakhtum.pdf",
+          "identifiedAs": "titre et auteur visibles en couverture : al-Rahiq al-Makhtum, Safiur Rahman al-Mubarakpuri",
+          "bibliographicLimits": ["éditeur, année d'impression et ISBN de cette copie non établis par le relevé", "conditions de droit de la copie à vérifier", "copie consultée utilisable seulement pour localiser un passage à recouper"],
+          "status": "TEXTE_RELEVE_A_RECROISER"
+        }
+      ],
+      "passageLeads": [
+        {
+          "leadId": "CHR01-AR-RAHEEQ-001",
+          "targetId": "CHR-01",
+          "sourceCopyId": "AR-RAHEEQ-ISLAMHOUSE-PDF-452",
+          "location": "pages PDF 24–27 ; pages imprimées 25–28 ; passages sur les autorités antérieures à Quraysh et les fonctions associées à Quṣayy",
+          "scope": "Le PDF de repérage présente une synthèse sur des successions de groupes et sur l'organisation attribuée à Quṣayy. Le relevé sert seulement à identifier les éléments à confronter avec l'édition retenue et à qualifier par type de source.",
+          "reviewRequired": ["recouper chaque assertion dans l'édition Ibn Hisham retenue ou documenter son absence", "distinguer récit de sira, transmission, synthèse moderne et inférence", "ne pas reprendre dates, fonctions, lignages ou topographie sans décision humaine ligne par ligne"],
+          "status": "A_CONFIRMER_DANS_EXEMPLAIRE_IDENTIFIE",
+          "publicationAllowed": false
+        },
+        {
+          "leadId": "HEG03-AR-RAHEEQ-001",
+          "targetId": "HEG-ETP-03",
+          "sourceCopyId": "AR-RAHEEQ-ISLAMHOUSE-PDF-452",
+          "location": "pages imprimées 156–157 ; pages PDF 155–156 ; sections « من الدار إلى الغار » et « إذ هما في الغار »",
+          "scope": "La synthèse rapporte l'épisode de la grotte et l'associe à Thawr, avec plusieurs précisions de date, de parcours et de récit.",
+          "reviewRequired": ["identifier une édition publiable", "séparer la citation du Coran, les récits de sira et les ajouts de synthèse", "statuer ligne par ligne sur les dates, distances, gestes et détails narratifs"],
+          "status": "A_CONFIRMER_DANS_EXEMPLAIRE_IDENTIFIE",
+          "publicationAllowed": false
+        }
+      ],
+      "researchDecisions": [
+        {
+          "decisionId": "DEC-HEG03-AR-RAHEEQ-001",
+          "decision": "CONSERVER_COMME_PISTE_NON_PUBLIABLE",
+          "reason": "Le passage est localisé dans une copie consultée, mais cette copie n'est pas encore identifiée au niveau bibliographique et juridique requis.",
+          "historicalApproval": "NON_OBTENUE"
+        }
+      ],
+      "passages": [],
+      "humanReview": null
+    }
+  ],
+  "publicationGate": {
+    "passagesRecorded": 0,
+    "historicalApprovals": 0,
+    "publicationAllowed": false,
+    "requiredBeforeAnyClaim": [
+      "exemplaire sélectionné et identifié",
+      "passage localisé par tome, chapitre ou section et pages",
+      "nature et portée du passage",
+      "décision historique humaine associée à la révision"
+    ]
+  }
+}
