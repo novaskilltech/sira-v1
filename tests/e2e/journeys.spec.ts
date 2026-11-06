@@ -61,7 +61,7 @@ test('offline retains article; corrupt storage recovers; no third-party requests
  await context.setOffline(true);await expect(page.getByRole('status')).toContainText('Connexion interrompue');await expect(page.locator('.article-section')).toHaveCount(4);await context.setOffline(false);expect(external).toEqual([]);
 });
 test('image failures retain the article and 48px controls remain usable',async({page})=>{
- await page.route('**/atlas-valley.webp',route=>route.abort());await page.goto('/hegire/HEG-ETP-03');await expect(page.locator('.image-error')).toBeVisible();await expect(page.locator('.article-section')).toHaveCount(4);
+ await page.route(/.*(atlas-valley|illustration-.*)\.webp$/,route=>route.abort());await page.goto('/hegire/HEG-ETP-03');await expect(page.locator('.image-error')).toBeVisible();await expect(page.locator('.article-section')).toHaveCount(4);
  await page.goto('/hegire');await page.setViewportSize({width:320,height:740});
  const undersized=await page.locator('button:visible').evaluateAll(buttons=>buttons.map(button=>({name:button.getAttribute('aria-label')||button.textContent,rect:button.getBoundingClientRect()})).filter(item=>item.rect.width<47.9||item.rect.height<47.9).map(item=>({name:item.name,width:item.rect.width,height:item.rect.height})));
  expect(undersized).toEqual([]);

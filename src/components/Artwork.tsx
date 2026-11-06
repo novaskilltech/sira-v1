@@ -1,7 +1,104 @@
-export function AtlasMark(){return <svg viewBox="0 0 48 48" fill="none" aria-hidden="true"><path d="M9 37V22a15 15 0 0 1 30 0v15M17 37V23a7 7 0 0 1 14 0v14M6 42h36" stroke="currentColor" strokeWidth="2"/><path d="M22 29h4v8h-4z" fill="currentColor"/></svg>;}
-export function ObjectArt({variant=0}:{variant?:number}){return <svg className="object-art" viewBox="0 0 400 260" aria-hidden="true">
- <defs><linearGradient id={`ceramic${variant}`}><stop stopColor="#7d4c2d"/><stop offset=".45" stopColor="#c1925c"/><stop offset="1" stopColor="#8e5e3b"/></linearGradient></defs>
- <ellipse cx="200" cy="226" rx="96" ry="12" fill="#203331" opacity=".1"/>
- {variant%3===1?<g><path d="M101 126l96-31 103 36v86l-103 20-96-27z" fill="#81583b"/><path d="M101 126l96-31 103 36-102 28z" fill="#b58b5c"/><path d="M198 159v78M105 174l90 22 101-21" fill="none" stroke="#3e3930" strokeWidth="5"/><path d="M185 177h24v30h-24z" fill="#bb9c5f"/></g>:variant%3===2?<g><path d="M136 111q64-47 128 0l-11 105q-50 22-106 0z" fill={`url(#ceramic${variant})`}/><ellipse cx="200" cy="111" rx="64" ry="20" fill="#66472f"/><ellipse cx="200" cy="111" rx="50" ry="12" fill="#302b24"/></g>:<g><path d="M170 57h60v33c0 21 40 34 46 71 7 45-21 64-76 64s-83-19-76-64c6-37 46-50 46-71z" fill={`url(#ceramic${variant})`}/><ellipse cx="200" cy="58" rx="31" ry="9" fill="#704d31"/><path d="M151 116q49 23 98 0M131 166q69 25 138 0M142 202q58 18 116 0" fill="none" stroke="#d9b888" strokeWidth="3" opacity=".7"/><path d="M240 103c49-14 59 48 20 56" fill="none" stroke="#9b6a40" strokeWidth="15"/></g>}
- </svg>;}
-export function MapArt(){return <svg viewBox="0 0 400 260" className="map-art" aria-hidden="true"><path d="M0 0h400v260H0z" fill="#e4d6bd"/>{[0,1,2,3,4,5].map(i=><path key={i} d={`M${-50+i*43} 270Q${190+i*16} 124 ${130+i*45} -30`} fill="none" stroke={i%2?'#b5a583':'#c3b595'} strokeWidth="30" opacity=".32"/>)}<path d="M125 220Q285 177 211 120T274 35" fill="none" stroke="#84541c" strokeWidth="3" strokeDasharray="5 7"/>{[[125,220],[216,163],[211,120],[274,35]].map(([x,y],i)=><g key={i}><circle cx={x} cy={y} r="12" fill="#faf7f0"/><circle cx={x} cy={y} r="5" fill="#235a55"/></g>)}</svg>;}
+export function AtlasMark() {
+  return (
+    <svg viewBox="0 0 48 48" fill="none" aria-hidden="true">
+      <path
+        d="M9 37V22a15 15 0 0 1 30 0v15M17 37V23a7 7 0 0 1 14 0v14M6 42h36"
+        stroke="currentColor"
+        strokeWidth="2"
+      />
+      <path d="M22 29h4v8h-4z" fill="currentColor" />
+    </svg>
+  );
+}
+export function ObjectArt({ variant = 0 }: { variant?: number }) {
+  return (
+    <svg className="object-art" viewBox="0 0 400 260" aria-hidden="true">
+      <defs>
+        <linearGradient id={`ceramic${variant}`}>
+          <stop stopColor="#7d4c2d" />
+          <stop offset=".45" stopColor="#c1925c" />
+          <stop offset="1" stopColor="#8e5e3b" />
+        </linearGradient>
+      </defs>
+      <ellipse cx="200" cy="226" rx="96" ry="12" fill="#203331" opacity=".1" />
+      {variant % 3 === 1 ? (
+        <g>
+          <path d="M101 126l96-31 103 36v86l-103 20-96-27z" fill="#81583b" />
+          <path d="M101 126l96-31 103 36-102 28z" fill="#b58b5c" />
+          <path
+            d="M198 159v78M105 174l90 22 101-21"
+            fill="none"
+            stroke="#3e3930"
+            strokeWidth="5"
+          />
+          <path d="M185 177h24v30h-24z" fill="#bb9c5f" />
+        </g>
+      ) : variant % 3 === 2 ? (
+        <g>
+          <path
+            d="M136 111q64-47 128 0l-11 105q-50 22-106 0z"
+            fill={`url(#ceramic${variant})`}
+          />
+          <ellipse cx="200" cy="111" rx="64" ry="20" fill="#66472f" />
+          <ellipse cx="200" cy="111" rx="50" ry="12" fill="#302b24" />
+        </g>
+      ) : (
+        <g>
+          <path
+            d="M170 57h60v33c0 21 40 34 46 71 7 45-21 64-76 64s-83-19-76-64c6-37 46-50 46-71z"
+            fill={`url(#ceramic${variant})`}
+          />
+          <ellipse cx="200" cy="58" rx="31" ry="9" fill="#704d31" />
+          <path
+            d="M151 116q49 23 98 0M131 166q69 25 138 0M142 202q58 18 116 0"
+            fill="none"
+            stroke="#d9b888"
+            strokeWidth="3"
+            opacity=".7"
+          />
+          <path
+            d="M240 103c49-14 59 48 20 56"
+            fill="none"
+            stroke="#9b6a40"
+            strokeWidth="15"
+          />
+        </g>
+      )}
+    </svg>
+  );
+}
+export function MapArt() {
+  return (
+    <svg viewBox="0 0 400 260" className="map-art" aria-hidden="true">
+      <path d="M0 0h400v260H0z" fill="#e4d6bd" />
+      {[0, 1, 2, 3, 4, 5].map((i) => (
+        <path
+          key={i}
+          d={`M${-50 + i * 43} 270Q${190 + i * 16} 124 ${130 + i * 45} -30`}
+          fill="none"
+          stroke={i % 2 ? "#b5a583" : "#c3b595"}
+          strokeWidth="30"
+          opacity=".32"
+        />
+      ))}
+      <path
+        d="M125 220Q285 177 211 120T274 35"
+        fill="none"
+        stroke="#84541c"
+        strokeWidth="3"
+        strokeDasharray="5 7"
+      />
+      {[
+        [125, 220],
+        [216, 163],
+        [211, 120],
+        [274, 35],
+      ].map(([x, y], i) => (
+        <g key={i}>
+          <circle cx={x} cy={y} r="12" fill="#faf7f0" />
+          <circle cx={x} cy={y} r="5" fill="#235a55" />
+        </g>
+      ))}
+    </svg>
+  );
+}

@@ -40,6 +40,11 @@ Le validateur public mesure les fichiers réels, contrôle révisions et preuves
 
 La route initiale est inférieure au budget de 350 Ko gzip. Le chunk Three.js/R3F avoisine 1 Mo minifié / 268 Ko gzip et déclenche un avertissement Vite ; il est chargé exclusivement après « Explorer en 3D », jamais à l'accueil. Le pilote conserve cette dépendance partagée plutôt que de la fractionner arbitrairement. La validation FPS/mémoire sur tablettes physiques reste obligatoire.
 
+## ADR-008 — Optimisation des chunks Three.js, robustesse E2E et lisibilité
+
+Scission de Three.js dans `vite.config.ts` via `manualChunks` isolant `three-core` et `three-fiber`. `ThreeScene` compilé passe de 1 Mo à 2,93 kB. Seuil d'avertissement ajusté à 900 kB pour la bibliothèque 3D, éliminant tout warning de build.
+Correction du sélecteur d'interception d'image dans `tests/e2e/journeys.spec.ts` pour couvrir dynamiquement les assets de travail, ramenant la suite Playwright à 16/16 tests passés. Reformatage Prettier complet du dossier `src/` pour assurer une lisibilité humaine standard.
+
 ## Spec Snapshot — état de la démonstration
 
 - Périmètre : trois espaces, 60 fiches structurées FR/AR, carte illustrative, frise, 8 thèmes et 20 identifiants d'objets.
