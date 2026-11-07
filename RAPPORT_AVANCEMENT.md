@@ -29,6 +29,9 @@ Conformément au `CDC_SIRA_V1_FINAL.md`, l'application ne comporte aucun compte 
 6. **Cartographie Interactive de l'Hégire & 12 Notices Géographiques (`src/pages/Hegira.tsx`)** :
    - Carte interactive SVG enrichie avec les régions topographiques bilingues (*Mer Rouge*, *Plaine côtière de la Tihâma*, *Massifs volcaniques du Hedjaz*), le tracé de l'axe caravanier intérieur traditionnel en pointillés sépia comparé au corridor littoral de l'Hégire, 4 jalons intermédiaires indicatifs (*‘Usfân*, *Qadîd*, *Al-Juhfa*, *Wâdî al-‘Aqîq*), les 4 repères généraux interactifs (*La Mecque*, *Thawr*, *Qubâ’*, *Médine*) et une échelle indicative.
    - 12 notices méthodologiques et géographiques détaillées FR/AR (`geography.uncertainty`) injectées via `scripts/enrich-hegira-geography.mjs` pour chacune des 6 étapes et 6 dossiers de l'Hégire.
+7. **Audit Scientifique, Hadith & Fiqh Malékite + Corrections Directes (`docs/audit-sira.md`)** :
+   - Vérification et correction directe des sources éditoriales (`docs/LOT_03` à `LOT_14`), des scripts de narration et de `public/content/manifest.v1.json` selon le référentiel sunnite (*Coran et Sunna authentique selon la compréhension des pieux prédécesseurs*) et l'école malékite de référence (*al-Muwaṭṭa'*, *al-Risâla*, *Mukhtaṣar Khalîl*), avec distinction explicite entre l'avis retenu (*al-mashhûr*) et les avis alternatifs documentés (`VIE-15` tannage des peaux, `VIE-16` surveillance du marché et *iḥtikâr*, `VIE-17` *mudd* et *ṣâ‘* selon le *‘amal ahl al-Madîna*, `VIE-18` contrat de *salam*).
+   - Harmonisation historiographique et hadithique (`CHR-10`, `CHR-11`, `CHR-13`, `CHR-14`, `CHR-15`, `CHR-17`, `CHR-18`, `CHR-24`, `HEG-ETP-04`) et affichage bilingue du référentiel dans `src/pages/Information.tsx`.
 
 ---
 
