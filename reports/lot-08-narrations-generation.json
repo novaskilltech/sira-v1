@@ -1,0 +1,80 @@
+{
+  "generatedAt": "2026-11-07T08:18:31.154Z",
+  "provider": "OpenRouter",
+  "model": "minimax/speech-2.8-hd",
+  "statusNote": "LOT_08_DEMO_NON_VALIDE",
+  "results": [
+    {
+      "contentId": "CHR-11",
+      "locale": "fr",
+      "filename": "narration-chr-11-fr.mp3",
+      "path": "/media/drafts/narration-chr-11-fr.mp3",
+      "sizeBytes": 2370285,
+      "elapsedSeconds": "13.2",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "CHR-11",
+      "locale": "ar",
+      "filename": "narration-chr-11-ar.mp3",
+      "path": "/media/drafts/narration-chr-11-ar.mp3",
+      "sizeBytes": 2386989,
+      "elapsedSeconds": "13.9",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "CHR-12",
+      "locale": "fr",
+      "filename": "narration-chr-12-fr.mp3",
+      "path": "/media/drafts/narration-chr-12-fr.mp3",
+      "sizeBytes": 2348397,
+      "elapsedSeconds": "14.4",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "CHR-12",
+      "locale": "ar",
+      "filename": "narration-chr-12-ar.mp3",
+      "path": "/media/drafts/narration-chr-12-ar.mp3",
+      "sizeBytes": 2499885,
+      "elapsedSeconds": "14.1",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "VIE-09",
+      "locale": "fr",
+      "filename": "narration-vie-09-fr.mp3",
+      "path": "/media/drafts/narration-vie-09-fr.mp3",
+      "sizeBytes": 2205549,
+      "elapsedSeconds": "11.2",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "VIE-09",
+      "locale": "ar",
+      "filename": "narration-vie-09-ar.mp3",
+      "path": "/media/drafts/narration-vie-09-ar.mp3",
+      "sizeBytes": 2329389,
+      "elapsedSeconds": "17.1",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "HEG-DOS-08",
+      "locale": "fr",
+      "filename": "narration-heg-dos-08-fr.mp3",
+      "path": "/media/drafts/narration-heg-dos-08-fr.mp3",
+      "sizeBytes": 2374893,
+      "elapsedSeconds": "12.1",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "HEG-DOS-08",
+      "locale": "ar",
+      "filename": "narration-heg-dos-08-ar.mp3",
+      "path": "/media/drafts/narration-heg-dos-08-ar.mp3",
+      "sizeBytes": 2411757,
+      "elapsedSeconds": "13.1",
+      "status": "GENERATED_OK"
+    }
+  ]
+}

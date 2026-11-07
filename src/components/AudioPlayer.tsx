@@ -91,6 +91,54 @@ const draftAudios: Record<string, Record<string, string>> = {
     fr: "/media/drafts/narration-heg-dos-07-fr.mp3",
     ar: "/media/drafts/narration-heg-dos-07-ar.mp3",
   },
+  "CHR-09": {
+    fr: "/media/drafts/narration-chr-09-fr.mp3",
+    ar: "/media/drafts/narration-chr-09-ar.mp3",
+  },
+  "CHR-10": {
+    fr: "/media/drafts/narration-chr-10-fr.mp3",
+    ar: "/media/drafts/narration-chr-10-ar.mp3",
+  },
+  "VIE-07": {
+    fr: "/media/drafts/narration-vie-07-fr.mp3",
+    ar: "/media/drafts/narration-vie-07-ar.mp3",
+  },
+  "VIE-08": {
+    fr: "/media/drafts/narration-vie-08-fr.mp3",
+    ar: "/media/drafts/narration-vie-08-ar.mp3",
+  },
+  "CHR-11": {
+    fr: "/media/drafts/narration-chr-11-fr.mp3",
+    ar: "/media/drafts/narration-chr-11-ar.mp3",
+  },
+  "CHR-12": {
+    fr: "/media/drafts/narration-chr-12-fr.mp3",
+    ar: "/media/drafts/narration-chr-12-ar.mp3",
+  },
+  "VIE-09": {
+    fr: "/media/drafts/narration-vie-09-fr.mp3",
+    ar: "/media/drafts/narration-vie-09-ar.mp3",
+  },
+  "HEG-DOS-08": {
+    fr: "/media/drafts/narration-heg-dos-08-fr.mp3",
+    ar: "/media/drafts/narration-heg-dos-08-ar.mp3",
+  },
+  "CHR-13": {
+    fr: "/media/drafts/narration-chr-13-fr.mp3",
+    ar: "/media/drafts/narration-chr-13-ar.mp3",
+  },
+  "CHR-14": {
+    fr: "/media/drafts/narration-chr-14-fr.mp3",
+    ar: "/media/drafts/narration-chr-14-ar.mp3",
+  },
+  "VIE-10": {
+    fr: "/media/drafts/narration-vie-10-fr.mp3",
+    ar: "/media/drafts/narration-vie-10-ar.mp3",
+  },
+  "VIE-11": {
+    fr: "/media/drafts/narration-vie-11-fr.mp3",
+    ar: "/media/drafts/narration-vie-11-ar.mp3",
+  },
 };
 
 export function AudioPlayer({ entry }: { entry: ContentEntry }) {
