@@ -46,11 +46,29 @@ export default function Life() {
           .filter((g) => !selected || g === selected)
           .map((g) => {
             const groupEntries = entries.filter((c) => c.group.fr === g);
+            const coverId = groupEntries[0]?.id.toLowerCase();
             return (
               <section className="theme-card" key={g}>
                 <div className="theme-cover">
-                  <ObjectArt variant={groups.indexOf(g)} />
-                  <span className="eyebrow">0{groups.indexOf(g) + 1}</span>
+                  {coverId ? (
+                    <img
+                      src={`/media/drafts/illustration-${coverId}-v1.webp`}
+                      alt=""
+                      style={{ width: "100%", height: "100%", objectFit: "cover" }}
+                    />
+                  ) : (
+                    <ObjectArt variant={groups.indexOf(g)} />
+                  )}
+                  <span
+                    className="eyebrow"
+                    style={{
+                      background: "rgba(250, 247, 240, 0.92)",
+                      padding: "4px 8px",
+                      borderRadius: "3px",
+                    }}
+                  >
+                    0{groups.indexOf(g) + 1}
+                  </span>
                 </div>
                 <div className="theme-body">
                   <h2>{groupEntries[0].group[prefs.locale]}</h2>

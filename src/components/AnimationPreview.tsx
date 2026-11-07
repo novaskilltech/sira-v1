@@ -20,9 +20,13 @@ export function AnimationPreview({
     : locale === "fr"
       ? "Lire l’aperçu"
       : "تشغيل المعاينة";
+  const primaryContentId = asset.contentIds[0];
+  const previewSrc = primaryContentId
+    ? `/media/drafts/illustration-${primaryContentId.toLowerCase()}-v1.webp`
+    : (asset.url ?? "");
   return (
     <section className="animation-preview" aria-label={label}>
-      <MediaImage src={asset.url ?? ""} alt={asset.alt[locale]} />
+      <MediaImage src={previewSrc} alt={asset.alt[locale]} />
       <div className="animation-controls">
         <p>{asset.caption[locale]}</p>
         <button

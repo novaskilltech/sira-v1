@@ -61,14 +61,6 @@ export default function Article() {
     );
   const data = entry.localized[locale];
   const parent = `/${entry.space === "vie_quotidienne" ? "vie" : entry.space}`;
-  const draftImages: Record<string, string> = {
-    "CHR-01": "/media/drafts/illustration-chr-01-v1.webp",
-    "HEG-ETP-03": "/media/drafts/illustration-heg-etp-03-v1.webp",
-    "VIE-01": "/media/drafts/illustration-vie-01-v1.webp",
-    "HEG-DOS-08": "/media/demo/illustrations/IMG-HEG-DOS-09.svg",
-    "HEG-DOS-11": "/media/demo/illustrations/IMG-HEG-DOS-07.svg",
-    "HEG-DOS-12": "/media/demo/illustrations/IMG-HEG-DOS-10.svg",
-  };
   const illustration = entry.mediaRefs
     .map((mediaId) =>
       registry.assets.find((asset) => asset.assetId === mediaId),
@@ -79,15 +71,15 @@ export default function Article() {
       registry.assets.find((asset) => asset.assetId === mediaId),
     )
     .find((asset) => asset?.kind === "animation_scenarisee");
+  const draftImageSrc = `/media/drafts/illustration-${entry.id.toLowerCase()}-v1.webp`;
   const imageSrc =
-    draftImages[entry.id] ??
-    illustration?.url ??
+    draftImageSrc ||
+    illustration?.url ||
     "/media/demo/atlas-valley.webp";
-  const imageCaption = draftImages[entry.id]
-    ? locale === "fr"
-      ? "Illustration de travail EN REVUE : évocation non documentaire, sans valeur de reconstitution."
-      : "رسم عمل قيد المراجعة: تصور غير توثيقي ولا يمثل إعادة بناء تاريخية."
-    : (illustration?.caption[locale] ?? t("imageCaption"));
+  const imageCaption =
+    locale === "fr"
+      ? `Illustration de travail EN REVUE (${data.title}) : évocation non documentaire, sans valeur de reconstitution.`
+      : `رسم عمل قيد المراجعة (${data.title}): تصور غير توثيقي ولا يمثل إعادة بناء تاريخية.`;
   const related = entry.relations
     .map((id) => registry.contents.find((c) => c.id === id))
     .filter((c) => !!c);

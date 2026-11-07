@@ -61,7 +61,7 @@ test('offline retains article; corrupt storage recovers; no third-party requests
  await context.setOffline(true);await expect(page.getByRole('status')).toContainText('Connexion interrompue');await expect(page.locator('.article-section')).toHaveCount(4);await context.setOffline(false);expect(external).toEqual([]);
 });
 test('image failures retain the article and 48px controls remain usable',async({page})=>{
- await page.route(/.*(atlas-valley|illustration-.*)\.webp$/,route=>route.abort());await page.goto('/hegire/HEG-ETP-03');await expect(page.locator('.image-error')).toBeVisible();await expect(page.locator('.article-section')).toHaveCount(4);
+ await page.route(/.*(atlas-valley|illustration-.*)\.webp$/,route=>route.abort());await page.goto('/hegire/HEG-ETP-03');await expect(page.locator('.image-error').first()).toBeVisible();await expect(page.locator('.article-section')).toHaveCount(4);
  await page.goto('/hegire');await page.setViewportSize({width:320,height:740});
  const undersized=await page.locator('button:visible').evaluateAll(buttons=>buttons.map(button=>({name:button.getAttribute('aria-label')||button.textContent,rect:button.getBoundingClientRect()})).filter(item=>item.rect.width<47.9||item.rect.height<47.9).map(item=>({name:item.name,width:item.rect.width,height:item.rect.height})));
  expect(undersized).toEqual([]);
@@ -69,7 +69,7 @@ test('image failures retain the article and 48px controls remain usable',async({
 test('DEMO animation previews are visible and start only on an explicit action',async({page})=>{
  await page.goto('/chronologie/CHR-05');
  const preview=page.locator('.animation-preview');await expect(preview).toBeVisible();
- await expect(preview.locator('img')).toHaveAttribute('src',/\/media\/demo\/animations\/ANI-001\.svg$/);
+ await expect(preview.locator('img')).toHaveAttribute('src',/\/media\/drafts\/illustration-chr-05-v1\.webp$/);
  await expect(preview.locator('.animation-motion')).not.toHaveClass(/is-playing/);
  await preview.getByRole('button',{name:'Lire l’aperçu'}).click();await expect(preview.locator('.animation-motion')).toHaveClass(/is-playing/);
  await preview.getByRole('button',{name:'Mettre en pause'}).click();await expect(preview.locator('.animation-motion')).not.toHaveClass(/is-playing/);
