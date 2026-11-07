@@ -1,0 +1,62 @@
+{
+  "generatedAt": "2026-11-07T03:30:30.086Z",
+  "provider": "OpenRouter",
+  "model": "minimax/speech-2.8-hd",
+  "statusNote": "LOT_02_DEMO_NON_VALIDE",
+  "results": [
+    {
+      "contentId": "HEG-ETP-01",
+      "locale": "fr",
+      "filename": "narration-heg-etp-01-fr.mp3",
+      "path": "/media/drafts/narration-heg-etp-01-fr.mp3",
+      "sizeBytes": 2923245,
+      "elapsedSeconds": "18.5",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "HEG-ETP-01",
+      "locale": "ar",
+      "filename": "narration-heg-etp-01-ar.mp3",
+      "path": "/media/drafts/narration-heg-etp-01-ar.mp3",
+      "sizeBytes": 2966445,
+      "elapsedSeconds": "19.4",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "HEG-ETP-02",
+      "locale": "fr",
+      "filename": "narration-heg-etp-02-fr.mp3",
+      "path": "/media/drafts/narration-heg-etp-02-fr.mp3",
+      "sizeBytes": 2650221,
+      "elapsedSeconds": "15.1",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "HEG-ETP-02",
+      "locale": "ar",
+      "filename": "narration-heg-etp-02-ar.mp3",
+      "path": "/media/drafts/narration-heg-etp-02-ar.mp3",
+      "sizeBytes": 2897901,
+      "elapsedSeconds": "17.3",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "CHR-02",
+      "locale": "fr",
+      "filename": "narration-chr-02-fr.mp3",
+      "path": "/media/drafts/narration-chr-02-fr.mp3",
+      "sizeBytes": 2881773,
+      "elapsedSeconds": "16.9",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "CHR-02",
+      "locale": "ar",
+      "filename": "narration-chr-02-ar.mp3",
+      "path": "/media/drafts/narration-chr-02-ar.mp3",
+      "sizeBytes": 3270573,
+      "elapsedSeconds": "19.6",
+      "status": "GENERATED_OK"
+    }
+  ]
+}

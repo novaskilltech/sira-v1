@@ -11,6 +11,18 @@ const draftAudios: Record<string, Record<string, string>> = {
     fr: "/media/drafts/narration-chr-01-fr.mp3",
     ar: "/media/drafts/narration-chr-01-ar.mp3",
   },
+  "CHR-02": {
+    fr: "/media/drafts/narration-chr-02-fr.mp3",
+    ar: "/media/drafts/narration-chr-02-ar.mp3",
+  },
+  "HEG-ETP-01": {
+    fr: "/media/drafts/narration-heg-etp-01-fr.mp3",
+    ar: "/media/drafts/narration-heg-etp-01-ar.mp3",
+  },
+  "HEG-ETP-02": {
+    fr: "/media/drafts/narration-heg-etp-02-fr.mp3",
+    ar: "/media/drafts/narration-heg-etp-02-ar.mp3",
+  },
   "HEG-ETP-03": {
     fr: "/media/drafts/narration-heg-etp-03-fr.mp3",
     ar: "/media/drafts/narration-heg-etp-03-ar.mp3",
