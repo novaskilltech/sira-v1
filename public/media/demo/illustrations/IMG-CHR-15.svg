@@ -1,1 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" role="img" aria-labelledby="title desc"><title id="title">IMG-CHR-15 — DEMO</title><desc id="desc">Visual technical fixture only. No people, silhouettes, animals, historical claim, geographic claim, or authenticated reconstruction. Static illustration placeholder.</desc><rect width="520" height="320" rx="24" fill="#eff1e7"/><rect x="24" y="24" width="472" height="272" rx="18" fill="#34495a" opacity=".96"/><g opacity=".9"><path d="M64 235V129a30 30 0 0 1 60 0v67" fill="none" stroke="#9fc4bd" stroke-width="12" stroke-linecap="round"/><path d="M150 235V162a24 24 0 0 1 48 0v67" fill="none" stroke="#9fc4bd" stroke-width="12" stroke-linecap="round"/><path d="M236 235V151a27.5 27.5 0 0 1 55 0v67" fill="none" stroke="#9fc4bd" stroke-width="12" stroke-linecap="round"/><path d="M322 235V140a21.5 21.5 0 0 1 43 0v67" fill="none" stroke="#9fc4bd" stroke-width="12" stroke-linecap="round"/></g><path d="M58 237 Q160 147 264 201 T462 119" fill="none" stroke="#9fc4bd" stroke-width="4" opacity=".72"/><g fill="#eff1e7" opacity=".42"><circle cx="107" cy="82" r="4"/><circle cx="145" cy="66" r="3"/><circle cx="394" cy="76" r="5"/><circle cx="426" cy="91" r="3"/></g><text x="48" y="58" fill="#eff1e7" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">IMG-CHR-15</text><text x="48" y="273" fill="#eff1e7" font-family="Arial, sans-serif" font-size="12">ILLUSTRATION TECHNIQUE · NON DOCUMENTAIRE</text><text x="48" y="292" fill="#9fc4bd" font-family="Arial, sans-serif" font-size="11">DEMO · NON VALIDÉ · Mosquée et vie communautaire</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" role="img" aria-labelledby="title desc"><title id="title">IMG-CHR-15 — DEMO</title><desc id="desc">Visual technical fixture only. No people, silhouettes, animals, historical claim, geographic claim, or authenticated reconstruction. Static illustration placeholder.</desc><defs><linearGradient id="sky-img-chr-15" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#19382d"/><stop offset="100%" stop-color="#2d5a47"/></linearGradient></defs><rect width="520" height="320" rx="24" fill="#f3f6f0"/><rect x="18" y="18" width="484" height="284" rx="18" fill="url(#sky-img-chr-15)"/><rect x="26" y="26" width="468" height="268" rx="14" fill="none" stroke="#d9ba75" stroke-width="1" opacity="0.35"/>
+          <g>
+    <circle cx="415" cy="76" r="24" fill="#d9ba75" opacity="0.75"/>
+    <circle cx="415" cy="76" r="40" fill="#d9ba75" opacity="0.15"/>
+  </g>
+          <path d="M24 248 L496 248" stroke="#d9ba75" stroke-width="2"/>
+          <g transform="translate(92,238) scale(1.15)">
+    <path d="M0 0 Q-4 -28 2 -56" fill="none" stroke="#d9ba75" stroke-width="5" stroke-linecap="round"/>
+    <path d="M2 -56 Q-22 -64 -32 -46" fill="none" stroke="#6aa887" stroke-width="3" stroke-linecap="round"/>
+    <path d="M2 -56 Q-18 -76 -34 -68" fill="none" stroke="#6aa887" stroke-width="3" stroke-linecap="round"/>
+    <path d="M2 -56 Q0 -82 -12 -86" fill="none" stroke="#6aa887" stroke-width="3" stroke-linecap="round"/>
+    <path d="M2 -56 Q18 -78 32 -70" fill="none" stroke="#6aa887" stroke-width="3" stroke-linecap="round"/>
+    <path d="M2 -56 Q24 -64 36 -46" fill="none" stroke="#6aa887" stroke-width="3" stroke-linecap="round"/>
+  </g>
+          <g transform="translate(428,238) scale(1.15)">
+    <path d="M0 0 Q-4 -28 2 -56" fill="none" stroke="#d9ba75" stroke-width="5" stroke-linecap="round"/>
+    <path d="M2 -56 Q-22 -64 -32 -46" fill="none" stroke="#6aa887" stroke-width="3" stroke-linecap="round"/>
+    <path d="M2 -56 Q-18 -76 -34 -68" fill="none" stroke="#6aa887" stroke-width="3" stroke-linecap="round"/>
+    <path d="M2 -56 Q0 -82 -12 -86" fill="none" stroke="#6aa887" stroke-width="3" stroke-linecap="round"/>
+    <path d="M2 -56 Q18 -78 32 -70" fill="none" stroke="#6aa887" stroke-width="3" stroke-linecap="round"/>
+    <path d="M2 -56 Q24 -64 36 -46" fill="none" stroke="#6aa887" stroke-width="3" stroke-linecap="round"/>
+  </g>
+          <rect x="148" y="138" width="224" height="100" fill="#3e2f23" stroke="#d9ba75" stroke-width="2.5"/>
+               <line x1="142" y1="138" x2="378" y2="138" stroke="#d9ba75" stroke-width="6"/>
+               <line x1="192" y1="138" x2="192" y2="238" stroke="#d9ba75" stroke-width="5"/>
+               <line x1="236" y1="138" x2="236" y2="238" stroke="#d9ba75" stroke-width="5"/>
+               <line x1="280" y1="138" x2="280" y2="238" stroke="#d9ba75" stroke-width="5"/>
+               <line x1="324" y1="138" x2="324" y2="238" stroke="#d9ba75" stroke-width="5"/>
+        <rect x="26" y="246" width="468" height="48" rx="10" fill="#19382d" opacity="0.82"/><text x="42" y="52" fill="#d9ba75" font-family="Arial, sans-serif" font-size="12" font-weight="bold" letter-spacing="1.8">IMG-CHR-15</text><text x="42" y="268" fill="#f3f6f0" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Mosquée et vie communautaire</text><text x="42" y="285" fill="#d9ba75" font-family="Arial, sans-serif" font-size="10.5">DEMO · NON VALIDÉ · ÉVOCATION GRAPHIQUE ANICONIQUE</text></svg>

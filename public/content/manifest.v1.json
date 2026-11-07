@@ -9632,29 +9632,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: La Mecque : cadre géographique et social",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-01.svg",
-      "hash": "8b4cb77cc8baf568ecfd31453f033d2ec8c8dcfbf8795baefb535fd1551f9055",
-      "size": 1635,
+      "hash": "5d64f0bd61edc723ce7b7e00c414e3202b28b716e8d6cc395da29f6206a2cabd",
+      "size": 2589,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-01, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-01 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour La Mecque : cadre géographique et social (IMG-CHR-01), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: مكة: الإطار الجغرافي والاجتماعي (IMG-CHR-01) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (La Mecque : cadre géographique et social) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (مكة: الإطار الجغرافي والاجتماعي) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -9665,29 +9665,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Naissance et enfance",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-02.svg",
-      "hash": "25f4f1751d5b4507187a0b1de151a1700407b2aefddd83e0206591b202f2310d",
-      "size": 1614,
+      "hash": "85e9cbb285b226804fd9f9014ccbb0dfeda7047868fdc8f5b15def9f60995c3f",
+      "size": 1971,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-02, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-02 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Naissance et enfance (IMG-CHR-02), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: المولد والطفولة (IMG-CHR-02) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Naissance et enfance) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (المولد والطفولة) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -9698,29 +9698,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Jeunesse et activités",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-03.svg",
-      "hash": "5ef31cc3699be420dee7e55ff1ff55fc93463ee8aec0eb4315c214d7894199ae",
-      "size": 1616,
+      "hash": "b50faa3d0f36bddfed654e94fb09c7085d6ec291966393dd0768d84d4b04b74e",
+      "size": 2058,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-03, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-03 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Jeunesse et activités (IMG-CHR-03), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الشباب والأنشطة (IMG-CHR-03) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Jeunesse et activités) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الشباب والأنشطة) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -9731,29 +9731,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Vie familiale avant la Révélation",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-04.svg",
-      "hash": "ca2d5d7532b3d0b0819aa889e40a50848feddb7f6ee48c4e7b108b4b9bd23136",
-      "size": 1629,
+      "hash": "e3937efc4040d90e08286391c296ebdbcd5f537c34af95457756a435c7ea9fde",
+      "size": 1788,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-04, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-04 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Vie familiale avant la Révélation (IMG-CHR-04), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الحياة الأسرية قبل الوحي (IMG-CHR-04) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Vie familiale avant la Révélation) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الحياة الأسرية قبل الوحي) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -9764,29 +9764,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Premières révélations",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-05.svg",
-      "hash": "f7a957c81c1af7b04ea1aa7c943bfce461f4fb71b7bd51d18fb7dc932ece82f7",
-      "size": 1618,
+      "hash": "30f3fce6360eca3ec516179c5380f291c8ef5353041c29bef14c6164a9fe98ac",
+      "size": 3516,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-05, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-05 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Premières révélations (IMG-CHR-05), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: بدايات الوحي (IMG-CHR-05) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Premières révélations) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (بدايات الوحي) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -9797,29 +9797,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Premiers adhérents au message",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-06.svg",
-      "hash": "d32ff3cb60dcadaeeb1214618abdd5b5b2f659277400fcf2388b115697ce1d42",
-      "size": 1624,
+      "hash": "2ba647ef769688b043cbd265944ca244dc92e063801be89405e48c8ba0484c37",
+      "size": 1783,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-06, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-06 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Premiers adhérents au message (IMG-CHR-06), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: أوائل المؤمنين بالرسالة (IMG-CHR-06) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Premiers adhérents au message) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (أوائل المؤمنين بالرسالة) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -9830,29 +9830,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Prédication publique",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-07.svg",
-      "hash": "bdfe83a061b1846060c66cec87f69b36f4f8ff59fa3dda81553884281e818e28",
-      "size": 1615,
+      "hash": "b9aef3eff16b52c2a8f84357e2e00c071734f187ea6fc907c33910d97086685c",
+      "size": 3514,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-07, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-07 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Prédication publique (IMG-CHR-07), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الدعوة العلنية (IMG-CHR-07) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Prédication publique) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الدعوة العلنية) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -9863,29 +9863,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Oppositions et premières épreuves",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-08.svg",
-      "hash": "ce1f48f12cbb4a5d004a9d3229c540e01790b6ffb13282c886907938f453d254",
-      "size": 1629,
+      "hash": "3e3abd0cd9294cbbf01d5034c7cbf9ca305400ade8369b7e445e86a531d6fc01",
+      "size": 1959,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-08, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-08 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Oppositions et premières épreuves (IMG-CHR-08), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: المعارضة والابتلاءات الأولى (IMG-CHR-08) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Oppositions et premières épreuves) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (المعارضة والابتلاءات الأولى) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -9896,29 +9896,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Départs vers l'Abyssinie",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-09.svg",
-      "hash": "4c448175a811c952673d38f9b7e263f8ca78aeae4e1c02b778aa956b5203a8b2",
-      "size": 1623,
+      "hash": "79930e6becb1b82cfee90a8d6a2b2915f7978081999cecf01d6b060680d869d5",
+      "size": 1985,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-09, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-09 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Départs vers l'Abyssinie (IMG-CHR-09), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الهجرة إلى الحبشة (IMG-CHR-09) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Départs vers l'Abyssinie) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الهجرة إلى الحبشة) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -9929,29 +9929,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Boycott et difficultés à La Mecque",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-10.svg",
-      "hash": "93b0d93bb55f10a0f649cae3aa58f46caa2ae00d9f0d6cd2ab1abbf4e95ccce5",
-      "size": 1630,
+      "hash": "d5c0987cb472517afc97b253618ca465e41a92019590879318b0da7044210df7",
+      "size": 1979,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-10, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-10 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Boycott et difficultés à La Mecque (IMG-CHR-10), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: المقاطعة والصعوبات في مكة (IMG-CHR-10) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Boycott et difficultés à La Mecque) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (المقاطعة والصعوبات في مكة) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -9962,29 +9962,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Année de tristesse et épisode de Taïf",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-11.svg",
-      "hash": "fd60dff51403d057da0abd4c33d029c2f8cd2248c7ec46d7f7fad165b5a59c62",
-      "size": 1634,
+      "hash": "0f7a39f4c2ddda820e0196a3d6a456d941ae62bde548925fb501bdd390a282f2",
+      "size": 2402,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-11, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-11 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Année de tristesse et épisode de Taïf (IMG-CHR-11), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: عام الحزن ورحلة الطائف (IMG-CHR-11) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Année de tristesse et épisode de Taïf) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (عام الحزن ورحلة الطائف) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -9995,29 +9995,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Rencontres de Yathrib et engagements d'al-‘Aqaba",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-12.svg",
-      "hash": "47266402bdff34e06b125e5274e604573aeceddad400d7b5e68c47cc7b042407",
-      "size": 1646,
+      "hash": "076ea469168255936536d92476b6b2e442d3235f05a1d08ab2202646b6b19a49",
+      "size": 3296,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-12, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-12 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Rencontres de Yathrib et engagements d'al-‘Aqaba (IMG-CHR-12), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: لقاءات يثرب وبيعة العقبة (IMG-CHR-12) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Rencontres de Yathrib et engagements d'al-‘Aqaba) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (لقاءات يثرب وبيعة العقبة) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10028,29 +10028,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Départ pour l'Hégire",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-13.svg",
-      "hash": "f650605aa881a0059d7748b8c1d34a28acc5a6b2ebf32afdcc3c312543c5057f",
-      "size": 1620,
+      "hash": "9c6642eb8224fe9b66eb44b44d6ae0fc630992fa83fee628f7fca9c8f781923a",
+      "size": 2388,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-13, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-13 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Départ pour l'Hégire (IMG-CHR-13), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الانطلاق في الهجرة (IMG-CHR-13) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Départ pour l'Hégire) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الانطلاق في الهجرة) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10061,29 +10061,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Arrivée à Qubâ' et Médine",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-14.svg",
-      "hash": "c5e128bf6da14c3acff4c0604a9e91b23d18a5f42f65adc1a783388d4f4e5446",
-      "size": 1627,
+      "hash": "a92cc763466354b4b468d0fc4a3f7606883441c19f7e80990fe70e61a5a46399",
+      "size": 3164,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-14, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-14 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Arrivée à Qubâ' et Médine (IMG-CHR-14), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الوصول إلى قباء والمدينة (IMG-CHR-14) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Arrivée à Qubâ' et Médine) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الوصول إلى قباء والمدينة) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10094,29 +10094,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Mosquée et vie communautaire",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-15.svg",
-      "hash": "4c84b7e76b901ba3a63b4e47bec76bbcb8cf021e97d47cfa328bda8e3ec84a70",
-      "size": 1623,
+      "hash": "28b7480fea787d3c62fe5fe0913bbd29be414c9f9a47e98c60b23144abe34690",
+      "size": 3503,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-15, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-15 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Mosquée et vie communautaire (IMG-CHR-15), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: المسجد والحياة الجماعية (IMG-CHR-15) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Mosquée et vie communautaire) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (المسجد والحياة الجماعية) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10127,29 +10127,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Organisation sociale et accords à Médine",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-16.svg",
-      "hash": "1f8cad2fe76a49a3925a1a72a9103bacca9cf363935b0c2b8b9f641c2ee9569b",
-      "size": 1636,
+      "hash": "db2d7283bc169d45d10ff6dba7afd545587b042b8eea40fe98e03da55148b945",
+      "size": 3405,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-16, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-16 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Organisation sociale et accords à Médine (IMG-CHR-16), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: التنظيم الاجتماعي والعهود في المدينة (IMG-CHR-16) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Organisation sociale et accords à Médine) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (التنظيم الاجتماعي والعهود في المدينة) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10160,29 +10160,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Badr",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-17.svg",
-      "hash": "9a479f3bac2467a583977ccab753294b48a9ad84f35317c9300add630664cf88",
-      "size": 1598,
+      "hash": "cefb394e152345b859534db8cc4cf04a3eb91f54c88540c43ed1b3235f140684",
+      "size": 1905,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-17, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-17 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Badr (IMG-CHR-17), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: بدر (IMG-CHR-17) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Badr) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (بدر) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10193,29 +10193,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Uhud",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-18.svg",
-      "hash": "7fdbf1e1fb338f0773a47d7815b66c18b552d9e85549133640c88b05eca11665",
-      "size": 1598,
+      "hash": "34fc1ce50b4a276cf7d6418d3063431ea870a12ca1a69efd30fb1f1c5846a240",
+      "size": 1760,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-18, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-18 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Uhud (IMG-CHR-18), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: أحد (IMG-CHR-18) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Uhud) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (أحد) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10226,29 +10226,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Épisode du Fossé",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-19.svg",
-      "hash": "6e0b031f3f0ecde07add4d8a72946200bb988b8b6d805af48da87ce0395629c5",
-      "size": 1612,
+      "hash": "651c33a7fb56ba56c5c2d94d45fc1d813e30dd2b00e942bee06f047d39e6c6be",
+      "size": 1738,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-19, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-19 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Épisode du Fossé (IMG-CHR-19), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: غزوة الخندق (IMG-CHR-19) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Épisode du Fossé) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (غزوة الخندق) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10259,29 +10259,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Accord d'al-Hudaybiyya",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-20.svg",
-      "hash": "db758df76a0c170feecbaabf236c81d059b35560ec0bf766489c6f173ed97718",
-      "size": 1620,
+      "hash": "48096115080336c40290a3d2df4109ef584a796803d04616b0f2097ffeb05e84",
+      "size": 3001,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-20, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-20 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Accord d'al-Hudaybiyya (IMG-CHR-20), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: صلح الحديبية (IMG-CHR-20) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Accord d'al-Hudaybiyya) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (صلح الحديبية) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10292,29 +10292,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Entrée à La Mecque",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-21.svg",
-      "hash": "1347fb997fac0dc97f24b907cc6b4932d7af8fb134cdd6fc42ba3eee7ade57c5",
-      "size": 1614,
+      "hash": "9468bee175ea41e76fd87591bcd8eec8450f98307ac833592358813151f1315c",
+      "size": 3074,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-21, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-21 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Entrée à La Mecque (IMG-CHR-21), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: دخول مكة (IMG-CHR-21) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Entrée à La Mecque) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (دخول مكة) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10325,29 +10325,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Relations et délégations",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-22.svg",
-      "hash": "9cb224639638a35d6ee6336985a855ed9a7af10bbd76c47f3ed73935aa36ccac",
-      "size": 1620,
+      "hash": "333db1f9819408b91a53eb096b6a57d94f064a8f86dd35a36565ce63c4af0726",
+      "size": 3250,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-22, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-22 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Relations et délégations (IMG-CHR-22), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: العلاقات والوفود (IMG-CHR-22) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Relations et délégations) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (العلاقات والوفود) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10358,29 +10358,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Pèlerinage d'adieu",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-23.svg",
-      "hash": "a8c860161d22dd8f9bb71d0b5bec2efa7a4e4de7259def3a201c7a4682965799",
-      "size": 1617,
+      "hash": "c27afb1609c64f84790f4ec5d3529d02dff20c4ccf19b6c85170085d3dd505dc",
+      "size": 3143,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-23, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-23 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Pèlerinage d'adieu (IMG-CHR-23), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: حجة الوداع (IMG-CHR-23) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Pèlerinage d'adieu) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (حجة الوداع) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10391,29 +10391,29 @@
       ],
       "locale": null,
       "role": "Évocation documentaire du sujet: Derniers jours et décès",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-CHR-24.svg",
-      "hash": "f1903dc458645d67e17c76a5ec493c0280429ad5ec56f41d0789c39d868be76e",
-      "size": 1619,
+      "hash": "cc0b5a0c3ebbc269caa8eb2deb290a961ae25e78c77d9db366b28e1258e2c497",
+      "size": 3111,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-CHR-24, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-CHR-24 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Derniers jours et décès (IMG-CHR-24), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الأيام الأخيرة والوفاة (IMG-CHR-24) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Derniers jours et décès) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الأيام الأخيرة والوفاة) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10424,29 +10424,29 @@
       ],
       "locale": null,
       "role": "Carte ou illustration documentaire pour: La Mecque : contexte du départ",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-HEG-ETP-01.svg",
-      "hash": "d68f524f27e7d6df0ef5028989f2b05d38aec6c6509d2972fb17dcf3da5ab23a",
-      "size": 1633,
+      "hash": "3d7c81b86225ce43dfb30f2486ca80e025dec2765eb469cc2fd9e415abecf7fd",
+      "size": 3003,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-HEG-ETP-01, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-HEG-ETP-01 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour La Mecque : contexte du départ (IMG-HEG-ETP-01), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: مكة: سياق الرحيل (IMG-HEG-ETP-01) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (La Mecque : contexte du départ) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (مكة: سياق الرحيل) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10457,29 +10457,29 @@
       ],
       "locale": null,
       "role": "Carte ou illustration documentaire pour: Le départ de La Mecque",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-HEG-ETP-02.svg",
-      "hash": "35c83cee05f3e800d8f8d9defce1f4e87062e7cbd61b4e09112ae6409f7f5be0",
-      "size": 1625,
+      "hash": "6bc3dec1ccdd241928643f1d0834ffaa9a3fe1203774925c489d62f5c372e0ac",
+      "size": 2997,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-HEG-ETP-02, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-HEG-ETP-02 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Le départ de La Mecque (IMG-HEG-ETP-02), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الرحيل من مكة (IMG-HEG-ETP-02) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Le départ de La Mecque) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الرحيل من مكة) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10490,29 +10490,29 @@
       ],
       "locale": null,
       "role": "Carte ou illustration documentaire pour: La grotte de Thawr",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-HEG-ETP-03.svg",
-      "hash": "035a74e4e8b086b11c6e37245f969085d8d0d95ccabe419aed30c8dcb69f0693",
-      "size": 1620,
+      "hash": "2c6c95422dd593fcfc8fc8f0ae0e6862014a6963e17ddbbde3f35a96bb4bdf8b",
+      "size": 2992,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-HEG-ETP-03, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-HEG-ETP-03 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour La grotte de Thawr (IMG-HEG-ETP-03), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: غار ثور (IMG-HEG-ETP-03) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (La grotte de Thawr) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (غار ثور) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10523,29 +10523,29 @@
       ],
       "locale": null,
       "role": "Carte ou illustration documentaire pour: Itinéraire vers Yathrib",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-HEG-ETP-04.svg",
-      "hash": "ea3667d204de932af9cda140b737d7e3a4cab201be66f85e84796ac5961a204d",
-      "size": 1626,
+      "hash": "6c3edc6de02f2577e907dc911443003e89c334f00599db224978ac1620b7b6da",
+      "size": 2998,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-HEG-ETP-04, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-HEG-ETP-04 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Itinéraire vers Yathrib (IMG-HEG-ETP-04), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الطريق إلى يثرب (IMG-HEG-ETP-04) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Itinéraire vers Yathrib) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الطريق إلى يثرب) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10556,29 +10556,29 @@
       ],
       "locale": null,
       "role": "Carte ou illustration documentaire pour: Arrivée à Qubâ'",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-HEG-ETP-05.svg",
-      "hash": "992036a335a2d25c11f6a9adb3b735fbfc4bb063caaa2d6f7a7da6bd6072f7f5",
-      "size": 1624,
+      "hash": "e30ff434ffab5b6813a0f7342bfe96e13eca58279d80f05abc68751195ce917f",
+      "size": 2995,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-HEG-ETP-05, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-HEG-ETP-05 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Arrivée à Qubâ' (IMG-HEG-ETP-05), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الوصول إلى قباء (IMG-HEG-ETP-05) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Arrivée à Qubâ') — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الوصول إلى قباء) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10589,29 +10589,29 @@
       ],
       "locale": null,
       "role": "Carte ou illustration documentaire pour: Arrivée et installation à Médine",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-HEG-ETP-06.svg",
-      "hash": "aa93e7888238b25d67fb9517b02ffa92c87ceb778405a3dcfa5b364de2a4d06d",
-      "size": 1637,
+      "hash": "a628cf582be4991fe08386299275f9e5ee0501b414aa1956ba0473d26c6581b4",
+      "size": 3007,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-HEG-ETP-06, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-HEG-ETP-06 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Arrivée et installation à Médine (IMG-HEG-ETP-06), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الوصول والاستقرار في المدينة (IMG-HEG-ETP-06) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Arrivée et installation à Médine) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الوصول والاستقرار في المدينة) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10622,29 +10622,29 @@
       ],
       "locale": null,
       "role": "Carte ou illustration documentaire pour: Pourquoi l'Hégire ?",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-HEG-DOS-07.svg",
-      "hash": "172e1a1eaf3ed46450d8150e901f7dd87bc719d42a60a212e537f126e15ae6ae",
-      "size": 1626,
+      "hash": "e8085ead16b1df16190a22e9b7879a5eb97e88c39de6581dc2e10491326cf452",
+      "size": 2998,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-HEG-DOS-07, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-HEG-DOS-07 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Pourquoi l'Hégire ? (IMG-HEG-DOS-07), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: لماذا الهجرة؟ (IMG-HEG-DOS-07) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Pourquoi l'Hégire ?) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (لماذا الهجرة؟) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10655,29 +10655,29 @@
       ],
       "locale": null,
       "role": "Carte ou illustration documentaire pour: Conditions et paysages du trajet",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-HEG-DOS-09.svg",
-      "hash": "0f057ee03f4f345a1eda2a92bbd20f65389c2d2bd5c07f8cf6b9431e488b6ed8",
-      "size": 1634,
+      "hash": "71c1204c08981ad18bc339cc25ea7c24dcd5aa79c6fd80c1ac52ce59c4b370bc",
+      "size": 3006,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-HEG-DOS-09, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-HEG-DOS-09 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Conditions et paysages du trajet (IMG-HEG-DOS-09), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: ظروف الطريق وطبيعته (IMG-HEG-DOS-09) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Conditions et paysages du trajet) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (ظروف الطريق وطبيعته) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10688,29 +10688,29 @@
       ],
       "locale": null,
       "role": "Carte ou illustration documentaire pour: Variantes et incertitudes de l'itinéraire",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-HEG-DOS-10.svg",
-      "hash": "8892f7548e4e3dcbdd7178da58c4a11fbec13ba5c0bcceaba850170765b99c24",
-      "size": 1648,
+      "hash": "d930c672c77e62ae00c8964a52dd4f805da4c610ee4b10a44f1841c6ae694bd6",
+      "size": 3019,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-HEG-DOS-10, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-HEG-DOS-10 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Variantes et incertitudes de l'itinéraire (IMG-HEG-DOS-10), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: اختلاف الروايات وعدم يقين المسار (IMG-HEG-DOS-10) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Variantes et incertitudes de l'itinéraire) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (اختلاف الروايات وعدم يقين المسار) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10723,29 +10723,29 @@
       ],
       "locale": null,
       "role": "Couverture thème Habitat",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-VIE-THEME-01.svg",
-      "hash": "3efc66a72fc3f1301010fd5531b24fc770b071f1619c4501c6d90806f835e4f7",
-      "size": 1659,
+      "hash": "4690e01bb2b0d68273994ece6496309b88272f15f93f5afa9cf244ae1a05709d",
+      "size": 1880,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-VIE-THEME-01, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-VIE-THEME-01 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Espaces domestiques · Matériaux et construction · Éclairage et rangement (IMG-VIE-THEME-01), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الفضاءات المنزلية · مواد البناء وطرقه · الإضاءة والتخزين (IMG-VIE-THEME-01) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Espaces domestiques · Matériaux et construction · Éclairage et rangement) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الفضاءات المنزلية · مواد البناء وطرقه · الإضاءة والتخزين) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10758,29 +10758,29 @@
       ],
       "locale": null,
       "role": "Couverture thème Alimentation",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-VIE-THEME-02.svg",
-      "hash": "d11889e765b7d23e8c02e4ec1da450e7424daa6274fc394e5b288ed618cb7fee",
-      "size": 1660,
+      "hash": "2c5ccf01bdd5220c0249fe365da1cbe0069960349f8387e2403a82df9bdf1a3c",
+      "size": 2042,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-VIE-THEME-02, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-VIE-THEME-02 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Denrées et usages · Préparation des repas · Conservation des aliments (IMG-VIE-THEME-02), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: المواد الغذائية واستخداماتها · إعداد الطعام · حفظ الأغذية (IMG-VIE-THEME-02) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Denrées et usages · Préparation des repas · Conservation des aliments) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (المواد الغذائية واستخداماتها · إعداد الطعام · حفظ الأغذية) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10793,29 +10793,29 @@
       ],
       "locale": null,
       "role": "Couverture thème Eau et stockage",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-VIE-THEME-03.svg",
-      "hash": "1951a0ea4c972c5605f985033de6d9bf5219363ce3e796ea513b7553a2ad4729",
-      "size": 1657,
+      "hash": "df1b142cf3ed9ee666f6b0ed328af8cf094492e8e8798652897b2ee8514597fe",
+      "size": 1755,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-VIE-THEME-03, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-VIE-THEME-03 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Approvisionnement en eau · Transport de l'eau · Stockage domestique (IMG-VIE-THEME-03), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: التزوّد بالماء · نقل الماء · التخزين المنزلي (IMG-VIE-THEME-03) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Approvisionnement en eau · Transport de l'eau · Stockage domestique) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (التزوّد بالماء · نقل الماء · التخزين المنزلي) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10828,29 +10828,29 @@
       ],
       "locale": null,
       "role": "Couverture thème Vêtements et textiles",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-VIE-THEME-04.svg",
-      "hash": "9defe34d5aaa6e4b912557ad8c64b10c9ee75bbea0cc5b20e24353322d87ae91",
-      "size": 1659,
+      "hash": "a21523e620086c70c4ba049e69baa874614d4aac130883e379f9291f3d9fa008",
+      "size": 2155,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-VIE-THEME-04, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-VIE-THEME-04 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Fibres et matières · Confection et entretien · Chaussures et accessoires (IMG-VIE-THEME-04), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الألياف والمواد · الصناعة والعناية · الأحذية والملحقات (IMG-VIE-THEME-04) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Fibres et matières · Confection et entretien · Chaussures et accessoires) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الألياف والمواد · الصناعة والعناية · الأحذية والملحقات) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10863,29 +10863,29 @@
       ],
       "locale": null,
       "role": "Couverture thème Artisanat",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-VIE-THEME-05.svg",
-      "hash": "68f4908db9dfb8bfaa84d94ba3dfa2f37eaa7cadfa47ec797268298a993e98e1",
-      "size": 1659,
+      "hash": "95588e50cf6bde9183dfb554999358bf4f981562ccddc2ed7d364f7f61b5d969",
+      "size": 2155,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-VIE-THEME-05, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-VIE-THEME-05 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Poterie et récipients · Tissage et fabrication · Travail du cuir (IMG-VIE-THEME-05), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الفخار والأواني · النسيج والصناعة · صناعة الجلود (IMG-VIE-THEME-05) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Poterie et récipients · Tissage et fabrication · Travail du cuir) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الفخار والأواني · النسيج والصناعة · صناعة الجلود) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10898,29 +10898,29 @@
       ],
       "locale": null,
       "role": "Couverture thème Commerce et mesures",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-VIE-THEME-06.svg",
-      "hash": "3d8cd90a876e0bfbfe3b6d2047ad86630e547055f983df13b47757dee6228dc6",
-      "size": 1660,
+      "hash": "ec55e9571c6b738165a671bb91563ed61178dbe2b172a6318e85d80b835bc6a2",
+      "size": 2231,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-VIE-THEME-06, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-VIE-THEME-06 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Échanges et marchés · Poids et mesures · Circulation des produits (IMG-VIE-THEME-06), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: التبادل والأسواق · الأوزان والمقاييس · تداول المنتجات (IMG-VIE-THEME-06) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Échanges et marchés · Poids et mesures · Circulation des produits) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (التبادل والأسواق · الأوزان والمقاييس · تداول المنتجات) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10933,29 +10933,29 @@
       ],
       "locale": null,
       "role": "Couverture thème Voyage et équipements",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-VIE-THEME-07.svg",
-      "hash": "d3b03e87a56f9d53b7ccd2c7027607d2825fe946e2d3eeaf4143d14d7a1f4f19",
-      "size": 1660,
+      "hash": "f076f77a130ce52cedaaafd69282d728c374810bd209da36f2ce7ef89ad421a1",
+      "size": 2412,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-VIE-THEME-07, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-VIE-THEME-07 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Préparatifs matériels · Transport des effets · Orientation et provisions (IMG-VIE-THEME-07), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: التجهيزات المادية للسفر · نقل الأمتعة · الاهتداء والتزوّد (IMG-VIE-THEME-07) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Préparatifs matériels · Transport des effets · Orientation et provisions) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (التجهيزات المادية للسفر · نقل الأمتعة · الاهتداء والتزوّد) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -10968,29 +10968,29 @@
       ],
       "locale": null,
       "role": "Couverture thème Écriture et transmission",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-VIE-THEME-08.svg",
-      "hash": "b7501d28c476e20e696081f0d68b60af4c7842cc3cba8d12735a32fc94b7c9f6",
-      "size": 1660,
+      "hash": "ab100134eaeb0bd68effa6260c360ab3c7341ec6014a6f4fd097c6ee5ab8da0c",
+      "size": 2079,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-VIE-THEME-08, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-VIE-THEME-08 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Supports d'écriture · Outils et matériaux · Usages de la transmission écrite (IMG-VIE-THEME-08), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: حوامل الكتابة · الأدوات والمواد · استخدامات النقل الكتابي (IMG-VIE-THEME-08) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Supports d'écriture · Outils et matériaux · Usages de la transmission écrite) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (حوامل الكتابة · الأدوات والمواد · استخدامات النقل الكتابي) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -11001,29 +11001,29 @@
       ],
       "locale": null,
       "role": "Détail documentaire de VIE-05",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-VIE-DETAIL-05.svg",
-      "hash": "8fe690c1387b0344820aa158b7cc0ed87a0d3848b180dab297798514b9de8b68",
-      "size": 1630,
+      "hash": "7a2efe289da66c38f9dbb3a81a6d405b0ee79cb160d4166232d6fbc216a6bbed",
+      "size": 2008,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-VIE-DETAIL-05, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-VIE-DETAIL-05 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Préparation des repas (IMG-VIE-DETAIL-05), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: إعداد الطعام (IMG-VIE-DETAIL-05) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Préparation des repas) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (إعداد الطعام) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -11034,29 +11034,29 @@
       ],
       "locale": null,
       "role": "Détail documentaire de VIE-08",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-VIE-DETAIL-08.svg",
-      "hash": "bdafc4d279db358561cfa1af8cb5397a2ce3e93f9dce16084c5db2865811ce56",
-      "size": 1630,
+      "hash": "10cc5409c76d9d46dad4eb64ca6fd4329a7cb9a9f4b074a439642bff5a55996c",
+      "size": 1723,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-VIE-DETAIL-08, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-VIE-DETAIL-08 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Transport de l'eau (IMG-VIE-DETAIL-08), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: نقل الماء (IMG-VIE-DETAIL-08) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Transport de l'eau) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (نقل الماء) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -11067,29 +11067,29 @@
       ],
       "locale": null,
       "role": "Détail documentaire de VIE-13",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-VIE-DETAIL-13.svg",
-      "hash": "891f0ceb8d1c304097ea19080eaf173af334b088157dc35bcb15371326150b8d",
-      "size": 1630,
+      "hash": "eeeff7a1e70f2f2fe3ac36bd54ab608bcb9ee9a5cf0979d18f75a361de7b155b",
+      "size": 2122,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-VIE-DETAIL-13, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-VIE-DETAIL-13 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Poterie et récipients (IMG-VIE-DETAIL-13), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الفخار والأواني (IMG-VIE-DETAIL-13) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Poterie et récipients) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الفخار والأواني) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -11100,29 +11100,29 @@
       ],
       "locale": null,
       "role": "Détail documentaire de VIE-23",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/illustrations/IMG-VIE-DETAIL-23.svg",
-      "hash": "36b0fc4225609203d7573f61ccbb93bc9cf25b8b3e2b06f398f26558a4e0000f",
-      "size": 1628,
+      "hash": "16e0aa10a279e1ee9f5e62c8d75d8c3528661750606a4f5fdb921ca828be4305",
+      "size": 2043,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour IMG-VIE-DETAIL-23, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف IMG-VIE-DETAIL-23 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Outils et matériaux (IMG-VIE-DETAIL-23), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الأدوات والمواد (IMG-VIE-DETAIL-23) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Outils et matériaux) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الأدوات والمواد) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -11133,29 +11133,29 @@
       ],
       "locale": null,
       "role": "Animation explicative sans êtres vivants pour CHR-05",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/animations/ANI-001.svg",
-      "hash": "59558ee8098cb7996b16e34f2fbdf1e14fc47d089c4ac44b831d89e4ba99be06",
-      "size": 1744,
+      "hash": "4e23b59dfa08adcbc45734ac5031994052228dc0c8ddf1ec2e4ad03d2b3c0623",
+      "size": 2642,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour ANI-001, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف ANI-001 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Premières révélations (ANI-001), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: بدايات الوحي (ANI-001) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Premières révélations) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (بدايات الوحي) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -11166,29 +11166,29 @@
       ],
       "locale": null,
       "role": "Animation explicative sans êtres vivants pour CHR-09",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/animations/ANI-002.svg",
-      "hash": "b3b9ac480cca06ba6ce6a9f86869981a6554f71dc602d853d143273800a93fcc",
-      "size": 1749,
+      "hash": "3fd47de2e5945fbb9853a36dce9b7447409a92639435b7c457650025ac850b86",
+      "size": 2645,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour ANI-002, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف ANI-002 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Départs vers l'Abyssinie (ANI-002), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الهجرة إلى الحبشة (ANI-002) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Départs vers l'Abyssinie) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الهجرة إلى الحبشة) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -11199,29 +11199,29 @@
       ],
       "locale": null,
       "role": "Animation explicative sans êtres vivants pour CHR-13",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/animations/ANI-003.svg",
-      "hash": "ebae7e2b843823d2085e758a4e61d30051f34483737a6b1e05916329b80be87e",
-      "size": 1746,
+      "hash": "fadd0967fe0315d9a51c6c282b4fa4d8d45ae504d83c134808abbfc5f344c87d",
+      "size": 2641,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour ANI-003, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف ANI-003 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Départ pour l'Hégire (ANI-003), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الانطلاق في الهجرة (ANI-003) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Départ pour l'Hégire) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الانطلاق في الهجرة) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -11232,29 +11232,29 @@
       ],
       "locale": null,
       "role": "Animation explicative sans êtres vivants pour CHR-17",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/animations/ANI-004.svg",
-      "hash": "fb4b3169554516de69811a8e4bf2d3e3e2ff9ad30f95e99ff4f01f457e4a2649",
-      "size": 1724,
+      "hash": "f53565b6ff27ea47152a1bc1b5c3ae6db68e7e5bab774831b466a215fc18687e",
+      "size": 2620,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour ANI-004, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف ANI-004 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Badr (ANI-004), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: بدر (ANI-004) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Badr) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (بدر) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -11265,29 +11265,29 @@
       ],
       "locale": null,
       "role": "Animation explicative sans êtres vivants pour CHR-23",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/animations/ANI-005.svg",
-      "hash": "7b7ba28ca33978f17e68e6d124ab4e2e553c9cfeab51839a668c24f5b09d98ab",
-      "size": 1743,
+      "hash": "11adcb327eb6c1d9faf02e191d0e0521da5d49cde83481f206058891be43e78f",
+      "size": 2641,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour ANI-005, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف ANI-005 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Pèlerinage d'adieu (ANI-005), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: حجة الوداع (ANI-005) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Pèlerinage d'adieu) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (حجة الوداع) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -11298,29 +11298,29 @@
       ],
       "locale": null,
       "role": "Animation explicative sans êtres vivants pour HEG-ETP-01",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/animations/ANI-006.svg",
-      "hash": "59fc65eb089dc2bd1e1017de76226a2c133bfdbfa0c066e3da190aa6cdb7b0dd",
-      "size": 1751,
+      "hash": "02eebaa29122f90a44e6e6748de312d7a09ee4789c7672ad928b58151f9bb423",
+      "size": 2650,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour ANI-006, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف ANI-006 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour La Mecque : contexte du départ (ANI-006), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: مكة: سياق الرحيل (ANI-006) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (La Mecque : contexte du départ) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (مكة: سياق الرحيل) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -11331,29 +11331,29 @@
       ],
       "locale": null,
       "role": "Animation explicative sans êtres vivants pour HEG-ETP-03",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/animations/ANI-007.svg",
-      "hash": "c58035432f7cb733a9fcb314062fd65c82f8eb262e1f4563ba487bf54e3a30a3",
-      "size": 1738,
+      "hash": "1016cfe0c43b026277d0e9d1a3eabb9270102613b52f920650cc121743b2b118",
+      "size": 2635,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour ANI-007, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف ANI-007 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour La grotte de Thawr (ANI-007), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: غار ثور (ANI-007) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (La grotte de Thawr) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (غار ثور) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -11364,29 +11364,29 @@
       ],
       "locale": null,
       "role": "Animation explicative sans êtres vivants pour HEG-ETP-04",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/animations/ANI-008.svg",
-      "hash": "45628106220984d9fa3587afd06723100f7a8ab762492ebe6cb9b981d86d2162",
-      "size": 1744,
+      "hash": "8c6beb99def17bc5e084bc9a228971f40f9a7178013763180b3b446fd30a8b82",
+      "size": 2644,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour ANI-008, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف ANI-008 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Itinéraire vers Yathrib (ANI-008), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الطريق إلى يثرب (ANI-008) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Itinéraire vers Yathrib) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الطريق إلى يثرب) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -11397,29 +11397,29 @@
       ],
       "locale": null,
       "role": "Animation explicative sans êtres vivants pour HEG-ETP-05",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/animations/ANI-009.svg",
-      "hash": "88c9ede6b3a6eb69b2e91227b2e0dc4f6534ec5cbdb4f5ca2985a090298250dc",
-      "size": 1742,
+      "hash": "85c7ffab1aa951e788861c686cb90c7dbd303a45935bf14f9f23c3832407a2dd",
+      "size": 2639,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour ANI-009, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف ANI-009 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Arrivée à Qubâ' (ANI-009), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الوصول إلى قباء (ANI-009) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Arrivée à Qubâ') — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الوصول إلى قباء) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -11430,29 +11430,29 @@
       ],
       "locale": null,
       "role": "Animation explicative sans êtres vivants pour VIE-05",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/animations/ANI-010.svg",
-      "hash": "d30cc36d0d44f959d748876a3482b13dbcefcca5773bb57dccfbbc9f02f7b5f8",
-      "size": 1742,
+      "hash": "02c3021f30c68eb38577e2c0be9d5b43f84cd14c8ea5f1c1e54ce34bf8b18b20",
+      "size": 2640,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour ANI-010, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف ANI-010 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Préparation des repas (ANI-010), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: إعداد الطعام (ANI-010) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Préparation des repas) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (إعداد الطعام) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -11463,29 +11463,29 @@
       ],
       "locale": null,
       "role": "Animation explicative sans êtres vivants pour VIE-08",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/animations/ANI-011.svg",
-      "hash": "2f5023bbe2baf2a2899f59e4938d3f53ff2770e74aadb4335e850d4c58a1dd6b",
-      "size": 1742,
+      "hash": "a8cc17702d9a85ccfb2e339fc8725f63ce065fd64b9f587dbebbba71730cb5c0",
+      "size": 2640,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour ANI-011, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف ANI-011 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Transport de l'eau (ANI-011), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: نقل الماء (ANI-011) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Transport de l'eau) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (نقل الماء) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -11496,29 +11496,29 @@
       ],
       "locale": null,
       "role": "Animation explicative sans êtres vivants pour VIE-13",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/animations/ANI-012.svg",
-      "hash": "2aded50524fe62182064ba847ef6f3c24c54f2320d1d6a568406ecf7b51ece1e",
-      "size": 1742,
+      "hash": "c5355e0eb6fff8699973ada449681a5ee1ce5c8f63f549fafafa909316d17566",
+      "size": 2637,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour ANI-012, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف ANI-012 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Poterie et récipients (ANI-012), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الفخار والأواني (ANI-012) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Poterie et récipients) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الفخار والأواني) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -11529,29 +11529,29 @@
       ],
       "locale": null,
       "role": "Animation explicative sans êtres vivants pour VIE-16",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/animations/ANI-013.svg",
-      "hash": "0155c4cae984344a1ec88fbb610d95c1402a51757ca0555323e5b0ef77b400b8",
-      "size": 1741,
+      "hash": "524cebb1122a0b7984cb424cd475df0a3fb07e926c87f5b19dab2710fdf7a05b",
+      "size": 2641,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour ANI-013, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف ANI-013 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Échanges et marchés (ANI-013), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: التبادل والأسواق (ANI-013) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Échanges et marchés) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (التبادل والأسواق) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
@@ -11562,29 +11562,29 @@
       ],
       "locale": null,
       "role": "Animation explicative sans êtres vivants pour VIE-23",
-      "source": "Fixture visuelle technique générée localement ; DEMO / NON VALIDE, sans affirmation historique.",
+      "source": "Illustration vectorielle thématique générée localement ; DEMO / NON VALIDE, conforme à l’aniconisme strict.",
       "status": "DEMO",
       "url": "/media/demo/animations/ANI-014.svg",
-      "hash": "e26034c292f9941f52b0a3f8bce2323681eb420b17c52402a9974b8a4514952c",
-      "size": 1740,
+      "hash": "0b48a7e819a2307fffbfa86afdc6faa7d4b921d593de5ec11c8d6d5f9c824cd0",
+      "size": 2637,
       "mimeType": "image/svg+xml",
       "durationSeconds": null,
       "measuredDurationSeconds": null,
       "scriptVersion": null,
       "sectionCuePoints": [],
       "alt": {
-        "fr": "Visuel technique DEMO pour ANI-014, sans représentation humaine ni animale.",
-        "ar": "رسم تقني تجريبي للمعرّف ANI-014 دون بشر أو حيوانات."
+        "fr": "Illustration évocatrice DEMO pour Outils et matériaux (ANI-014), sans aucune représentation humaine ni animale.",
+        "ar": "رسم توضيحي تجريبي للموضوع: الأدوات والمواد (ANI-014) دون أي تجسيد لبشر أو ذوات أرواح."
       },
       "caption": {
-        "fr": "DEMO / NON VALIDE — évocation graphique technique, non documentaire.",
-        "ar": "نموذج تجريبي غير معتمد — تصور تقني غير توثيقي."
+        "fr": "Évocation graphique (Outils et matériaux) — DEMO / NON VALIDÉ, sans valeur de reconstitution historique.",
+        "ar": "تصور بصري (الأدوات والمواد) — نموذج تجريبي غير معتمد، لا يمثل إعادة بناء تاريخية موثقة."
       },
       "credit": null,
       "license": null,
       "referenceIds": [],
       "approvalRecords": [],
-      "revision": "demo-visual-fixture-1",
+      "revision": "demo-visual-rich-v2",
       "fallbackAssetId": null
     },
     {
