@@ -5,7 +5,7 @@
       "D:\\Projects\\SIRA\\node_modules\\@playwright\\test\\cli.js",
       "test",
       "-g",
-      "all 60 records|DEMO animation|responsive 834"
+      "manifest and audio failures"
     ],
     "configFile": "D:\\Projects\\SIRA\\playwright.config.ts",
     "rootDir": "D:/Projects/SIRA/tests/e2e",
@@ -94,7 +94,7 @@
     "version": "1.64.1",
     "workers": 1,
     "webServer": {
-      "command": "npm run preview -- --port 4173",
+      "command": "npm run preview -- --port 4173 --host 127.0.0.1",
       "url": "http://127.0.0.1:4173",
       "reuseExistingServer": true,
       "timeout": 60000
@@ -108,7 +108,7 @@
       "line": 0,
       "specs": [
         {
-          "title": "DEMO animation previews are visible and start only on an explicit action",
+          "title": "manifest and audio failures keep a recoverable screen",
           "ok": true,
           "tags": [],
           "tests": [
@@ -123,12 +123,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 2520,
+                  "duration": 3886,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2026-11-07T21:16:50.185Z",
+                  "startTime": "2026-11-07T21:37:44.037Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -136,87 +136,19 @@
               "status": "expected"
             }
           ],
-          "id": "aa09586c1d16412a1f00-9127eb5c9795067cf1ad",
+          "id": "aa09586c1d16412a1f00-134fd1dd5a3581028bf7",
           "file": "journeys.spec.ts",
-          "line": 69,
+          "line": 56,
           "column": 1
-        },
-        {
-          "title": "all 60 records open in French and Arabic",
-          "ok": true,
-          "tags": [],
-          "tests": [
-            {
-              "timeout": 180000,
-              "annotations": [],
-              "expectedStatus": "passed",
-              "projectId": "",
-              "projectName": "",
-              "results": [
-                {
-                  "workerIndex": 0,
-                  "parallelIndex": 0,
-                  "status": "passed",
-                  "duration": 86344,
-                  "errors": [],
-                  "stdout": [],
-                  "stderr": [],
-                  "retry": 0,
-                  "startTime": "2026-11-07T21:16:53.237Z",
-                  "annotations": [],
-                  "attachments": []
-                }
-              ],
-              "status": "expected"
-            }
-          ],
-          "id": "aa09586c1d16412a1f00-f7b0b7bf101559abed61",
-          "file": "journeys.spec.ts",
-          "line": 78,
-          "column": 1
-        },
-        {
-          "title": "responsive 834x1194 FR/AR and screenshots",
-          "ok": true,
-          "tags": [],
-          "tests": [
-            {
-              "timeout": 120000,
-              "annotations": [],
-              "expectedStatus": "passed",
-              "projectId": "",
-              "projectName": "",
-              "results": [
-                {
-                  "workerIndex": 0,
-                  "parallelIndex": 0,
-                  "status": "passed",
-                  "duration": 12036,
-                  "errors": [],
-                  "stdout": [],
-                  "stderr": [],
-                  "retry": 0,
-                  "startTime": "2026-11-07T21:18:19.629Z",
-                  "annotations": [],
-                  "attachments": []
-                }
-              ],
-              "status": "expected"
-            }
-          ],
-          "id": "aa09586c1d16412a1f00-e9af7b5394344d2e4e05",
-          "file": "journeys.spec.ts",
-          "line": 83,
-          "column": 2
         }
       ]
     }
   ],
   "errors": [],
   "stats": {
-    "startTime": "2026-11-07T21:16:48.112Z",
-    "duration": 117958.971,
-    "expected": 3,
+    "startTime": "2026-11-07T21:37:42.312Z",
+    "duration": 6648.2300000000005,
+    "expected": 1,
     "skipped": 0,
     "unexpected": 0,
     "flaky": 0

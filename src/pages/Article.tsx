@@ -1,6 +1,6 @@
-import { useEffect, useRef } from "react";
+import { useState, useEffect, useRef } from "react";
 import { Link, useParams } from "react-router-dom";
-import { BookOpen, ChevronRight, Info } from "lucide-react";
+import { BookOpen, ChevronRight, Info, Maximize2 } from "lucide-react";
 import { useApp } from "../context";
 import { AudioPlayer } from "../components/AudioPlayer";
 import {
@@ -12,11 +12,13 @@ import {
 import { ObjectViewer } from "../components/ObjectViewer";
 import { MediaImage } from "../components/MediaImage";
 import { AnimationPreview } from "../components/AnimationPreview";
+import { ImmersiveContemplation } from "../components/ImmersiveContemplation";
 export default function Article() {
   const { id } = useParams();
   const { registry, prefs, updatePrefs, t } = useApp();
   const entry = registry.contents.find((c) => c.id === id);
   const locale = prefs.locale;
+  const [immersiveOpen, setImmersiveOpen] = useState(false);
   const resumeSection = useRef(
     prefs.lastContentId === id ? prefs.lastSectionId : undefined,
   );
@@ -96,6 +98,19 @@ export default function Article() {
           <figure className="article-image">
             <MediaImage src={imageSrc} alt={illustration?.alt[locale] ?? ""} />
             <figcaption>{imageCaption}</figcaption>
+            <button
+              type="button"
+              className="article-image-contemplate-btn"
+              onClick={() => setImmersiveOpen(true)}
+              aria-label={
+                locale === "fr"
+                  ? "Ouvrir en mode contemplation plein écran"
+                  : "فتح في وضع التأمل بملء الشاشة"
+              }
+            >
+              <Maximize2 size={16} />
+              <span>{locale === "fr" ? "Plein écran" : "ملء الشاشة"}</span>
+            </button>
           </figure>
           {animation && <AnimationPreview asset={animation} locale={locale} />}
           {entry.geography && (
@@ -167,7 +182,10 @@ export default function Article() {
           )}
         </article>
         <aside className="article-sidebar">
-          <AudioPlayer entry={entry} />
+          <AudioPlayer
+            entry={entry}
+            onAudioStart={() => setImmersiveOpen(true)}
+          />
           <a className="source-shortcut" href="#sources">
             {t("sourceLink")}
             <ChevronRight size={18} />
@@ -182,6 +200,17 @@ export default function Article() {
           )}
         </aside>
       </div>
+
+      {immersiveOpen && (
+        <ImmersiveContemplation
+          imageSrc={imageSrc}
+          alt={illustration?.alt[locale] ?? data.title}
+          title={data.title}
+          eyebrow={`${entry.group[locale]} · ${entry.id}`}
+          locale={locale}
+          onClose={() => setImmersiveOpen(false)}
+        />
+      )}
     </div>
   );
 }

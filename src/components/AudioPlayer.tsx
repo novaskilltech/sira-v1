@@ -249,7 +249,13 @@ const draftAudios: Record<string, Record<string, string>> = {
   },
 };
 
-export function AudioPlayer({ entry }: { entry: ContentEntry }) {
+export function AudioPlayer({
+  entry,
+  onAudioStart,
+}: {
+  entry: ContentEntry;
+  onAudioStart?: () => void;
+}) {
   const { registry, prefs, updatePrefs, t } = useApp();
   const controller = narration();
   const state = useSyncExternalStore(
@@ -330,9 +336,14 @@ export function AudioPlayer({ entry }: { entry: ContentEntry }) {
             <button
               className="button round"
               aria-label={playing ? t("pause") : t("listen")}
-              onClick={() =>
-                playing ? controller.pause() : void controller.play()
-              }
+              onClick={() => {
+                if (playing) {
+                  controller.pause();
+                } else {
+                  onAudioStart?.();
+                  void controller.play();
+                }
+              }}
             >
               {playing ? <Pause /> : <Play />}
             </button>

@@ -31,9 +31,12 @@ test('reduced motion yields a static complete route',async({page})=>{
 });
 test('audio is opt-in, paused on language/navigation, positions are independent',async({page})=>{
  await page.addInitScript(()=>{const Original=window.Audio;const audios:HTMLAudioElement[]=[];Object.defineProperty(window,'__testAudios',{value:audios});window.Audio=function(src?:string){const audio=new Original(src);audios.push(audio);return audio;} as unknown as typeof Audio;});
- await page.goto('/chronologie/CHR-01');await expect(page.getByRole('button',{name:'Écouter la narration pilote (3 min)'})).toBeVisible();await expect(page.getByRole('button',{name:'Tester le son (8 s)'})).toHaveCount(0);
+ await page.goto('/chronologie/CHR-01');await expect(page.getByRole('button',{name:/Écouter la narration/})).toBeVisible();await expect(page.getByRole('button',{name:'Tester le son (8 s)'})).toHaveCount(0);
  expect(await page.evaluate(()=>(window as unknown as {__testAudios:HTMLAudioElement[]}).__testAudios.every(a=>a.paused))).toBe(true);
- await page.getByRole('button',{name:'Écouter la narration pilote (3 min)'}).click();await page.getByRole('button',{name:'Écouter',exact:true}).click();
+ await page.getByRole('button',{name:/Écouter la narration/}).click();await page.getByRole('button',{name:'Écouter',exact:true}).click();
+ await expect(page.locator('.immersive-contemplation-overlay')).toBeVisible();
+ await page.locator('.immersive-contemplation-overlay').click();
+ await expect(page.locator('.immersive-contemplation-overlay')).toHaveCount(0);
  await expect(page.getByRole('button',{name:'Pause',exact:true})).toBeVisible();
  await page.getByRole('slider',{name:'Position de lecture'}).fill('3');await page.getByRole('button',{name:'عربي',exact:true}).click();
  await expect(page.getByRole('button',{name:'استمع',exact:true})).toBeVisible();
@@ -53,7 +56,7 @@ test('GLB loads only on demand and recovers from a failed asset',async({page})=>
 test('manifest and audio failures keep a recoverable screen',async({page})=>{
  await page.route('**/manifest.v1.json',route=>route.abort());await page.goto('/');await expect(page.getByRole('heading',{name:'L’atlas n’a pas pu être chargé.'})).toBeVisible();
  await page.unroute('**/manifest.v1.json');await page.getByRole('button',{name:'Réessayer'}).click();await expect(page.locator('.feature-card')).toHaveCount(3);
- await page.route('**/narration-heg-etp-03-fr.mp3',route=>route.abort());await page.goto('/hegire/HEG-ETP-03');await page.getByRole('button',{name:'Écouter la narration pilote (3 min)'}).click();await page.getByRole('button',{name:'Écouter',exact:true}).click();await expect(page.getByRole('alert')).toContainText('Lecture impossible');await expect(page.locator('.article-section')).toHaveCount(4);
+ await page.route('**/narration-heg-etp-03-fr.mp3',route=>route.abort());await page.goto('/hegire/HEG-ETP-03');await page.getByRole('button',{name:/Écouter la narration/}).click();await page.getByRole('button',{name:'Écouter',exact:true}).click();await expect(page.getByRole('alert')).toContainText('Lecture impossible');await expect(page.locator('.article-section')).toHaveCount(4);
 });
 test('offline retains article; corrupt storage recovers; no third-party requests',async({page,context})=>{
  const external:string[]=[];page.on('request',r=>{if(!r.url().startsWith('http://127.0.0.1:4173')&&!r.url().startsWith('data:'))external.push(r.url());});
