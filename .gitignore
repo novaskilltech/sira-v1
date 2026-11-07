@@ -8,3 +8,6 @@ playwright-report/
 *.log
 tmp/
 .vercel/
+
+.vercel
+.env*

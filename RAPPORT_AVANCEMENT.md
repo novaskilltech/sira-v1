@@ -4,7 +4,7 @@
 
 ## NOVA-LEAD — Résultat global
 
-L'application est opérationnelle sur **http://127.0.0.1:4173/** (`npm run preview`) et synchronisée sur le dépôt GitHub (`https://github.com/novaskilltech/sira-v1.git`, branche `main`).
+L'application est opérationnelle localement sur **http://127.0.0.1:4173/** (`npm run preview`), synchronisée sur le dépôt GitHub (`https://github.com/novaskilltech/sira-v1.git`, branche `main`) et déployée en ligne sur Vercel (**https://sira-v1-three.vercel.app**).
 
 Conformément au `CDC_SIRA_V1_FINAL.md`, l'application ne comporte aucun compte utilisateur, paiement, géolocalisation personnelle ni traceur tiers. La gouvernance documentaire stricte distingue **`BUILD_TECHNIQUE_OK = OUI`** et **`PUBLICATION_HISTORIQUE_OK = NON`** tant que la validation scientifique, linguistique et juridique finale n'a pas été signée par les experts mandatés.
 
