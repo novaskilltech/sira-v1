@@ -65,6 +65,9 @@ export default function Article() {
     "CHR-01": "/media/drafts/illustration-chr-01-v1.webp",
     "HEG-ETP-03": "/media/drafts/illustration-heg-etp-03-v1.webp",
     "VIE-01": "/media/drafts/illustration-vie-01-v1.webp",
+    "HEG-DOS-08": "/media/demo/illustrations/IMG-HEG-DOS-09.svg",
+    "HEG-DOS-11": "/media/demo/illustrations/IMG-HEG-DOS-07.svg",
+    "HEG-DOS-12": "/media/demo/illustrations/IMG-HEG-DOS-10.svg",
   };
   const illustration = entry.mediaRefs
     .map((mediaId) =>

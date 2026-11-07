@@ -55,6 +55,36 @@ export default function Hegira() {
     { id: steps[4].id, x: 349, y: 145, label: labels[2] },
     { id: steps[5].id, x: 395, y: 84, label: labels[3] },
   ];
+  const waypoints =
+    prefs.locale === "fr"
+      ? [
+          { x: 244, y: 402, label: "‘Usfân" },
+          { x: 248, y: 332, label: "Qadîd" },
+          { x: 274, y: 266, label: "Al-Juhfa" },
+          { x: 312, y: 194, label: "Wâdî al-‘Aqîq" },
+        ]
+      : [
+          { x: 244, y: 402, label: "عسفان" },
+          { x: 248, y: 332, label: "قديد" },
+          { x: 274, y: 266, label: "الجحفة" },
+          { x: 312, y: 194, label: "وادي العقيق" },
+        ];
+  const regionLabels =
+    prefs.locale === "fr"
+      ? {
+          sea: "MER ROUGE",
+          tihama: "Plaine de la Tihâma",
+          hijaz: "Massifs du Hedjaz & Harrat",
+          inlandRoute: "Axe caravanier habituel",
+          scale: "~ 420 km (corridor côtier)",
+        }
+      : {
+          sea: "البحر الأحمر",
+          tihama: "سهل تهامة الساحلي",
+          hijaz: "جبال الحجاز والحرات",
+          inlandRoute: "الجادة السلطانية المعتادة",
+          scale: "نحو ٤٢٠ كم (المسار الساحلي)",
+        };
   return (
     <div className="page-wrap">
       <BackLink />
@@ -174,6 +204,57 @@ export default function Hegira() {
                   />
                 ))}
                 <path
+                  d="M392 445 Q412 340 404 240 Q398 155 395 84"
+                  fill="none"
+                  stroke="#8c6d46"
+                  strokeWidth="2"
+                  strokeDasharray="3 6"
+                  opacity="0.55"
+                />
+                <text
+                  x="52"
+                  y="280"
+                  fill="#235a55"
+                  fontSize="13"
+                  opacity="0.65"
+                  transform="rotate(-76 52 280)"
+                  aria-hidden="true"
+                >
+                  {regionLabels.sea}
+                </text>
+                <text
+                  x="150"
+                  y="360"
+                  fill="#6c5130"
+                  fontSize="12"
+                  opacity="0.65"
+                  transform="rotate(-68 150 360)"
+                  aria-hidden="true"
+                >
+                  {regionLabels.tihama}
+                </text>
+                <text
+                  x="505"
+                  y="310"
+                  fill="#6c5130"
+                  fontSize="13"
+                  opacity="0.65"
+                  transform="rotate(-62 505 310)"
+                  aria-hidden="true"
+                >
+                  {regionLabels.hijaz}
+                </text>
+                <text
+                  x="418"
+                  y="285"
+                  fill="#7a5832"
+                  fontSize="11"
+                  opacity="0.72"
+                  aria-hidden="true"
+                >
+                  {regionLabels.inlandRoute}
+                </text>
+                <path
                   d="M333 501Q220 420 249 332T292 230Q300 174 349 145L395 84"
                   fill="none"
                   stroke="url(#hatching)"
@@ -198,6 +279,31 @@ export default function Hegira() {
                   }
                   data-testid="route-progress"
                 />
+                {waypoints.map((w) => (
+                  <g
+                    key={w.label}
+                    className="map-waypoint"
+                    aria-hidden="true"
+                  >
+                    <circle
+                      cx={w.x}
+                      cy={w.y}
+                      r="5"
+                      fill="#faf7f0"
+                      stroke="#84541c"
+                      strokeWidth="2"
+                    />
+                    <text
+                      x={w.x - 10}
+                      y={w.y + 4}
+                      fill="#5a4328"
+                      fontSize="12"
+                      textAnchor="end"
+                    >
+                      {w.label}
+                    </text>
+                  </g>
+                ))}
                 {markers.map((m) => (
                   <g
                     key={m.id}
@@ -243,6 +349,35 @@ export default function Hegira() {
                 <path d="M0 0L-8 23 0 18 8 23Z" fill="#235a55" />
                 <text y="-10" textAnchor="middle" fill="#203331" fontSize="13">
                   N
+                </text>
+              </g>
+              <g transform="translate(36 565)" aria-hidden="true">
+                <line
+                  x1="0"
+                  y1="0"
+                  x2="96"
+                  y2="0"
+                  stroke="#5a4328"
+                  strokeWidth="2.5"
+                />
+                <line
+                  x1="0"
+                  y1="-5"
+                  x2="0"
+                  y2="5"
+                  stroke="#5a4328"
+                  strokeWidth="2"
+                />
+                <line
+                  x1="96"
+                  y1="-5"
+                  x2="96"
+                  y2="5"
+                  stroke="#5a4328"
+                  strokeWidth="2"
+                />
+                <text x="48" y="-8" textAnchor="middle" fill="#5a4328" fontSize="11">
+                  {regionLabels.scale}
                 </text>
               </g>
             </svg>
@@ -356,6 +491,7 @@ export default function Hegira() {
               {String(steps.indexOf(current) + 1).padStart(2, "0")}
             </span>
             <h2>{current.localized[prefs.locale].title}</h2>
+            <p className="step-intro">{current.localized[prefs.locale].intro}</p>
             <p>{current.geography?.uncertainty[prefs.locale]}</p>
             <Link className="button primary" to={entryRoute(current)}>
               {t("discover")}
