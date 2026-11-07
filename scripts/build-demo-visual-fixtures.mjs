@@ -115,7 +115,7 @@ function compassRose(x, y, color) {
 }
 
 // Scène spécifique par ID d'actif
-function buildCustomArtwork(assetId, index, isAnimation) {
+function buildCustomArtwork(assetId, index, _isAnimation) {
   // Sélection de la palette et du décor selon la famille et le numéro
   if (assetId.startsWith('IMG-CHR-')) {
     const num = parseInt(assetId.slice(8), 10);
