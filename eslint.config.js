@@ -3,7 +3,7 @@ import tseslint from 'typescript-eslint';
 import reactHooks from 'eslint-plugin-react-hooks';
 
 export default tseslint.config(
-  { ignores: ['node_modules/**', 'dist/**', 'public/**', '**/generated/**', '.npm-cache/**', 'reports/**', 'playwright-report/**', 'test-results/**'] },
+  { ignores: ['node_modules/**', 'dist/**', 'public/**', '**/generated/**', '.npm-cache/**', 'reports/**', 'playwright-report/**', 'test-results/**', '.vercel/**'] },
   js.configs.recommended,
   ...tseslint.configs.recommended,
   {

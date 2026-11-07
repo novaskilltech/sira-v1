@@ -49,3 +49,12 @@ Le CDC est final **pour construire**, PAS pour considérer les contenus comme au
 - **Service TTS actuel** avec accès autorisé pour produire des fichiers audio, revus en FR et AR avant publication. Éviter de verrouiller le produit à des modèles dépréciés.
 - **Génération d'images** compatible avec les règles de représentation, avec provenance et licence renseignées.
 - N'installer aucun MCP tiers inconnu ou à permissions excessives automatiquement ; examiner code/éditeur, portée des accès et commandes d'exécution. Une intégration locale nécessite Blender et le service MCP opérationnels.
+
+## Métadonnées de partage social et déploiement (OpenGraph / Twitter Card)
+
+Pour tout site web ou application développé et déployé :
+- Intégrer systématiquement les balises OpenGraph (`og:title`, `og:description`, `og:image`, `og:url`, `og:type`, `og:site_name`, `og:locale`) et Twitter Card (`twitter:card="summary_large_image"`, `twitter:title`, `twitter:description`, `twitter:image`).
+- Générer une image de prévisualisation sociale dédiée (1200×630 px) dans `public/` (ex. `public/og-image.jpg` et `og-image.png`).
+- Rédiger un texte représentatif et percutant dans les balises de description.
+- Valider la réponse en HTTP 200 OK de la page et de l'image de partage lors du déploiement.
+
