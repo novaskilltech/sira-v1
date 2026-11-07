@@ -1,6 +1,6 @@
 import { lazy, Suspense, useEffect, useRef, useState } from "react";
 import { Link, NavLink, Route, Routes, useLocation } from "react-router-dom";
-import { CircleHelp, Globe2, Menu, X } from "lucide-react";
+import { CircleHelp, Film, Globe2, Menu, X } from "lucide-react";
 import { useApp } from "./context";
 import { narration } from "./audio";
 import { AtlasMark } from "./components/Artwork";
@@ -14,6 +14,7 @@ const Article = lazy(() => import("./pages/Article"));
 const Information = lazy(() => import("./pages/Information"));
 const Rgpd = lazy(() => import("./pages/Rgpd"));
 const Contact = lazy(() => import("./pages/Contact"));
+const Documentary = lazy(() => import("./pages/Documentary"));
 export default function App() {
   const { t, prefs, updatePrefs, reducedMotion } = useApp();
   const location = useLocation();
@@ -91,6 +92,10 @@ export default function App() {
           <NavLink to="/chronologie">{t("chronology")}</NavLink>
           <NavLink to="/hegire">{t("hegira")}</NavLink>
           <NavLink to="/vie">{t("life")}</NavLink>
+          <NavLink to="/documentaire" className="nav-film-tab">
+            <Film size={14} className="film-nav-icon" />
+            <span>{t("filmDoc")}</span>
+          </NavLink>
         </nav>
         <div className="header-tools">
           <div className="language-switch" aria-label="Langue / اللغة">
@@ -165,6 +170,8 @@ export default function App() {
               <Route path="/mentions" element={<Information legal />} />
               <Route path="/rgpd" element={<Rgpd />} />
               <Route path="/contact" element={<Contact />} />
+              <Route path="/documentaire" element={<Documentary />} />
+              <Route path="/film" element={<Documentary />} />
               <Route
                 path="*"
                 element={
@@ -192,6 +199,7 @@ export default function App() {
           <p className="footer-notracking">{t("noTracking")}</p>
         </div>
         <nav aria-label={prefs.locale === "fr" ? "Pied de page" : "تذييل الصفحة"}>
+          <Link to="/documentaire" className="footer-film-link">{t("filmDoc")}</Link>
           <Link to="/contact">{t("contact")}</Link>
           <Link to="/rgpd">{t("rgpd")}</Link>
           <Link to="/aide">{t("help")}</Link>

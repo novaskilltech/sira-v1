@@ -7,6 +7,7 @@ import {
   Box,
   CheckCircle2,
   Compass,
+  Film,
   Headphones,
   Layers,
   MapPin,
@@ -345,7 +346,16 @@ export default function Home() {
             <p className="hero-lead">{t("intro")}</p>
 
             <div className="hero-cta-cluster">
-              <a className="button primary btn-animated-primary" href="#explorer">
+              <Link
+                className="button primary btn-animated-film"
+                to="/documentaire"
+              >
+                <Film size={19} />
+                <span>
+                  {isAr ? "مشاهدة فيلم السيرة" : "Regarder le Film de la Sîra"}
+                </span>
+              </Link>
+              <a className="button secondary btn-animated-primary" href="#explorer">
                 <span>{t("explore")}</span>
                 <ArrowRight size={19} />
               </a>
