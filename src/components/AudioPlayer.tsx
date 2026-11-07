@@ -15,6 +15,14 @@ const draftAudios: Record<string, Record<string, string>> = {
     fr: "/media/drafts/narration-chr-02-fr.mp3",
     ar: "/media/drafts/narration-chr-02-ar.mp3",
   },
+  "CHR-03": {
+    fr: "/media/drafts/narration-chr-03-fr.mp3",
+    ar: "/media/drafts/narration-chr-03-ar.mp3",
+  },
+  "CHR-04": {
+    fr: "/media/drafts/narration-chr-04-fr.mp3",
+    ar: "/media/drafts/narration-chr-04-ar.mp3",
+  },
   "HEG-ETP-01": {
     fr: "/media/drafts/narration-heg-etp-01-fr.mp3",
     ar: "/media/drafts/narration-heg-etp-01-ar.mp3",
@@ -27,9 +35,29 @@ const draftAudios: Record<string, Record<string, string>> = {
     fr: "/media/drafts/narration-heg-etp-03-fr.mp3",
     ar: "/media/drafts/narration-heg-etp-03-ar.mp3",
   },
+  "HEG-ETP-04": {
+    fr: "/media/drafts/narration-heg-etp-04-fr.mp3",
+    ar: "/media/drafts/narration-heg-etp-04-ar.mp3",
+  },
+  "HEG-ETP-05": {
+    fr: "/media/drafts/narration-heg-etp-05-fr.mp3",
+    ar: "/media/drafts/narration-heg-etp-05-ar.mp3",
+  },
+  "HEG-ETP-06": {
+    fr: "/media/drafts/narration-heg-etp-06-fr.mp3",
+    ar: "/media/drafts/narration-heg-etp-06-ar.mp3",
+  },
   "VIE-01": {
     fr: "/media/drafts/narration-vie-01-fr.mp3",
     ar: "/media/drafts/narration-vie-01-ar.mp3",
+  },
+  "VIE-02": {
+    fr: "/media/drafts/narration-vie-02-fr.mp3",
+    ar: "/media/drafts/narration-vie-02-ar.mp3",
+  },
+  "VIE-03": {
+    fr: "/media/drafts/narration-vie-03-fr.mp3",
+    ar: "/media/drafts/narration-vie-03-ar.mp3",
   },
 };
 

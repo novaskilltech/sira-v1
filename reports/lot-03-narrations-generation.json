@@ -1,0 +1,62 @@
+{
+  "generatedAt": "2026-11-07T07:43:17.831Z",
+  "provider": "OpenRouter",
+  "model": "minimax/speech-2.8-hd",
+  "statusNote": "LOT_03_DEMO_NON_VALIDE",
+  "results": [
+    {
+      "contentId": "HEG-ETP-04",
+      "locale": "fr",
+      "filename": "narration-heg-etp-04-fr.mp3",
+      "path": "/media/drafts/narration-heg-etp-04-fr.mp3",
+      "sizeBytes": 2823597,
+      "elapsedSeconds": "18.9",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "HEG-ETP-04",
+      "locale": "ar",
+      "filename": "narration-heg-etp-04-ar.mp3",
+      "path": "/media/drafts/narration-heg-etp-04-ar.mp3",
+      "sizeBytes": 2937069,
+      "elapsedSeconds": "21.2",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "CHR-03",
+      "locale": "fr",
+      "filename": "narration-chr-03-fr.mp3",
+      "path": "/media/drafts/narration-chr-03-fr.mp3",
+      "sizeBytes": 2859885,
+      "elapsedSeconds": "17.6",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "CHR-03",
+      "locale": "ar",
+      "filename": "narration-chr-03-ar.mp3",
+      "path": "/media/drafts/narration-chr-03-ar.mp3",
+      "sizeBytes": 2804013,
+      "elapsedSeconds": "16.0",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "VIE-02",
+      "locale": "fr",
+      "filename": "narration-vie-02-fr.mp3",
+      "path": "/media/drafts/narration-vie-02-fr.mp3",
+      "sizeBytes": 2834541,
+      "elapsedSeconds": "15.7",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "VIE-02",
+      "locale": "ar",
+      "filename": "narration-vie-02-ar.mp3",
+      "path": "/media/drafts/narration-vie-02-ar.mp3",
+      "sizeBytes": 2786157,
+      "elapsedSeconds": "15.5",
+      "status": "GENERATED_OK"
+    }
+  ]
+}
