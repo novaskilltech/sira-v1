@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T00:19:29.692Z",
+  "generatedAt": "2026-11-07T01:21:42.382Z",
   "samples": [
     {
       "file": "tts-demo-fr-openrouter.mp3",
@@ -8,7 +8,7 @@
       "model": "x-ai/grok-voice-tts-1.0",
       "voice": "ara",
       "durationSeconds": null,
-      "sha256": "f8beeb52b878c310aba6f838a159169426006b06ff7f2284eb5d2adfd05c37cb",
+      "sha256": "a57ae1de98eeda75b643ceb3230142026b5564f2e09ff2b074d147b85fb6877a",
       "status": "DEMO_NON_VALIDE",
       "publicationAllowed": false,
       "statement": "Technical AI-voice sound check only; MP3 duration intentionally not used for publication."
@@ -20,7 +20,7 @@
       "model": "x-ai/grok-voice-tts-1.0",
       "voice": "ara",
       "durationSeconds": null,
-      "sha256": "0212f3880d9eed5d025c792d6fb4473fa9785f3c6220319b73b4243f46504f5e",
+      "sha256": "c75eb96f04cd2b5a575cc1afb08190ca826c709fea3d738c1dfe1ed294353dd8",
       "status": "DEMO_NON_VALIDE",
       "publicationAllowed": false,
       "statement": "Technical AI-voice sound check only; MP3 duration intentionally not used for publication."

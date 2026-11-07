@@ -1,6 +1,30 @@
 {
-  "checkedAt": "2026-10-26T00:19:19.836Z",
+  "checkedAt": "2026-11-07T01:21:04.375Z",
   "models": [
+    {
+      "id": "assemblyai/assemblyai-tts-1",
+      "name": "AssemblyAI: TTS 1",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "heygen/heygen-voice-1-turbo",
+      "name": "HeyGen: HeyGen Voice Turbo",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
+    {
+      "id": "heygen/heygen-voice-1-turbo:free",
+      "name": "HeyGen: HeyGen Voice Turbo (free)",
+      "outputModalities": [
+        "speech"
+      ],
+      "supportedParameters": []
+    },
     {
       "id": "mistralai/voxtral-mini-tts-3-0",
       "name": "Mistral: Voxtral TTS 3",
@@ -12,14 +36,6 @@
     {
       "id": "heygen/heygen-voice-1",
       "name": "HeyGen: HeyGen Voice",
-      "outputModalities": [
-        "speech"
-      ],
-      "supportedParameters": []
-    },
-    {
-      "id": "heygen/heygen-voice-1-turbo",
-      "name": "HeyGen: HeyGen Voice Turbo",
       "outputModalities": [
         "speech"
       ],

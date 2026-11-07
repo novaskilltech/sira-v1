@@ -5,6 +5,22 @@ import { useApp } from "../context";
 import type { ContentEntry } from "../schema";
 const format = (n: number) =>
   `${Math.floor(n / 60)}:${String(Math.floor(n % 60)).padStart(2, "0")}`;
+
+const draftAudios: Record<string, Record<string, string>> = {
+  "CHR-01": {
+    fr: "/media/drafts/narration-chr-01-fr.mp3",
+    ar: "/media/drafts/narration-chr-01-ar.mp3",
+  },
+  "HEG-ETP-03": {
+    fr: "/media/drafts/narration-heg-etp-03-fr.mp3",
+    ar: "/media/drafts/narration-heg-etp-03-ar.mp3",
+  },
+  "VIE-01": {
+    fr: "/media/drafts/narration-vie-01-fr.mp3",
+    ar: "/media/drafts/narration-vie-01-ar.mp3",
+  },
+};
+
 export function AudioPlayer({ entry }: { entry: ContentEntry }) {
   const { registry, prefs, updatePrefs, t } = useApp();
   const controller = narration();
@@ -13,12 +29,17 @@ export function AudioPlayer({ entry }: { entry: ContentEntry }) {
     controller.getSnapshot,
   );
   const [test, setTest] = useState(false);
+  const [pilot, setPilot] = useState(false);
   const asset = registry.assets.find(
     (a) => a.assetId === entry.audioRefs[prefs.locale],
   );
+  const draftUrl = draftAudios[entry.id]?.[prefs.locale];
+  const isDraft = !asset?.url && pilot && !!draftUrl;
   const url =
-    asset?.url || (test ? `/media/demo/signal-${prefs.locale}.wav` : null);
-  const key = `${entry.id}:${prefs.locale}${test ? ":test" : ""}`;
+    asset?.url ||
+    (isDraft ? draftUrl : null) ||
+    (test ? `/media/demo/signal-${prefs.locale}.wav` : null);
+  const key = `${entry.id}:${prefs.locale}${test ? ":test" : isDraft ? ":pilot" : ""}`;
   const positions = useRef(prefs.audioPositionsByContentLocale);
   positions.current = prefs.audioPositionsByContentLocale;
   useEffect(() => {
@@ -48,10 +69,32 @@ export function AudioPlayer({ entry }: { entry: ContentEntry }) {
       </div>
       {!asset?.url && <p>{t("audioMissing")}</p>}
       {!url ? (
-        <button className="button secondary" onClick={() => setTest(true)}>
-          <Play size={18} />
-          {t("audioTest")}
-        </button>
+        <div style={{ display: "flex", gap: "0.5rem", flexWrap: "wrap", alignItems: "center" }}>
+          {draftUrl && (
+            <button
+              className="button primary"
+              onClick={() => {
+                setPilot(true);
+                setTest(false);
+              }}
+            >
+              <Play size={18} />
+              {prefs.locale === "fr"
+                ? "Écouter la narration pilote (3 min)"
+                : "الاستماع إلى التسجيل التجريبي (3 د)"}
+            </button>
+          )}
+          <button
+            className="button secondary"
+            onClick={() => {
+              setTest(true);
+              setPilot(false);
+            }}
+          >
+            <Play size={18} />
+            {t("audioTest")}
+          </button>
+        </div>
       ) : (
         <>
           <div className="audio-controls">
@@ -100,6 +143,13 @@ export function AudioPlayer({ entry }: { entry: ContentEntry }) {
           {prefs.locale === "fr"
             ? "Voix de synthèse : écoutez et signalez toute prononciation à corriger."
             : "صوت مُولَّد بالذكاء الاصطناعي: يرجى الإبلاغ عن أي نطق يحتاج إلى تصحيح."}
+        </p>
+      )}
+      {isDraft && (
+        <p className="small-note" style={{ color: "var(--color-warning-text, #b45309)" }}>
+          {prefs.locale === "fr"
+            ? "Pilote IA (brouillon non validé) : voix de synthèse documentaire — en attente d'approbation humaine."
+            : "تسجيل تجريبي (مسودة غير معتمدة): صوت تركيبي وثائقي — في انتظار الاعتماد البشري."}
         </p>
       )}
       {test && <p className="small-note">{t("audioTestNote")}</p>}
