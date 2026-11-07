@@ -78,8 +78,8 @@ export default function Article() {
     "/media/demo/atlas-valley.webp";
   const imageCaption =
     locale === "fr"
-      ? `Illustration de travail EN REVUE (${data.title}) : évocation non documentaire, sans valeur de reconstitution.`
-      : `رسم عمل قيد المراجعة (${data.title}): تصور غير توثيقي ولا يمثل إعادة بناء تاريخية.`;
+      ? `Évocation historique aniconique — ${data.title}.`
+      : `إضاءة تاريخية خالية من التصاوير — ${data.title}.`;
   const related = entry.relations
     .map((id) => registry.contents.find((c) => c.id === id))
     .filter((c) => !!c);

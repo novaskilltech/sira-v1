@@ -72,7 +72,7 @@ const SHOWCASE_ARTIFACTS: ShowcaseArtifact[] = [
       dimensions: "Modèle 3D PBR · Panse ovoïde à col évasé",
       provenance: "Usage domestique et haltes du Hijâz (repère éditorial)",
       usage: "Conservation et rafraîchissement de l’eau par évaporation",
-      note: "La porosité naturelle de l’argile maintient la fraîcheur de l’eau puisée aux puits. Modèle géométrique de démonstration strictement aniconique.",
+      note: "La porosité naturelle de l’argile maintient la fraîcheur de l’eau puisée aux puits. Reconstitution matérielle 3D strictement aniconique.",
     },
     ar: {
       tab: "٠١ · الجرة الفخارية للماء",
@@ -83,7 +83,7 @@ const SHOWCASE_ARTIFACTS: ShowcaseArtifact[] = [
       dimensions: "مجسم ثلاثي الأبعاد PBR · بدن بيضوي وعنق متسع",
       provenance: "الاستعمال المنزلي ومحطات الحجاز (تمثيل تعليمي)",
       usage: "حفظ الماء وتبريده طبيعياً عبر المسام الفخارية",
-      note: "تسمح مسامية الفخار بتبريد الماء المستخرج من الآبار في المناخ الحار. نموذج هندسي تجريبي خالٍ تماماً من أي تصاوير لذوات الأرواح.",
+      note: "تسمح مسامية الفخار بتبريد الماء المستخرج من الآبار في المناخ الحار. نموذج ثلاثي الأبعاد خالٍ تماماً من أي تصاوير لذوات الأرواح.",
     },
   },
   {

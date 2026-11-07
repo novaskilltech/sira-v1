@@ -12,7 +12,7 @@ export function AnimationPreview({
 }) {
   const [playing, setPlaying] = useState(false);
   const label =
-    locale === "fr" ? "Aperçu d’animation DEMO" : "معاينة حركة تجريبية";
+    locale === "fr" ? "Aperçu d’animation" : "معاينة الحركة";
   const action = playing
     ? locale === "fr"
       ? "Mettre en pause"

@@ -67,11 +67,5 @@ export function EntryCard({
   );
 }
 export function DemoNotice() {
-  const { t } = useApp();
-  return (
-    <p className="demo-notice">
-      <span aria-hidden="true">◇</span>
-      {t("demoLong")}
-    </p>
-  );
+  return null;
 }

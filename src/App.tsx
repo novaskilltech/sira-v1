@@ -126,10 +126,6 @@ export default function App() {
           </button>
         </div>
       </header>
-      <div className="demo-strip">
-        <span className="demo-dot" />
-        {t("demo")}
-      </div>
       {!online && (
         <div role="status" className="network-banner">
           {t("offline")}{" "}

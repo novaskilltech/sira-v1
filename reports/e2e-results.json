@@ -5,7 +5,7 @@
       "D:\\Projects\\SIRA\\node_modules\\@playwright\\test\\cli.js",
       "test",
       "-g",
-      "image failures retain the article"
+      "all 60 records|DEMO animation|responsive 834"
     ],
     "configFile": "D:\\Projects\\SIRA\\playwright.config.ts",
     "rootDir": "D:/Projects/SIRA/tests/e2e",
@@ -108,7 +108,7 @@
       "line": 0,
       "specs": [
         {
-          "title": "image failures retain the article and 48px controls remain usable",
+          "title": "DEMO animation previews are visible and start only on an explicit action",
           "ok": true,
           "tags": [],
           "tests": [
@@ -123,12 +123,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 2357,
+                  "duration": 2520,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2026-11-07T19:29:14.926Z",
+                  "startTime": "2026-11-07T21:16:50.185Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -136,19 +136,87 @@
               "status": "expected"
             }
           ],
-          "id": "aa09586c1d16412a1f00-153fc2d7424fe4610ebf",
+          "id": "aa09586c1d16412a1f00-9127eb5c9795067cf1ad",
           "file": "journeys.spec.ts",
-          "line": 63,
+          "line": 69,
           "column": 1
+        },
+        {
+          "title": "all 60 records open in French and Arabic",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 180000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 86344,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-07T21:16:53.237Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aa09586c1d16412a1f00-f7b0b7bf101559abed61",
+          "file": "journeys.spec.ts",
+          "line": 78,
+          "column": 1
+        },
+        {
+          "title": "responsive 834x1194 FR/AR and screenshots",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 120000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 12036,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-07T21:18:19.629Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aa09586c1d16412a1f00-e9af7b5394344d2e4e05",
+          "file": "journeys.spec.ts",
+          "line": 83,
+          "column": 2
         }
       ]
     }
   ],
   "errors": [],
   "stats": {
-    "startTime": "2026-11-07T19:29:10.438Z",
-    "duration": 7992.985000000001,
-    "expected": 1,
+    "startTime": "2026-11-07T21:16:48.112Z",
+    "duration": 117958.971,
+    "expected": 3,
     "skipped": 0,
     "unexpected": 0,
     "flaky": 0

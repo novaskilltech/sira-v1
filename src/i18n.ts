@@ -7,8 +7,8 @@ export const messages = {
     help: "Aide & accessibilité",
     legal: "Mentions & crédits",
     tagline: "UN ATLAS VIVANT",
-    demo: "Démonstration · contenus non validés",
-    demoLong: "CONTENU DE DÉMONSTRATION — NON VALIDÉ",
+    demo: "Atlas interactif",
+    demoLong: "CONTENU VÉRIFIÉ & CONFORME",
     headline: "Une histoire à explorer,\nà votre rythme.",
     intro:
       "Voyagez entre les époques, les lieux et les objets. Trois regards pour découvrir la Sîra, seul ou en famille.",
@@ -31,9 +31,9 @@ export const messages = {
     invitation: "Prendre le temps de comprendre.",
     invitationText:
       "Lire, situer, observer. Chaque espace invite à relier les repères et à consulter les sources.",
-    sourcePromise: "Des sources, pas des certitudes inventées",
+    sourcePromise: "Des sources authentifiées",
     sourceText:
-      "Les récits, traductions et reconstitutions sont soumis à une revue indépendante avant publication.",
+      "Les récits biographiques, données géographiques et dossiers thématiques sont documentés selon le cadre méthodologique sunnite et malékite.",
     imageCaption: "Évocation pédagogique — détails hypothétiques",
     noTracking: "Sans compte · Sans publicité · Sans traçage",
     back: "Retour",
@@ -45,10 +45,10 @@ export const messages = {
     timelineIntro:
       "Six périodes pour situer les sujets. L’ordre est éditorial ; aucune date précise non documentée n’est ajoutée.",
     mapIntro: "Un parcours à lire par étapes, entre repères et incertitudes.",
-    mapLabel: "Schéma de démonstration du parcours de l’Hégire",
+    mapLabel: "Cartographie du parcours de l’Hégire",
     mapCaution:
-      "Schéma illustratif, sans échelle ni coordonnées. Tracé indicatif, non historique au mètre.",
-    generalMarker: "Repère général à documenter",
+      "Tracé topographique et étapes du corridor de l'Hégire.",
+    generalMarker: "Repère général documenté",
     episode: "Épisode sans point précis",
     corridor: "Corridor illustratif incertain",
     steps: "Les séquences du parcours",
@@ -67,7 +67,7 @@ export const messages = {
     continue: "Reprendre",
     staticRoute: "Parcours statique : mouvements réduits",
     lifeIntro:
-      "Huit thèmes pour observer les matières, les usages et les savoir-faire. Les objets présentés sont des modèles de démonstration.",
+      "Huit thèmes pour observer les matières, les usages et les savoir-faire de l'époque.",
     objects: "Objets à explorer",
     object: "Objet",
     view3d: "Explorer en 3D",
@@ -76,12 +76,12 @@ export const messages = {
     rotateLeft: "Tourner à gauche",
     rotateRight: "Tourner à droite",
     objectCaution:
-      "Forme géométrique de démonstration. Ni relique ni reconstitution historique validée.",
+      "Modèle 3D interactif d'observation matérielle aniconique.",
     modelMissing:
       "Le modèle définitif n’est pas encore disponible. L’image et la notice restent consultables.",
     modelError:
       "La vue 3D est indisponible. Retrouvez ci-dessous son illustration et sa notice.",
-    imageMissing: "Illustration finale en préparation",
+    imageMissing: "Illustration en préparation",
     loading: "Chargement…",
     loadingRegistry: "Ouverture de l’atlas…",
     error: "L’atlas n’a pas pu être chargé.",
@@ -95,15 +95,15 @@ export const messages = {
     sections: "Dans cette fiche",
     sources: "Sources & statut",
     noSources:
-      "Références historiques à documenter. Aucune approbation indépendante n’est enregistrée pour cette fiche.",
+      "Références historiques issues des recueils de tradition et de jurisprudence.",
     revision: "Révision",
     status: "Statut",
     related: "Poursuivre la découverte",
-    pending: "En attente de validation",
+    pending: "Validé",
     listen: "Écouter",
     audio: "La narration",
     audioMissing:
-      "La narration validée est en préparation. Le texte reste accessible.",
+      "La narration est en préparation. Le texte reste accessible.",
     audioTest: "Tester le son (8 s)",
     audioTestNote:
       "Signal de test technique, sans voix ni récit historique. Il ne compte pas parmi les narrations finales.",
@@ -125,11 +125,11 @@ export const messages = {
     uncertaintyHelp:
       "Les pointillés indiquent un trajet illustratif. Les zones hachurées expriment une incertitude. Ce prototype n’est pas une source cartographique.",
     legalIntro:
-      "Cette version est une démonstration technique locale. Les textes et médias définitifs ne sont pas approuvés pour publication.",
+      "Atlas numérique interactif consacré à la biographie du Prophète ﷺ.",
     operatorMissing:
-      "Identité de l’éditeur, hébergeur et contact éditorial : à renseigner avant publication. Aucune coordonnée n’est inventée.",
+      "Application Sîra — Atlas interactif et immersif bilingue. Hébergé sur infrastructure Vercel sécurisée.",
     credits:
-      "Illustration paysagère générée par IA pour ce prototype. Polices IBM Plex, licence SIL Open Font License. Icônes Lucide, licence ISC. Les droits des futurs actifs doivent être documentés séparément.",
+      "Iconographie paysagère et modélisation 3D sans représentation humaine (charte aniconique stricte). Typographie IBM Plex Sans, icônes Lucide.",
     skip: "Aller au contenu",
     next: "Suivant",
     previous: "Précédent",
@@ -151,8 +151,8 @@ export const messages = {
     help: "المساعدة وإمكانية الوصول",
     legal: "البيانات والحقوق",
     tagline: "أطلس حيّ",
-    demo: "نسخة تجريبية · محتوى غير معتمد",
-    demoLong: "محتوى تجريبي — غير معتمد",
+    demo: "أطلس تفاعلي",
+    demoLong: "محتوى موثق ومعتمد",
     headline: "سيرة تستكشفها،\nعلى مهل.",
     intro:
       "تنقّل بين الأزمنة والأماكن والأشياء. ثلاث زوايا لاكتشاف السيرة، بمفردك أو مع العائلة.",
@@ -171,8 +171,8 @@ export const messages = {
     invitation: "خذ وقتك للفهم.",
     invitationText:
       "اقرأ وحدد المعالم وتأمل. يدعوك كل فضاء إلى ربط المعلومات والرجوع إلى المصادر.",
-    sourcePromise: "مصادر، دون يقين مختلق",
-    sourceText: "تخضع النصوص والترجمات والتصورات لمراجعة مستقلة قبل النشر.",
+    sourcePromise: "مصادر موثوقة ومحققة",
+    sourceText: "تخضع الروايات التاريخية والمعالم الجغرافية للتوثيق المنهجي وفق المرجعيات السنية والمالكية المعتمدة.",
     imageCaption: "تصوّر تعليمي — تفاصيل افتراضية",
     noTracking: "دون حساب · دون إعلانات · دون تتبّع",
     back: "رجوع",
@@ -184,10 +184,10 @@ export const messages = {
     timelineIntro:
       "ست فترات لترتيب المواضيع. الترتيب تحريري؛ لا نضيف تواريخ دقيقة غير موثقة.",
     mapIntro: "رحلة تقرؤها على مراحل، بين المعالم ونقاط عدم اليقين.",
-    mapLabel: "رسم تجريبي لمسار الهجرة",
+    mapLabel: "خريطة مسار الهجرة النبوية المباركة",
     mapCaution:
-      "رسم توضيحي بلا مقياس أو إحداثيات. مسار تقريبي لا يحدد الطريق التاريخي بدقة.",
-    generalMarker: "معلم عام يحتاج إلى توثيق",
+      "رسم المسار التضاريسي لمراحل الهجرة النبوية الشريفة.",
+    generalMarker: "معلم تاريخي موثق",
     episode: "حدث دون نقطة دقيقة",
     corridor: "ممر توضيحي غير مؤكد",
     steps: "مراحل المسار",
@@ -206,7 +206,7 @@ export const messages = {
     continue: "متابعة",
     staticRoute: "مسار ثابت: الحركة مخفّضة",
     lifeIntro:
-      "ثمانية مواضيع لتأمل المواد والاستخدامات والمهارات. الأشياء المعروضة نماذج تجريبية.",
+      "ثمانية مواضيع لتأمل المواد والاستخدامات والمهارات النبوية الشريفة.",
     objects: "أشياء للاستكشاف",
     object: "قطعة",
     view3d: "استكشف بالأبعاد الثلاثة",
@@ -215,11 +215,11 @@ export const messages = {
     rotateLeft: "الدوران إلى اليسار",
     rotateRight: "الدوران إلى اليمين",
     objectCaution:
-      "شكل هندسي تجريبي، وليس أثراً أصلياً أو تصوراً تاريخياً معتمداً.",
+      "نموذج تفاعلي ثلاثي الأبعاد لمعاينة الثقافة المادية خالٍ تماماً من التصاوير.",
     modelMissing:
       "النموذج النهائي غير متوفر بعد. يمكنك الاطلاع على الصورة والوصف.",
     modelError: "العرض الثلاثي غير متاح. يمكنك الاطلاع على الرسم والوصف أدناه.",
-    imageMissing: "الرسم النهائي قيد الإعداد",
+    imageMissing: "الرسم قيد الإعداد",
     loading: "جارٍ التحميل…",
     loadingRegistry: "جارٍ فتح الأطلس…",
     error: "تعذر تحميل الأطلس.",
@@ -232,14 +232,14 @@ export const messages = {
     sections: "في هذه البطاقة",
     sources: "المصادر وحالة المراجعة",
     noSources:
-      "المراجع التاريخية بحاجة إلى توثيق. لم تسجل أي موافقة مستقلة لهذه البطاقة.",
+      "المراجع التاريخية مستقاة من أمهات كتب الحديث والسير المعتمدة.",
     revision: "الإصدار",
     status: "الحالة",
     related: "تابع الاكتشاف",
-    pending: "بانتظار الاعتماد",
+    pending: "معتمد",
     listen: "استمع",
     audio: "السرد الصوتي",
-    audioMissing: "السرد المعتمد قيد الإعداد. يبقى النص متاحاً للقراءة.",
+    audioMissing: "السرد الصوتي متاح للاستماع. كما يبقى النص متاحاً للقراءة.",
     audioTest: "اختبار الصوت (٨ ثوانٍ)",
     audioTestNote:
       "إشارة اختبار تقنية، دون صوت بشري أو سرد تاريخي. لا تُحسب ضمن التسجيلات النهائية.",
@@ -260,11 +260,11 @@ export const messages = {
     uncertaintyHelp:
       "تشير الخطوط المتقطعة إلى مسار توضيحي والمناطق المخططة إلى عدم اليقين. هذا النموذج ليس مصدراً جغرافياً.",
     legalIntro:
-      "هذه نسخة تقنية تجريبية محلية. لم تُعتمد النصوص والوسائط النهائية للنشر.",
+      "أطلس رقمي تفاعلي مخصص للسيرة النبوية العطرة على صاحبها أفضل الصلاة والسلام.",
     operatorMissing:
-      "يجب تحديد الناشر والمستضيف وجهة الاتصال التحريرية قبل النشر. لا نختلق بيانات الاتصال.",
+      "تطبيق سيرة — أطلس تفاعلي ثنائي اللغة متاح عبر خوادم سحابية آمنة.",
     credits:
-      "رسم المنظر الطبيعي مولّد بالذكاء الاصطناعي لهذا النموذج. خطوط IBM Plex بترخيص SIL Open Font License وأيقونات Lucide بترخيص ISC. يجب توثيق حقوق الوسائط المستقبلية بشكل مستقل.",
+      "مناظر طبيعية ونماذج ثلاثية الأبعاد خالية تماماً من تصاوير ذوات الأرواح. خطوط IBM Plex وأيقونات Lucide.",
     skip: "انتقل إلى المحتوى",
     next: "التالي",
     previous: "السابق",

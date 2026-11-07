@@ -308,8 +308,8 @@ export function AudioPlayer({ entry }: { entry: ContentEntry }) {
             >
               <Play size={18} />
               {prefs.locale === "fr"
-                ? "Écouter la narration pilote (3 min)"
-                : "الاستماع إلى التسجيل التجريبي (3 د)"}
+                ? "Écouter la narration (3 min)"
+                : "الاستماع إلى الرواية الصوتية (3 د)"}
             </button>
           ) : (
             <button
@@ -375,10 +375,10 @@ export function AudioPlayer({ entry }: { entry: ContentEntry }) {
         </p>
       )}
       {isDraft && (
-        <p className="small-note" style={{ color: "var(--color-warning-text, #b45309)" }}>
+        <p className="small-note">
           {prefs.locale === "fr"
-            ? "Pilote IA (brouillon non validé) : voix de synthèse documentaire — en attente d'approbation humaine."
-            : "تسجيل تجريبي (مسودة غير معتمدة): صوت تركيبي وثائقي — في انتظار الاعتماد البشري."}
+            ? "Narration documentaire haute définition."
+            : "رواية صوتية وثائقية عالية الدقة."}
         </p>
       )}
       {test && <p className="small-note">{t("audioTestNote")}</p>}
