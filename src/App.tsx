@@ -12,6 +12,8 @@ const Hegira = lazy(() => import("./pages/Hegira"));
 const Life = lazy(() => import("./pages/Life"));
 const Article = lazy(() => import("./pages/Article"));
 const Information = lazy(() => import("./pages/Information"));
+const Rgpd = lazy(() => import("./pages/Rgpd"));
+const Contact = lazy(() => import("./pages/Contact"));
 export default function App() {
   const { t, prefs, updatePrefs, reducedMotion } = useApp();
   const location = useLocation();
@@ -161,6 +163,8 @@ export default function App() {
               ))}
               <Route path="/aide" element={<Information />} />
               <Route path="/mentions" element={<Information legal />} />
+              <Route path="/rgpd" element={<Rgpd />} />
+              <Route path="/contact" element={<Contact />} />
               <Route
                 path="*"
                 element={
@@ -183,8 +187,13 @@ export default function App() {
         <Link className="footer-brand" to="/">
           Sîra <span lang="ar">سيرة</span>
         </Link>
-        <p>{t("noTracking")}</p>
-        <nav>
+        <div className="footer-center">
+          <p className="footer-copyright">{t("copyright")}</p>
+          <p className="footer-notracking">{t("noTracking")}</p>
+        </div>
+        <nav aria-label={prefs.locale === "fr" ? "Pied de page" : "تذييل الصفحة"}>
+          <Link to="/contact">{t("contact")}</Link>
+          <Link to="/rgpd">{t("rgpd")}</Link>
           <Link to="/aide">{t("help")}</Link>
           <Link to="/mentions">{t("legal")}</Link>
         </nav>

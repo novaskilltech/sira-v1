@@ -5,7 +5,7 @@
       "D:\\Projects\\SIRA\\node_modules\\@playwright\\test\\cli.js",
       "test",
       "-g",
-      "manifest and audio failures"
+      "automated accessibility"
     ],
     "configFile": "D:\\Projects\\SIRA\\playwright.config.ts",
     "rootDir": "D:/Projects/SIRA/tests/e2e",
@@ -108,12 +108,12 @@
       "line": 0,
       "specs": [
         {
-          "title": "manifest and audio failures keep a recoverable screen",
+          "title": "automated accessibility on central pages in both languages",
           "ok": true,
           "tags": [],
           "tests": [
             {
-              "timeout": 60000,
+              "timeout": 180000,
               "annotations": [],
               "expectedStatus": "passed",
               "projectId": "",
@@ -123,12 +123,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 3886,
+                  "duration": 29151,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2026-11-07T21:37:44.037Z",
+                  "startTime": "2026-11-07T21:46:33.313Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -136,9 +136,9 @@
               "status": "expected"
             }
           ],
-          "id": "aa09586c1d16412a1f00-134fd1dd5a3581028bf7",
+          "id": "aa09586c1d16412a1f00-fb64ef2ee09b09de8e66",
           "file": "journeys.spec.ts",
-          "line": 56,
+          "line": 91,
           "column": 1
         }
       ]
@@ -146,8 +146,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2026-11-07T21:37:42.312Z",
-    "duration": 6648.2300000000005,
+    "startTime": "2026-11-07T21:46:30.786Z",
+    "duration": 35417.239,
     "expected": 1,
     "skipped": 0,
     "unexpected": 0,
