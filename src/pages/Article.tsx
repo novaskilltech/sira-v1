@@ -5,7 +5,6 @@ import { useApp } from "../context";
 import { AudioPlayer } from "../components/AudioPlayer";
 import {
   BackLink,
-  DemoNotice,
   PageHeading,
   entryRoute,
 } from "../components/Shared";
@@ -92,11 +91,10 @@ export default function Article() {
         eyebrow={`${entry.group[locale]} · ${entry.id}`}
         title={data.title}
       />
-      <DemoNotice />
       <div className="article-layout">
         <article>
           <figure className="article-image">
-            <MediaImage src={imageSrc} alt={illustration?.alt[locale] ?? ""} />
+            <MediaImage src={imageSrc} alt={data.title} />
             <figcaption>{imageCaption}</figcaption>
             <button
               type="button"
@@ -204,7 +202,7 @@ export default function Article() {
       {immersiveOpen && (
         <ImmersiveContemplation
           imageSrc={imageSrc}
-          alt={illustration?.alt[locale] ?? data.title}
+          alt={data.title}
           title={data.title}
           eyebrow={`${entry.group[locale]} · ${entry.id}`}
           locale={locale}

@@ -29,25 +29,12 @@ if (!OPENROUTER_API_KEY) {
 const draftsDir = path.resolve("public/media/drafts");
 fs.mkdirSync(draftsDir, { recursive: true });
 
-// Crop existing illustration-chr-02-v1.webp to 1280x720 if it is square
-const chr02Path = path.join(draftsDir, "illustration-chr-02-v1.webp");
-if (fs.existsSync(chr02Path)) {
-  const rawChr02 = fs.readFileSync(chr02Path);
-  const meta = await sharp(rawChr02).metadata();
-  if (meta.width !== 1280 || meta.height !== 720) {
-    const buf = await sharp(rawChr02)
-      .resize({ width: 1280, height: 720, fit: "cover" })
-      .webp({ quality: 78 })
-      .toBuffer();
-    fs.writeFileSync(chr02Path, buf);
-    console.log("Normalized illustration-chr-02-v1.webp to 1280x720.");
-  }
-}
-
 const BASE_STYLE =
   "Wide 16:9 museum-grade historical landscape or archaeological still-life painting set in 7th-century Hijaz (Arabia). Warm natural sunlight, realistic oil and gouache texture, rich geological and architectural detail matching an exhibition catalog (Louvre Abu Dhabi / Institut du Monde Arabe style). ABSOLUTE STRICT RULE: NO humans, NO people, NO silhouettes, NO faces, NO hands, NO shadows of people, NO animals, NO birds, NO insects, NO calligraphy or text anywhere in the image.";
 
 const PROMPTS = {
+  "CHR-02":
+    "Sunlit pastoral desert valley of the Banu Sa'd near Ta'if in 6th-century Arabia, with rolling granite hills, solitary acacia trees, a traditional goat-hair tent shelter in the distance, earthenware water vessels resting in the cool shade, under a serene clear blue and golden sky.",
   "CHR-03":
     "Ancient caravan trade trail winding through sunlit rocky valleys and sandy wadis of the Hijaz toward Syria, with stone trail markers (a'lam), dry stone walls, acacia trees, and distant mountains under a warm morning sky.",
   "CHR-04":

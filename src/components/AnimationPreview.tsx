@@ -24,11 +24,21 @@ export function AnimationPreview({
   const previewSrc = primaryContentId
     ? `/media/drafts/illustration-${primaryContentId.toLowerCase()}-v1.webp`
     : (asset.url ?? "");
+  const cleanedCaption = (asset.caption[locale] || "")
+    .replace(/[\s—-]+DEMO\s*\/?\s*NON\s*VALID[ÉE][^.]*(\.|$)/gi, "$1")
+    .replace(/[\s—-]+نموذج تجريبي غير معتمد[^.]*(\.|$)/gi, "$1")
+    .replace(/[\s—-]+غير معتمد[^.]*(\.|$)/gi, "$1")
+    .replace(/DEMO\s*\/?\s*NON\s*VALID[ÉE]/gi, "")
+    .trim();
+  const cleanedAlt = (asset.alt[locale] || "")
+    .replace(/[\s—-]+DEMO\s*\/?\s*NON\s*VALID[ÉE][^.]*(\.|$)/gi, "$1")
+    .replace(/DEMO/gi, "")
+    .trim();
   return (
     <section className="animation-preview" aria-label={label}>
-      <MediaImage src={previewSrc} alt={asset.alt[locale]} />
+      <MediaImage src={previewSrc} alt={cleanedAlt} />
       <div className="animation-controls">
-        <p>{asset.caption[locale]}</p>
+        <p>{cleanedCaption}</p>
         <button
           className="button secondary"
           type="button"
