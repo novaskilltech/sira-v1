@@ -1,0 +1,80 @@
+{
+  "generatedAt": "2026-11-07T07:59:40.822Z",
+  "provider": "OpenRouter",
+  "model": "minimax/speech-2.8-hd",
+  "statusNote": "LOT_05_DEMO_NON_VALIDE",
+  "results": [
+    {
+      "contentId": "CHR-05",
+      "locale": "fr",
+      "filename": "narration-chr-05-fr.mp3",
+      "path": "/media/drafts/narration-chr-05-fr.mp3",
+      "sizeBytes": 3007341,
+      "elapsedSeconds": "16.9",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "CHR-05",
+      "locale": "ar",
+      "filename": "narration-chr-05-ar.mp3",
+      "path": "/media/drafts/narration-chr-05-ar.mp3",
+      "sizeBytes": 3050541,
+      "elapsedSeconds": "19.8",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "CHR-06",
+      "locale": "fr",
+      "filename": "narration-chr-06-fr.mp3",
+      "path": "/media/drafts/narration-chr-06-fr.mp3",
+      "sizeBytes": 2833389,
+      "elapsedSeconds": "15.3",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "CHR-06",
+      "locale": "ar",
+      "filename": "narration-chr-06-ar.mp3",
+      "path": "/media/drafts/narration-chr-06-ar.mp3",
+      "sizeBytes": 2827629,
+      "elapsedSeconds": "16.1",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "VIE-04",
+      "locale": "fr",
+      "filename": "narration-vie-04-fr.mp3",
+      "path": "/media/drafts/narration-vie-04-fr.mp3",
+      "sizeBytes": 2689965,
+      "elapsedSeconds": "16.7",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "VIE-04",
+      "locale": "ar",
+      "filename": "narration-vie-04-ar.mp3",
+      "path": "/media/drafts/narration-vie-04-ar.mp3",
+      "sizeBytes": 2536749,
+      "elapsedSeconds": "14.7",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "VIE-05",
+      "locale": "fr",
+      "filename": "narration-vie-05-fr.mp3",
+      "path": "/media/drafts/narration-vie-05-fr.mp3",
+      "sizeBytes": 2660013,
+      "elapsedSeconds": "16.1",
+      "status": "GENERATED_OK"
+    },
+    {
+      "contentId": "VIE-05",
+      "locale": "ar",
+      "filename": "narration-vie-05-ar.mp3",
+      "path": "/media/drafts/narration-vie-05-ar.mp3",
+      "sizeBytes": 2594349,
+      "elapsedSeconds": "14.3",
+      "status": "GENERATED_OK"
+    }
+  ]
+}

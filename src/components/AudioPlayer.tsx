@@ -59,6 +59,22 @@ const draftAudios: Record<string, Record<string, string>> = {
     fr: "/media/drafts/narration-vie-03-fr.mp3",
     ar: "/media/drafts/narration-vie-03-ar.mp3",
   },
+  "CHR-05": {
+    fr: "/media/drafts/narration-chr-05-fr.mp3",
+    ar: "/media/drafts/narration-chr-05-ar.mp3",
+  },
+  "CHR-06": {
+    fr: "/media/drafts/narration-chr-06-fr.mp3",
+    ar: "/media/drafts/narration-chr-06-ar.mp3",
+  },
+  "VIE-04": {
+    fr: "/media/drafts/narration-vie-04-fr.mp3",
+    ar: "/media/drafts/narration-vie-04-ar.mp3",
+  },
+  "VIE-05": {
+    fr: "/media/drafts/narration-vie-05-fr.mp3",
+    ar: "/media/drafts/narration-vie-05-ar.mp3",
+  },
 };
 
 export function AudioPlayer({ entry }: { entry: ContentEntry }) {
