@@ -298,7 +298,7 @@ export function AudioPlayer({ entry }: { entry: ContentEntry }) {
       {!asset?.url && <p>{t("audioMissing")}</p>}
       {!url ? (
         <div style={{ display: "flex", gap: "0.5rem", flexWrap: "wrap", alignItems: "center" }}>
-          {draftUrl && (
+          {draftUrl ? (
             <button
               className="button primary"
               onClick={() => {
@@ -311,17 +311,18 @@ export function AudioPlayer({ entry }: { entry: ContentEntry }) {
                 ? "Écouter la narration pilote (3 min)"
                 : "الاستماع إلى التسجيل التجريبي (3 د)"}
             </button>
+          ) : (
+            <button
+              className="button secondary"
+              onClick={() => {
+                setTest(true);
+                setPilot(false);
+              }}
+            >
+              <Play size={18} />
+              {t("audioTest")}
+            </button>
           )}
-          <button
-            className="button secondary"
-            onClick={() => {
-              setTest(true);
-              setPilot(false);
-            }}
-          >
-            <Play size={18} />
-            {t("audioTest")}
-          </button>
         </div>
       ) : (
         <>

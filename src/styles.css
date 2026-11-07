@@ -16,3 +16,1175 @@ main{max-width:1440px;margin:auto}.hero{display:grid;grid-template-columns:47% 5
 @media(max-width:360px){.brand-ar{display:none}.hero-copy{padding:28px 20px}.hero h1{font-size:31px}.hero .eyebrow{font-size:10px}.hero .button{font-size:14px}.page-heading h1{font-size:25px}.article-toc{grid-template-columns:1fr}.route-controls .button{font-size:12px;padding:10px}.global-footer>p{margin:0;width:100%}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
 .map-viewport{position:relative}.map-viewport>svg{max-height:none;height:auto;aspect-ratio:650/600}.map-marker{position:absolute;width:48px;height:48px;min-width:48px;min-height:48px;border-radius:50%;transform:translate(-50%,-50%);padding:0;background:transparent}.map-marker:focus-visible{outline:3px solid var(--blue);outline-offset:2px;background:#faf7f033}.map-marker:hover{background:#faf7f033}.map-marker-visual{pointer-events:none}.button,.filter-bar button,.route-controls .button,.audio-player .button,.object-viewer .button{font-size:16px}.step-list button{font-size:16px}.main-nav a,.footer-brand{min-width:48px;min-height:48px}[dir=rtl] .button,[dir=rtl] .filter-bar button,[dir=rtl] .step-list button{font-size:17px}
+
+/* ==========================================================================
+   STITCH MUSEUM LANDING PAGE — BILINGUAL FR/AR, 3D ANIMATIONS & TYPOGRAPHY
+   ========================================================================== */
+.stitch-landing {
+  padding-bottom: 24px;
+}
+
+.dual-rule {
+  border: 1px solid #cabba3;
+  box-shadow: inset 0 0 0 3px var(--ivory), inset 0 0 0 4px #ded3c0;
+  background: #fffdf8;
+  border-radius: 6px;
+}
+
+/* Monumental Bilingual Hero */
+.stitch-hero {
+  display: flex;
+  flex-direction: column;
+  margin: 28px 5% 0;
+  background: linear-gradient(145deg, #f5efe2 0%, #ede2ce 100%);
+  border: 1px solid #d2c5b0;
+  box-shadow: 0 18px 44px rgba(18, 58, 67, 0.08);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.hero-top-ribbon {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 18px;
+  padding: 11px 28px;
+  background: #173d36;
+  color: #faf7f0;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  border-bottom: 1px solid rgba(228, 214, 189, 0.25);
+}
+
+.hero-coords {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 500;
+  color: #f2e9db;
+}
+
+.hero-ribbon-ar {
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
+  font-size: 13px;
+  letter-spacing: 0;
+  color: #faf7f0;
+  font-weight: 500;
+}
+
+.hero-main-grid {
+  display: grid;
+  grid-template-columns: 52% 48%;
+  min-height: 540px;
+}
+
+.stitch-display-title {
+  font-family: 'Georgia', 'Times New Roman', 'IBM Plex Sans', serif;
+  font-size: clamp(2.15rem, 3.8vw, 3.45rem);
+  line-height: 1.14;
+  font-weight: 600;
+  color: #173d36;
+  margin: 18px 0 16px;
+  letter-spacing: -0.03em;
+}
+
+[dir="rtl"] .stitch-display-title {
+  font-family: 'IBM Plex Sans Arabic', serif;
+  font-size: clamp(2.25rem, 4vw, 3.55rem);
+  line-height: 1.38;
+  letter-spacing: 0;
+}
+
+.hero-bilingual-mirror {
+  margin: 4px 0 18px;
+  padding: 12px 16px;
+  background: #faf7f0;
+  border-inline-start: 3px solid var(--ochre-text);
+  border-radius: 4px;
+  max-width: 540px;
+  width: 100%;
+}
+
+.mirror-kicker {
+  display: block;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--ochre-text);
+  letter-spacing: 0.06em;
+  margin-bottom: 4px;
+}
+
+.mirror-headline {
+  font-size: 15px !important;
+  line-height: 1.55 !important;
+  color: var(--ink) !important;
+  font-weight: 500;
+  max-width: none !important;
+}
+
+.hero-lead {
+  font-size: 17px;
+  line-height: 1.72;
+  color: var(--ink);
+  max-width: 520px;
+}
+
+.hero-cta-cluster {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.hero-cta-cluster .button {
+  margin-top: 0;
+}
+
+/* Animated Buttons with Golden Sheen & Elevation */
+.btn-animated-primary {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, #173d36 0%, #235a55 100%);
+  border: 1px solid #173d36;
+  color: #ffffff;
+  box-shadow: 0 6px 18px rgba(23, 61, 54, 0.22);
+  transition: transform 0.25s cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 0.25s ease, background 0.25s ease;
+}
+
+.btn-animated-primary::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -120%;
+  width: 65%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(250, 247, 240, 0.22),
+    transparent
+  );
+  transform: skewX(-20deg);
+  transition: left 0.55s ease;
+  pointer-events: none;
+}
+
+.btn-animated-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(18, 58, 67, 0.3);
+  background: linear-gradient(135deg, #123a43 0%, #173d36 100%);
+  color: #ffffff;
+}
+
+.btn-animated-primary:hover::before {
+  left: 140%;
+}
+
+.btn-animated-primary svg {
+  transition: transform 0.25s ease;
+}
+
+.btn-animated-primary:hover svg {
+  transform: translateX(4px);
+}
+
+[dir="rtl"] .btn-animated-primary:hover svg {
+  transform: scaleX(-1) translateX(4px);
+}
+
+.btn-animated-secondary {
+  background: #faf7f0;
+  border: 1px solid #84541c;
+  color: #173d36;
+  font-weight: 500;
+  transition: transform 0.22s ease, background 0.22s ease,
+    box-shadow 0.22s ease;
+}
+
+.btn-animated-secondary:hover {
+  background: #ede2ce;
+  color: #123a43;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(132, 84, 28, 0.14);
+}
+
+/* 3D Astrolabe Stage in Hero */
+.stitch-hero-stage {
+  position: relative;
+  perspective: 1100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-3d-astrolabe {
+  position: relative;
+  z-index: 1;
+  width: min(330px, 78%);
+  aspect-ratio: 1 / 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform-style: preserve-3d;
+  pointer-events: none;
+}
+
+.astrolabe-ring {
+  position: absolute;
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.astrolabe-ring-outer {
+  inset: 4%;
+  border: 1.5px solid rgba(250, 247, 240, 0.45);
+  box-shadow: 0 0 30px rgba(18, 58, 67, 0.35);
+  animation: sira-orbit-3d-a 26s linear infinite;
+}
+
+.astrolabe-ring-middle {
+  inset: 14%;
+  border: 1.5px dashed rgba(228, 214, 189, 0.65);
+  animation: sira-orbit-3d-b 19s linear infinite reverse;
+}
+
+.astrolabe-ring-inner {
+  inset: 26%;
+  border: 1px solid rgba(250, 247, 240, 0.4);
+  animation: sira-orbit-3d-c 15s ease-in-out infinite alternate;
+}
+
+.astrolabe-svg {
+  width: 100%;
+  height: 100%;
+  filter: drop-shadow(0 8px 20px rgba(18, 58, 67, 0.45));
+  animation: sira-float-slow 7s ease-in-out infinite alternate;
+}
+
+@keyframes sira-orbit-3d-a {
+  0% {
+    transform: rotateX(58deg) rotateY(12deg) rotateZ(0deg);
+  }
+  100% {
+    transform: rotateX(58deg) rotateY(12deg) rotateZ(360deg);
+  }
+}
+
+@keyframes sira-orbit-3d-b {
+  0% {
+    transform: rotateX(42deg) rotateY(-24deg) rotateZ(0deg);
+  }
+  100% {
+    transform: rotateX(42deg) rotateY(-24deg) rotateZ(360deg);
+  }
+}
+
+@keyframes sira-orbit-3d-c {
+  0% {
+    transform: rotateX(22deg) rotateY(18deg) scale(0.96);
+  }
+  100% {
+    transform: rotateX(-18deg) rotateY(-18deg) scale(1.04);
+  }
+}
+
+@keyframes sira-float-slow {
+  0% {
+    transform: translateY(-5px) rotateZ(-2deg);
+  }
+  100% {
+    transform: translateY(5px) rotateZ(2deg);
+  }
+}
+
+.hero-stage-badges {
+  position: absolute;
+  top: 24px;
+  inset-inline-start: 20px;
+  z-index: 2;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.stage-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 10px;
+  background: rgba(23, 61, 54, 0.88);
+  color: #faf7f0;
+  border: 1px solid rgba(228, 214, 189, 0.45);
+  border-radius: 999px;
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+}
+
+/* Monumental Metrics Ribbon */
+.stitch-metrics-ribbon {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  background: #faf7f0;
+  border-top: 1px solid #d2c5b0;
+}
+
+.metric-cell {
+  padding: 18px 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border-inline-end: 1px solid #e2d8c7;
+}
+
+.metric-cell:last-child {
+  border-inline-end: none;
+}
+
+.metric-highlight {
+  background: #f2e9db;
+}
+
+.metric-value {
+  font-family: 'Georgia', 'IBM Plex Sans', serif;
+  font-size: 28px;
+  font-weight: 700;
+  color: #173d36;
+  line-height: 1.1;
+}
+
+.metric-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ochre-text);
+  margin-top: 5px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+[dir="rtl"] .metric-label {
+  letter-spacing: 0;
+  font-size: 13px;
+}
+
+.metric-sub {
+  font-size: 12px;
+  color: var(--secondary);
+  margin-top: 3px;
+}
+
+/* Shared Section Headers with Bilingual Mirror */
+.stitch-section-header {
+  padding-bottom: 18px;
+  border-bottom: 1px solid #d7cebf;
+  gap: 20px;
+}
+
+.section-bilingual-aside {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+  text-align: end;
+}
+
+.bilingual-aside-title {
+  font-family: 'IBM Plex Sans Arabic', 'Georgia', serif;
+  font-size: 20px;
+  font-weight: 600;
+  color: #173d36;
+}
+
+/* Enhanced Triptych Cards */
+.stitch-feature-card {
+  background: #fffdf8;
+  border: 1px solid #cabba3;
+  transition: transform 0.26s ease, box-shadow 0.26s ease;
+}
+
+.stitch-feature-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 16px 36px rgba(18, 58, 67, 0.12);
+}
+
+.feature-vol-tag {
+  position: absolute;
+  bottom: 12px;
+  inset-inline-start: 14px;
+  z-index: 1;
+  background: rgba(23, 61, 54, 0.9);
+  color: #faf7f0;
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  padding: 4px 9px;
+  border-radius: 3px;
+}
+
+.feature-bilingual-sub {
+  font-size: 14px !important;
+  font-weight: 600;
+  color: var(--ochre-text) !important;
+  min-height: 0 !important;
+  margin-bottom: 8px !important;
+}
+
+/* ==========================================================================
+   3. INTERACTIVE 3D ARCHAEOLOGICAL CABINET (#cabinet-3d)
+   ========================================================================== */
+.stitch-cabinet-section {
+  padding: 64px 5% 0;
+  scroll-margin-top: 24px;
+}
+
+.cabinet-tabs {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin-bottom: 22px;
+}
+
+.cabinet-tab-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 4px;
+  padding: 12px 16px;
+  background: #faf7f0;
+  border: 1px solid #c9bdab;
+  border-radius: 6px;
+  text-align: start;
+  transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+}
+
+.cabinet-tab-btn:hover {
+  background: var(--sand);
+  border-color: var(--ochre-text);
+  transform: translateY(-2px);
+}
+
+.cabinet-tab-btn.active {
+  background: #173d36;
+  border-color: #173d36;
+  color: #ffffff;
+}
+
+.tab-main-label {
+  font-size: 14px;
+  font-weight: 600;
+  color: inherit;
+}
+
+.tab-secondary-label {
+  font-size: 12px;
+  color: var(--secondary);
+}
+
+.cabinet-tab-btn.active .tab-secondary-label {
+  color: #e4d6bd;
+}
+
+.cabinet-grid {
+  display: grid;
+  grid-template-columns: 1.35fr 1fr;
+  gap: 24px;
+  align-items: stretch;
+}
+
+.cabinet-stage-card {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: linear-gradient(180deg, #f7f1e4 0%, #ede3d1 100%);
+}
+
+.cabinet-hud-top {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #d5c8b4;
+  font-size: 12px;
+}
+
+.hud-pulse-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--green);
+  box-shadow: 0 0 0 4px rgba(35, 90, 85, 0.2);
+}
+
+.hud-code {
+  font-weight: 700;
+  color: #173d36;
+  letter-spacing: 0.06em;
+}
+
+.hud-room {
+  margin-inline-start: auto;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--ochre-text);
+  background: #faf7f0;
+  padding: 3px 9px;
+  border: 1px solid #d5c8b4;
+  border-radius: 4px;
+}
+
+.cabinet-turntable-stage {
+  position: relative;
+  min-height: 320px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  perspective: 1000px;
+  overflow: hidden;
+  padding: 16px 0;
+}
+
+.turntable-3d-rig {
+  position: relative;
+  width: 100%;
+  max-width: 340px;
+  height: 280px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform-style: preserve-3d;
+  transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.orbital-ring {
+  position: absolute;
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.orbital-ring-1 {
+  width: 250px;
+  height: 250px;
+  border: 1.5px dashed rgba(132, 84, 28, 0.4);
+  animation: sira-orbit-3d-a 22s linear infinite;
+}
+
+.orbital-ring-2 {
+  width: 210px;
+  height: 210px;
+  border: 1px solid rgba(23, 61, 54, 0.28);
+  animation: sira-orbit-3d-b 18s linear infinite reverse;
+}
+
+.turntable-artifact-svg {
+  width: 100%;
+  max-height: 270px;
+  position: relative;
+  z-index: 2;
+  filter: drop-shadow(0 14px 20px rgba(23, 61, 54, 0.18));
+  animation: sira-artifact-breathe 5s ease-in-out infinite alternate;
+}
+
+@keyframes sira-artifact-breathe {
+  0% {
+    transform: translateY(-4px) scale(0.99);
+  }
+  100% {
+    transform: translateY(4px) scale(1.02);
+  }
+}
+
+.cabinet-webgl-wrapper {
+  padding: 10px 0;
+}
+
+.cabinet-controls-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding-top: 14px;
+  border-top: 1px solid #d5c8b4;
+}
+
+.cabinet-controls-bar .toolbar button {
+  background: #faf7f0;
+}
+
+.cabinet-webgl-toggle {
+  font-size: 14px;
+  padding: 10px 16px;
+}
+
+.cabinet-cartel {
+  padding: 24px 26px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.cartel-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #ded4c3;
+}
+
+.cartel-inv-code {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--ochre-text);
+  letter-spacing: 0.08em;
+}
+
+.cartel-status-badge {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 3px 9px;
+  background: var(--sand);
+  color: var(--ink);
+  border-radius: 4px;
+}
+
+.cartel-title-primary {
+  font-size: 23px;
+  color: #173d36;
+  margin-top: 14px;
+}
+
+.cartel-title-secondary {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--ochre-text);
+  margin-top: 4px;
+}
+
+.cartel-specs {
+  margin: 18px 0;
+  padding: 0;
+  border-top: 1px solid #e5dccb;
+}
+
+.cartel-specs > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 9px 0;
+  border-bottom: 1px solid #e5dccb;
+  font-size: 14px;
+}
+
+.cartel-specs dt {
+  color: var(--secondary);
+  font-weight: 500;
+}
+
+.cartel-specs dd {
+  margin: 0;
+  color: var(--ink);
+  font-weight: 600;
+  text-align: end;
+}
+
+.cartel-note-box {
+  background: var(--sand);
+  border-inline-start: 3px solid var(--ochre-text);
+  padding: 12px 14px;
+  border-radius: 4px;
+}
+
+.cartel-note-box strong {
+  display: block;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ochre-text);
+  margin-bottom: 4px;
+}
+
+.cartel-note-box p {
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+
+.cartel-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-top: 12px;
+  border-top: 1px solid #ded4c3;
+}
+
+.cartel-cta {
+  width: 100%;
+}
+
+/* ==========================================================================
+   4. HEGIRA TOPOGRAPHICAL CORRIDOR (#corridor-hegire)
+   ========================================================================== */
+.stitch-corridor-section {
+  padding: 64px 5% 0;
+  scroll-margin-top: 24px;
+}
+
+.corridor-elevation-card {
+  padding: 20px 24px;
+  margin-bottom: 22px;
+}
+
+.elevation-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.elevation-caption {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ochre-text);
+  letter-spacing: 0.05em;
+}
+
+.corridor-elevation-svg {
+  width: 100%;
+  height: auto;
+  max-height: 185px;
+}
+
+.corridor-animated-path {
+  stroke-dasharray: 1200;
+  stroke-dashoffset: 0;
+  animation: sira-route-pulse 6s ease-in-out infinite alternate;
+}
+
+@keyframes sira-route-pulse {
+  0% {
+    stroke-width: 2.8;
+  }
+  100% {
+    stroke-width: 4;
+  }
+}
+
+.corridor-waypoints-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 14px;
+}
+
+.waypoint-card {
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 14px;
+  transition: transform 0.22s ease, border-color 0.22s ease;
+}
+
+.waypoint-card:hover {
+  transform: translateY(-4px);
+}
+
+.waypoint-card.active {
+  border-color: #173d36;
+  background: #f6efe0;
+}
+
+.waypoint-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.waypoint-step {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--ochre-text);
+  letter-spacing: 0.06em;
+}
+
+.waypoint-alt {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 7px;
+  background: var(--sand);
+  color: var(--ink);
+  border-radius: 3px;
+}
+
+.waypoint-card h3 {
+  font-size: 17px;
+  color: #173d36;
+  margin-bottom: 4px;
+}
+
+.waypoint-bilingual-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ochre-text);
+  margin-bottom: 8px;
+}
+
+.waypoint-desc {
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+
+.waypoint-footer {
+  padding-top: 10px;
+  border-top: 1px solid #ded4c3;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.waypoint-source {
+  font-size: 11px;
+  color: var(--secondary);
+  font-weight: 500;
+}
+
+.waypoint-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.waypoint-focus-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 6px 10px;
+  font-size: 12px;
+  font-weight: 600;
+  border: 1px solid #c9bdab;
+  border-radius: 4px;
+  background: #faf7f0;
+  color: var(--ink);
+}
+
+.waypoint-focus-btn[aria-pressed="true"] {
+  background: #173d36;
+  color: #ffffff;
+  border-color: #173d36;
+}
+
+.waypoint-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  min-height: 48px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--green);
+}
+
+.corridor-spotlight-bar {
+  margin-top: 18px;
+  padding: 20px 24px;
+  background: var(--sand);
+  border: 1px solid #cdbfa7;
+  border-radius: 6px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.corridor-spotlight-bar h3 {
+  font-size: 21px;
+  color: #173d36;
+  margin-top: 4px;
+}
+
+.corridor-spotlight-ctas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+/* ==========================================================================
+   5. AUDIO NARRATIONS & METHODOLOGICAL CHARTER (#codex-manuscrits)
+   ========================================================================== */
+.stitch-rigor-section {
+  padding: 64px 5% 0;
+  scroll-margin-top: 24px;
+}
+
+.rigor-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.1fr;
+  gap: 24px;
+  align-items: stretch;
+}
+
+.rigor-audio-card,
+.rigor-charter-card {
+  padding: 28px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.rigor-audio-card .eyebrow,
+.rigor-charter-card .eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.rigor-audio-card h2,
+.rigor-charter-card h2 {
+  font-size: 26px;
+  color: #173d36;
+}
+
+.rigor-bilingual-sub {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--ochre-text);
+}
+
+.audio-showcase-box {
+  background: var(--sand);
+  border: 1px solid #d5c8b4;
+  border-radius: 6px;
+  padding: 16px;
+}
+
+.audio-wave-bars {
+  height: 46px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 5px;
+  padding: 6px 10px;
+  background: #faf7f0;
+  border: 1px solid #e2d8c7;
+  border-radius: 4px;
+  margin-bottom: 14px;
+}
+
+.audio-wave-bars span {
+  flex: 1;
+  background: var(--green);
+  border-radius: 2px;
+  animation: sira-wave-bar 1.8s ease-in-out infinite alternate;
+}
+
+.audio-wave-bars span:nth-child(odd) {
+  background: var(--ochre-text);
+}
+
+@keyframes sira-wave-bar {
+  0% {
+    transform: scaleY(0.45);
+  }
+  100% {
+    transform: scaleY(1);
+  }
+}
+
+.audio-track-links {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.audio-track-pill {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 14px;
+  background: #faf7f0;
+  border: 1px solid #d5c8b4;
+  border-radius: 5px;
+  min-height: 54px;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.audio-track-pill:hover {
+  background: #fffdf8;
+  transform: translateX(3px);
+}
+
+[dir="rtl"] .audio-track-pill:hover {
+  transform: translateX(-3px);
+}
+
+.audio-track-pill > svg:first-child {
+  color: var(--green);
+}
+
+.audio-track-pill > svg:last-child {
+  margin-inline-start: auto;
+  color: var(--ochre-text);
+}
+
+.audio-track-pill div {
+  display: flex;
+  flex-direction: column;
+}
+
+.audio-track-pill strong {
+  font-size: 14px;
+  color: var(--ink);
+}
+
+.audio-track-pill span {
+  font-size: 12px;
+  color: var(--secondary);
+}
+
+.rigor-pillars-list {
+  list-style: none;
+  margin: 4px 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.rigor-pillars-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 12px 14px;
+  background: var(--sand);
+  border-radius: 5px;
+}
+
+.rigor-pillars-list li > svg {
+  color: var(--green);
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.rigor-pillars-list strong {
+  display: block;
+  font-size: 15px;
+  color: #173d36;
+  margin-bottom: 4px;
+}
+
+.rigor-pillars-list p {
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--ink);
+}
+
+.rigor-charter-footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding-top: 12px;
+  border-top: 1px solid #ded4c3;
+}
+
+/* ==========================================================================
+   RESPONSIVE RULES FOR STITCH LANDING PAGE (1150px / 950px / 620px / 360px)
+   ========================================================================== */
+@media (max-width: 1150px) {
+  .cabinet-tabs {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .corridor-waypoints-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 950px) {
+  .hero-main-grid {
+    grid-template-columns: 1fr;
+  }
+  .stitch-metrics-ribbon {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .metric-cell {
+    border-bottom: 1px solid #e2d8c7;
+  }
+  .cabinet-grid,
+  .rigor-grid {
+    grid-template-columns: 1fr;
+  }
+  .corridor-waypoints-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 620px) {
+  .hero-top-ribbon {
+    padding: 10px 16px;
+    font-size: 10px;
+  }
+  .stitch-metrics-ribbon {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .metric-cell:last-child {
+    grid-column: 1 / -1;
+  }
+  .stitch-section-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .section-bilingual-aside {
+    align-items: flex-start;
+    text-align: start;
+  }
+  .cabinet-tabs,
+  .corridor-waypoints-grid {
+    grid-template-columns: 1fr;
+  }
+  .stitch-cabinet-section,
+  .stitch-corridor-section,
+  .stitch-rigor-section {
+    padding-top: 42px;
+  }
+  .cabinet-cartel,
+  .rigor-audio-card,
+  .rigor-charter-card {
+    padding: 20px 16px;
+  }
+  .cartel-specs > div {
+    flex-direction: column;
+    gap: 2px;
+  }
+  .cartel-specs dd {
+    text-align: start;
+  }
+  .corridor-spotlight-bar {
+    padding: 16px;
+  }
+}
+
+@media (max-width: 360px) {
+  .stitch-metrics-ribbon {
+    grid-template-columns: 1fr;
+  }
+  .hero-cta-cluster .button {
+    width: 100%;
+  }
+}
