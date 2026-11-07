@@ -187,6 +187,38 @@ const draftAudios: Record<string, Record<string, string>> = {
     fr: "/media/drafts/narration-heg-dos-10-fr.mp3",
     ar: "/media/drafts/narration-heg-dos-10-ar.mp3",
   },
+  "CHR-21": {
+    fr: "/media/drafts/narration-chr-21-fr.mp3",
+    ar: "/media/drafts/narration-chr-21-ar.mp3",
+  },
+  "CHR-22": {
+    fr: "/media/drafts/narration-chr-22-fr.mp3",
+    ar: "/media/drafts/narration-chr-22-ar.mp3",
+  },
+  "VIE-16": {
+    fr: "/media/drafts/narration-vie-16-fr.mp3",
+    ar: "/media/drafts/narration-vie-16-ar.mp3",
+  },
+  "VIE-17": {
+    fr: "/media/drafts/narration-vie-17-fr.mp3",
+    ar: "/media/drafts/narration-vie-17-ar.mp3",
+  },
+  "CHR-23": {
+    fr: "/media/drafts/narration-chr-23-fr.mp3",
+    ar: "/media/drafts/narration-chr-23-ar.mp3",
+  },
+  "CHR-24": {
+    fr: "/media/drafts/narration-chr-24-fr.mp3",
+    ar: "/media/drafts/narration-chr-24-ar.mp3",
+  },
+  "VIE-18": {
+    fr: "/media/drafts/narration-vie-18-fr.mp3",
+    ar: "/media/drafts/narration-vie-18-ar.mp3",
+  },
+  "HEG-DOS-11": {
+    fr: "/media/drafts/narration-heg-dos-11-fr.mp3",
+    ar: "/media/drafts/narration-heg-dos-11-ar.mp3",
+  },
 };
 
 export function AudioPlayer({ entry }: { entry: ContentEntry }) {
