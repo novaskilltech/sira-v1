@@ -219,6 +219,34 @@ const draftAudios: Record<string, Record<string, string>> = {
     fr: "/media/drafts/narration-heg-dos-11-fr.mp3",
     ar: "/media/drafts/narration-heg-dos-11-ar.mp3",
   },
+  "VIE-19": {
+    fr: "/media/drafts/narration-vie-19-fr.mp3",
+    ar: "/media/drafts/narration-vie-19-ar.mp3",
+  },
+  "VIE-20": {
+    fr: "/media/drafts/narration-vie-20-fr.mp3",
+    ar: "/media/drafts/narration-vie-20-ar.mp3",
+  },
+  "VIE-21": {
+    fr: "/media/drafts/narration-vie-21-fr.mp3",
+    ar: "/media/drafts/narration-vie-21-ar.mp3",
+  },
+  "VIE-22": {
+    fr: "/media/drafts/narration-vie-22-fr.mp3",
+    ar: "/media/drafts/narration-vie-22-ar.mp3",
+  },
+  "VIE-23": {
+    fr: "/media/drafts/narration-vie-23-fr.mp3",
+    ar: "/media/drafts/narration-vie-23-ar.mp3",
+  },
+  "VIE-24": {
+    fr: "/media/drafts/narration-vie-24-fr.mp3",
+    ar: "/media/drafts/narration-vie-24-ar.mp3",
+  },
+  "HEG-DOS-12": {
+    fr: "/media/drafts/narration-heg-dos-12-fr.mp3",
+    ar: "/media/drafts/narration-heg-dos-12-ar.mp3",
+  },
 };
 
 export function AudioPlayer({ entry }: { entry: ContentEntry }) {
