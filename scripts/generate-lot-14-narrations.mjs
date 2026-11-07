@@ -76,11 +76,11 @@ Première partie : Repère et périmètre.
 Au terme du mois de safar de l'an 11 de l'Hégire, en juin 632, le Prophète est frappé par une fièvre aiguë. Conscient de son départ imminent, il prépare la communauté à sa succession spirituelle et institutionnelle avec une transparence bouleversante.
 
 Deuxième partie : Éléments sourcés.
-Soigné dans la demeure d'A'isha, le Prophète demande à ses compagnons de régler toute dette qu'il pourrait avoir envers eux, offrant son propre corps et ses biens en réparation. Ne pouvant plus se tenir debout, il désigne expressément Abu Bakr pour diriger la prière commune.
-Le lundi 12 Rabi' al-Awwal de l'an 11, contemplant une dernière fois ses fidèles en prière avec un sourire d'apaisement, le Prophète rejoint le Très-Haut Compagnon. Devant le désarroi général, Abu Bakr proclame la parole fondatrice : Que celui qui adorait Muhammad sache que Muhammad est mort ; mais que celui qui adore Dieu sache que Dieu est Vivant et ne meurt jamais !
+Soigné dans la demeure d'A'isha avec l'accord de ses épouses, le Prophète désigne expressément Abu Bakr pour diriger la prière commune (Sahih al-Bukhari, 687).
+Un lundi de Rabi' al-Awwal de l'an 11, contemplant une dernière fois ses fidèles en prière avec un sourire d'apaisement (Sahih al-Bukhari, 680), le Prophète rejoint le Très-Haut Compagnon (Sahih al-Bukhari, 4463). Devant le désarroi général, Abu Bakr proclame la parole fondatrice (Sahih al-Bukhari, 3667) : Que celui qui adorait Muhammad sache que Muhammad est mort ; mais que celui qui adore Dieu sache que Dieu est Vivant et ne meurt jamais !
 
 Troisième partie : Variantes, silences et limites.
-La chronologie des derniers jours fait l'objet d'un consensus historique unanime. L'application observe une pudeur et un aniconisme absolus, refusant toute dramatisation figurative de l'agonie pour honorer la sérénité du passage.
+Si le jour de la semaine (le lundi) et le mois (Rabi' al-Awwal de l'an 11) font l'objet d'un consensus, les chroniqueurs et savants du hadith (al-Suhayli dans al-Rawd al-Unuf, Ibn Hajar dans Fath al-Bari, Ibn Kathir) relèvent que la mention courante du 12 Rabi' al-Awwal pose une difficulté de calcul calendaire puisque le jour d'Arafat (9 Dhou al-Hijja de l'an 10) était unanimement un vendredi, ce qui situe astronomiquement ce lundi au 2 ou au 13-14 du mois. De même, le sermon où le Prophète s'offre en réparation d'éventuels torts est transmis par Ibn Ishaq et al-Tabarani avec une chaîne discutée. L'application observe une pudeur et un aniconisme absolus.
 
 Quatrième partie : Synthèse pédagogique.
 Trois vérités émergent de ce dénouement. Premièrement, la mortalité du Prophète rappelle que nul homme n'est divin. Deuxièmement, la désignation d'Abu Bakr à la prière assure la continuité sereine de la gouvernance. Troisièmement, la foi islamique repose sur Dieu l'Éternel et non sur la présence physique d'un individu mortel.`
@@ -97,14 +97,14 @@ Trois vérités émergent de ce dénouement. Premièrement, la mortalité du Pro
 في ربيع الأول من العام الحادي عشر للهجرة، اشتدت الحمى برسول الله صلى الله عليه وسلم، فضرب في أيامه الأخيرة أروع الأمثلة في العدل والشفافية وتوديع أمته بيقين وثبات.
 
 القسم الثاني : العناصر المسندة إلى المصادر.
-مُرّض النبي في بيت عائشة، وعرض نفسه للقصاص من كل مظلمة، وأمر أبا بكر أن يصلي بالناس عند اشتداد الوجع.
-وفي يوم الاثنين الثاني عشر من ربيع الأول، انتقل إلى الرفيق الأعلى، وثبت أبو بكر القلوب بكلمته التاريخية: ألا من كان يعبد محمداً فإن محمداً قد مات، ومن كان يعبد الله فإن الله حي لا يموت.
+مُرّض النبي في بيت عائشة رضي الله عنها، وأمر أبا بكر أن يصلي بالناس عند اشتداد الوجع كما ثبت في الصحيحين.
+وفي ضحى يوم الاثنين من ربيع الأول، انتقل إلى الرفيق الأعلى (صحيح البخاري، 4463)، وثبت أبو بكر القلوب بكلمته التاريخية الفاصلة: ألا من كان يعبد محمداً فإن محمداً قد مات، ومن كان يعبد الله فإن الله حي لا يموت (صحيح البخاري، 3667).
 
 القسم الثالث : الاختلافات والحدود.
-أجمعت كتب السير والصحاح على تفاصيل الوفاة وموضع الدفن الشريف في حجرة عائشة. ويلتزم التطبيق بالوقار التام الخالي من أي تمثيل للجسد الشريف.
+أجمع العلماء على أن الوفاة وقعت يوم الاثنين من ربيع الأول سنة إحدى عشرة، غير أن المحققين كالسهيلي وابن حجر وابن كثير نبهوا إلى أن المشهور في السير من أنه الثاني عشر يستشكل حسابياً لثبوت وقفة عرفة يوم الجمعة، مما يقتضي كونه الثاني أو الثالث عشر من الشهر؛ كما أن حديث عرض القصاص من نفسه مروي عند ابن إسحاق والطبراني بإسناد فيه مقال. ويلتزم التطبيق بالوقار التام الخالي من أي تمثيل للجسد الشريف.
 
 القسم الرابع : خلاصة تربوية.
-نستخلص من هذه الأيام ثلاث عبر بليغة: أولاها بشرية الأنبياء وبقاء دين الله الخالد. وثانيتها تقديم أبي بكر للصلاة رسخ استقرار الدولة. وثالثتها أن كمال الإيمان يتحقق بالارتباط بالحي القيوم الذي لا يموت.`
+نستخلص من هذه الأيام ثلاث عبر بليغة: أولاها بشرية الأنبياء وبقاء دين الله الخالد. وثانيتها تقديم أبي بكر للصلاة رسخ استقرار الجماعة. وثالثتها أن كمال الإيمان يتحقق بالارتباط بالحي القيوم الذي لا يموت.`
   },
   {
     contentId: "VIE-18",
@@ -118,13 +118,13 @@ Première partie : Repère et périmètre.
 Dans l'Arabie du VIIe siècle, la circulation des marchandises reliait étroitement les oasis agricoles aux centres caravaniers. Loin de vivre en autarcie, Médine et La Mecque s'intégraient dans de vastes circuits marchands où s'échangeaient dattes, céréales, cuirs et tissus.
 
 Deuxième partie : Éléments sourcés.
-Les caravanes de dromadaires acheminaient les récoltes de dattes vers La Mecque et rapportaient le blé, l'huile et les toiles. Au marché, les transactions s'effectuaient avec les monnaies pesées à la balance OBJ-014 et les poids de mesure OBJ-015, ou par le contrat de vente à terme salam, régulé par le Prophète pour protéger les revenus des producteurs sans spéculation.
+Les caravanes de dromadaires acheminaient les récoltes de dattes vers La Mecque et rapportaient le blé, l'huile et les toiles. Au marché, les transactions s'effectuaient avec les monnaies pesées à la balance OBJ-014 et les poids de mesure OBJ-015, ou par le contrat de vente à livraison différée salam, encadré par le Prophète à Médine : selon une mesure connue et un poids connu, jusqu'à une échéance connue (Sahih al-Bukhari 2240, Sahih Muslim 1604).
 
 Troisième partie : Variantes, silences et limites.
-Les sources juridiques précisent les conditions de licéité des contrats de vente ambulante et de transport. L'application examine ces mécanismes économiques avec une fidélité archéologique intégrale.
+Dans la jurisprudence malékite de référence (al-Muwatta' de l'imam Malik, al-Risala d'Ibn Abi Zayd), la validité du contrat salam requiert le versement anticipé du capital (ta'jil ra's al-mal), la détermination précise de la mesure ou du poids, la description exacte des qualités du bien fongible et une échéance fixe, afin d'exclure l'usure (riba) et l'incertitude (gharar). L'application examine ces mécanismes économiques avec une fidélité archéologique et juridique rigoureuse.
 
 Quatrième partie : Synthèse pédagogique.
-Trois principes régissent cette circulation. Premièrement, la fluidité des transports caravaniers garantit la sécurité alimentaire des cités. Deuxièmement, les instruments de pesée OBJ-014 et OBJ-015 sécurisent la confiance mutuelle. Troisièmement, la morale commerciale proscrit tout péage arbitraire au profit de l'abondance partagée.`
+Trois principes régissent cette circulation. Premièrement, la fluidité des transports caravaniers garantit la sécurité alimentaire des cités. Deuxièmement, les instruments de pesée OBJ-014 et OBJ-015 sécurisent la confiance mutuelle. Troisièmement, l'encadrement juridique du salam protège les producteurs sans spéculation.`
   },
   {
     contentId: "VIE-18",
@@ -138,13 +138,13 @@ Trois principes régissent cette circulation. Premièrement, la fluidité des tr
 قامت حركة التجارة في الحجاز على شبكة قوافل نشطة ربطت الواحات بالمدن والأسواق الكبرى، مما حقق توازناً غذائياً واقتصادياً للمجتمع.
 
 القسم الثاني : العناصر المسندة إلى المصادر.
-نُقلت التمور والحبوب على قوافل الإبل، وبِيعت في السوق نَقداً بالعملات الموزونة بالميزان OBJ-014 وأوزان القياس OBJ-015، أو بعقد السَّلَم المنضبط بالشروط الشرعية لحماية حقوق المزارعين.
+نُقلت التمور والحبوب على قوافل الإبل، وبِيعت في السوق نَقداً بالعملات الموزونة بالميزان OBJ-014 وأوزان القياس OBJ-015، أو بعقد السَّلَم الذي ضبطه النبي صلى الله عليه وسلم بقوله: من أسلف في شيء ففي كيل معلوم ووزن معلوم إلى أجل معلوم (متفق عليه).
 
 القسم الثالث : الاختلافات والحدود.
-تؤكد كتب الفقه استقرار عقود البيع والتجارة في العهد النبوي. ويلتزم التطبيق بالعرض المتحفي النظيف للأدوات دون تجسيد للأشخاص.
+فصّل الفقه المالكي المعتمد (الموطأ للإمام مالك، والرسالة لابن أبي زيد) شروط صحة السَّلَم من تعجيل رأس المال وضبط الصفات والمقدار والأجل المعلوم منعاً للربا والغرر. ويلتزم التطبيق بالعرض المتحفي النظيف للأدوات دون تجسيد للأشخاص.
 
 القسم الرابع : خلاصة تربوية.
-نستخلص من تداول البضائع ثلاث فوائد: أولاها مرونة القوافل في تأمين الإمداد التمويني. وثانيتها دور الميزان الدقيق في إحقاق الحقوق. وثالثتها تشجيع النشاط الاقتصادي العادل الخالي من المكوس والظلم.`
+نستخلص من تداول البضائع ثلاث فوائد: أولاها مرونة القوافل في تأمين الإمداد التمويني. وثانيتها دور الميزان الدقيق في إحقاق الحقوق. وثالثتها انضباط العقود كالسلم لتمويل الزراع بعدل وشفافية.`
   },
   {
     contentId: "HEG-DOS-11",

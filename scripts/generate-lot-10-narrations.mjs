@@ -38,10 +38,10 @@ La mosquée est bâtie avec les matériaux immédiats de l'oasis : murs de briqu
 Au fond de l'enclos, sous l'auvent d'al-Suffa, logent les compagnons démunis et voyageurs sans toit, comme Abu Hurayra. Ce lieu devient la première académie de l'Islam où l'on étudie le Coran et le droit avant de transmettre ces enseignements aux tribus bédouines. Parallèlement, l'espace accueille les délibérations politiques, les ambassades étrangères et le soin des blessés. Enfin, l'appel à la prière proclamé par la voix retentissante de Bilal ibn Rabah depuis le plus haut toit avoisinant rythme désormais la vie de toute l'oasis cinq fois par jour.
 
 Troisième partie : Variantes, silences et limites.
-Les récits s'accordent sur les dimensions initiales modestes du sanctuaire et son agrandissement ultérieur. L'application observe un aniconisme strict : aucune représentation humaine de la prière ou de la construction, l'évocation se concentrant sur les matériaux bruts et l'esprit d'égalité républicaine.
+Les récits s'accordent sur les dimensions initiales modestes du sanctuaire et son agrandissement ultérieur. L'application observe un aniconisme strict : aucune représentation humaine de la prière ou de la construction, l'évocation se concentrant sur les matériaux bruts et l'esprit de fraternité communautaire.
 
 Quatrième partie : Synthèse pédagogique.
-Trois principes fondent cette institution. Premièrement, la mosquée réunit en un même lieu le spirituel et le temporel dans une transparence totale. Deuxièmement, l'asile de la Suffa pose les bases de la solidarité institutionnelle et de la diffusion du savoir. Troisièmement, la voix de Bilal institue une démocratie spirituelle où le mérite moral l'emporte sur l'origine ethnique.`
+Trois principes fondent cette institution. Premièrement, la mosquée réunit en un même lieu la prière et la vie publique de la communauté. Deuxièmement, l'asile de la Suffa pose les bases de la solidarité institutionnelle et de la diffusion du savoir. Troisièmement, la voix de Bilal consacre la fraternité spirituelle où la piété et le mérite moral l'emportent sur l'origine ethnique.`
   },
   {
     contentId: "CHR-15",

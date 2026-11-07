@@ -38,10 +38,10 @@ L'expédition est jalonnée de signes providentiels qui ont marqué la mémoire 
 Plus loin sur la côte, les voyageurs assoiffés s'arrêtent près de la tente nomade d'Umm Ma'bad. Constatant que la sécheresse a tari tous ses animaux, le Prophète passe la main sur le pis flétri d'une vieille brebis épuisée : le lait afflue avec une telle abondance que tous s'abreuvent et qu'un récipient comble est laissé à l'hôtesse. Le voyage se poursuit sans relâche sous les chaleurs étouffantes du jour et la fraîcheur des nuits désertiques, contournant les relais connus pour atteindre sans encombre les abords méridionaux de Yathrib.
 
 Troisième partie : Variantes, silences et limites.
-Les récits canoniques concordent sur l'itinéraire de contournement et les étapes clés de Suraqa et d'Umm Ma'bad. L'application observe un aniconisme strict : aucune figuration des miracles ni silhouette des voyageurs, le récit s'appuyant sur l'austérité géographique de la Tihama et la force morale de l'épreuve.
+Sur le plan des sources, la poursuite de Suraqa ibn Malik, l'enfoncement des sabots de son cheval et la remise d'un écrit de sûreté (kitab aman) sont authentifiés dans le Sahih al-Bukhari (3906), tandis que la promesse des bracelets de Khosro lors de cette rencontre est rapportée par des voies mursal chez Ibn Ishaq et al-Bayhaqi, et que le récit de la tente d'Umm Ma'bad est transmis par al-Hakim (al-Mustadrak, 4274) et al-Tabarani avec une chaîne bédouine discutée par al-Dhahabi. L'application observe un aniconisme strict : aucune figuration des miracles ni silhouette des voyageurs.
 
 Quatrième partie : Synthèse pédagogique.
-Trois leçons majeures illuminent ce départ. Premièrement, le salut dans l'épreuve repose sur l'alliance inséparable de la foi spirituelle et de l'intelligence tactique. Deuxièmement, la promesse faite à Suraqa exprime la certitude inébranlable du triomphe final de la justice sur la tyrannie. Troisièmement, la générosité sous la tente d'Umm Ma'bad consacre l'hospitalité du désert comme une vertu universelle.`
+Trois leçons majeures illuminent ce départ. Premièrement, le salut dans l'épreuve repose sur l'alliance inséparable de la foi spirituelle et de l'intelligence tactique. Deuxièmement, l'octroi de l'écrit de sûreté à Suraqa illustre la clémence et la maîtrise politique du Prophète au cœur du péril. Troisièmement, la halte chez Umm Ma'bad consacre l'hospitalité du désert dans la mémoire de l'Hégire.`
   },
   {
     contentId: "CHR-13",
@@ -59,7 +59,7 @@ Trois leçons majeures illuminent ce départ. Premièrement, le salut dans l'ép
 ثم نزل الركب بخيمة أم معبد الخزاعية وقد أجهدها القحط، فمسح النبي بيده الشريفة على ضرع شاة هزيلة لم يبقَ فيها لبن، فدرت بلبن غزير ملأ الإناء وشرب القوم جميعاً حتى رووا، وترك عندها فضلاً وفيراً. ومضى الموكب يقطع الفيافي ليلاً ونهاراً حتى لاحت بشائر واحة يثرب المباركة.
 
 القسم الثالث : الاختلافات والحدود.
-تتفق أمهات كتب الحديث والسير على تفاصيل لقاء سراقة وخيمة أم معبد كشواهد يقين تاريخية. ويتحرى الأطلس أعلى درجات التحفظ المنهجي؛ فلا تجسيد حسياً ولا محاكاة للأشخاص أو الخوارق، بل تركيز واعٍ على جغرافية المسار ومعاني التضحية واليقين.
+يميز المحدثون بين حديث سراقة وكتاب الأمان الثابت في صحيح البخاري (3906)، وبين زيادة البشارة بسواري كسرى حال المطاردة المروية مرسلاً عند ابن إسحاق والبيهقي، وحديث أم معبد المروي عند الحاكم (4274) والطبراني بإسناد أعرابي ناقش الذهبي بعض رواته. ويتحرى الأطلس أعلى درجات التحفظ المنهجي؛ فلا تجسيد حسياً ولا محاكاة للأشخاص.
 
 القسم الرابع : خلاصة تربوية.
 نستخلص من انطلاق الهجرة ثلاث عبر جليلة: أولاها أن عناية الله تحف المخلصين وتذلل أمامهم المهالك. وثانيتها أن البشارة العظيمة لسراقة تعكس ثقة القائد في مستقبل دعوته في أحلك ساعات المطاردة. وثالثتها أن رحلة الهجرة دشت انبعاث أمة تلتقي فيها العزيمة الصادقة مع الأسباب الواقعية.`
@@ -73,14 +73,14 @@ Trois leçons majeures illuminent ce départ. Premièrement, le salut dans l'ép
     text: `Arrivée à Qubâ' et Médine.
 
 Première partie : Repère et périmètre.
-Le 12 Rabi' al-Awwal de l'an 622, après une traversée épuisante, la caravane de l'Hégire parvient aux portes méridionales de Yathrib. Les fidèles de la cité, qui se rendaient chaque matin sur les collines volcaniques pour guetter l'arrivée du Messager, l'accueillent dans une ferveur solennelle. Cet événement refonde l'ordre social et spatial de l'oasis, marquant le commencement officiel du calendrier hégirien et la métamorphose de Yathrib en al-Madina al-Munawwara.
+Au mois de Rabi' al-Awwal de l'an 622 (le 8 ou le 12 selon les chroniqueurs), après une traversée épuisante, la caravane de l'Hégire parvient aux portes méridionales de Yathrib. Les fidèles de la cité, qui se rendaient chaque matin sur les collines volcaniques pour guetter l'arrivée du Messager, l'accueillent dans une ferveur solennelle. Cet événement refonde l'ordre social et spatial de l'oasis, marquant le commencement officiel du calendrier hégirien et la métamorphose de Yathrib en al-Madina al-Munawwara.
 
 Deuxième partie : Éléments sourcés.
 Le Prophète s'établit d'abord pendant quelques jours dans le bourg agricole de Quba, chez Kulthum ibn al-Hadm. Il y supervise l'édification de Masjid Quba, le premier lieu de culte de l'Islam, fondé sur la piété collective. C'est à Quba qu'il est rejoint par Ali ibn Abi Talib, qui avait marché seul depuis La Mecque après avoir restitué sans exception tous les dépôts confiés à Muhammad par ses concitoyens.
-Le vendredi, monté sur sa chamelle al-Qaswa, le Prophète fait son entrée dans Yathrib au milieu d'une foule en liesse et des chants des jeunes filles d'al-Najjar saluant le lever de la pleine lune. Devant chaque demeure, les chefs de clan rivalisent pour tenir la bride de l'animal et offrir leur hospitalité. Avec une équité proverbiale qui prévient toute jalousie tribale, Muhammad annonce que la monture est guidée par l'ordre divin. Al-Qaswa s'agenouille sur un terrain appartenant à deux orphelins, face à la maison d'Abu Ayyub al-Ansari, fixant l'emplacement de la future Mosquée du Prophète.
+Le vendredi, monté sur sa chamelle al-Qaswa, le Prophète fait son entrée dans Yathrib au milieu d'une foule en liesse et des chants des jeunes filles des Banu al-Najjar saluant leur voisin (Ibn Majah, 1899). Devant chaque demeure, les chefs de clan rivalisent pour tenir la bride de l'animal et offrir leur hospitalité. Avec une équité proverbiale qui prévient toute jalousie tribale, Muhammad annonce que la monture est guidée par l'ordre divin. Al-Qaswa s'agenouille sur un terrain appartenant à deux orphelins, face à la maison d'Abu Ayyub al-Ansari, fixant l'emplacement de la future Mosquée du Prophète (Sahih al-Bukhari, 3906).
 
 Troisième partie : Variantes, silences et limites.
-Les récits s'accordent sur l'enthousiasme populaire et le séjour inaugural à Quba. L'application proscrit tout portrait du Prophète et d'al-Qaswa, l'accent étant placé sur la topographie des palmeraies de Médine et la portée institutionnelle de l'accueil fraternel.
+Les sources mentionnent plusieurs durées pour la halte à Quba (de quatre à quatorze jours) ainsi que les dates du 8 ou du 12 Rabi' al-Awwal. Quant au chant célèbre Tala'a al-Badru 'alayna, les critiques du hadith comme Ibn al-Qayyim (Zad al-Ma'ad) et Ibn Hajar (Fath al-Bari) soulignent que sa chaîne chez al-Bayhaqi est interrompue (mu'dal) et discutent son rattachement à l'arrivée de l'Hégire ou au retour de Tabuk. L'application proscrit tout portrait du Prophète et d'al-Qaswa.
 
 Quatrième partie : Synthèse pédagogique.
 Trois piliers caractérisent cette installation. Premièrement, la construction prioritaire du sanctuaire de Quba affirme que la prière commune et la fraternité spirituelle constituent le ciment de la société. Deuxièmement, la restitution exemplaire des dépôts par Ali illustre une intégrité morale absolue même envers les adversaires. Troisièmement, le choix impartial du lieu d'installation consacre la justice distributive et l'abolition des privilèges de castes.`
@@ -94,14 +94,14 @@ Trois piliers caractérisent cette installation. Premièrement, la construction 
     text: `الوصول إلى قباء والمدينة.
 
 القسم الأول : تحديد الموضوع ونطاقه.
-في الثاني عشر من شهر ربيع الأول لعام 622 للميلاد، تكللت رحلة الهجرة ببلوغ مشارف يثرب؛ حيث استقبل الأنصار النبي صلى الله عليه وسلم ببهجة عارمة بعد أيام من الترقب في حرائق الحرة. ودشن هذا الوصول التاريخي فجر الدولة الإسلامية، وتحولت به يثرب إلى المدينة المنورة، عاصمة العدالة والحرية.
+في شهر ربيع الأول لعام 622 للميلاد (في الثامن أو الثاني عشر منه)، تكللت رحلة الهجرة ببلوغ مشارف يثرب؛ حيث استقبل الأنصار النبي صلى الله عليه وسلم ببهجة عارمة بعد أيام من الترقب في الحرة. ودشن هذا الوصول التاريخي فجر الدولة الإسلامية، وتحولت به يثرب إلى المدينة المنورة، عاصمة العدالة والحرية.
 
 القسم الثاني : العناصر المسندة إلى المصادر.
 نزل النبي أولاً في قباء ضيفاً على كلثوم بن الهدم، فأسس مسجد قباء المبارك أول مسجد أُسس على التقوى في الإسلام. وفي قباء لحق به علي بن أبي طالب رضي الله عنه بعد أن أدى الأمانات كاملة إلى أهل مكة.
-ثم امتطى ناقته القصواء متوجهاً إلى قلب المدينة، وتسابقت بطون الأنصار في الإمساك بخطامها، كل يعرض المنعة والدار، والنبي يقول لهم بحكمة جامعة: دعوها فإنها مأمورة. حتى بركت في مربد ليتيمين من بني النجار أمام بيت أبي أيوب الأنصاري، فكانت داره منزله الشريف ريثما بُني المسجد النبوي وحجراته، وسط أهازيج طلع البدر علينا التي رددتها جنبات الواحة.
+ثم امتطى ناقته القصواء متوجهاً إلى قلب المدينة، فأنشدت جوارٍ من بني النجار فرحاً بقدومه كما عند ابن ماجه (1899)، وتسابقت بطون الأنصار في الإمساك بخطامها، كل يعرض المنعة والدار، والنبي يقول لهم بحكمة جامعة: دعوها فإنها مأمورة. حتى بركت في مربد ليتيمين من بني النجار أمام بيت أبي أيوب الأنصاري (صحيح البخاري، 3906)، فكانت داره منزله الشريف ريثما بُني المسجد النبوي وحجراته.
 
 القسم الثالث : الاختلافات والحدود.
-توثق الروايات الصحيحة مدة الإقامة في قباء واستقبال أهل يثرب بروح واحدة من التضامن، مع تدقيق في أسماء من نزل عندهم الصحابة. ويتحرى الأطلس الالتزام بالضوابط التراثية المانعة لأي تمثيل للأشخاص، مبرزاً المعنى الحضاري للتآخي والاجتماع.
+تعددت الروايات في تحديد يوم الوصول من ربيع الأول (الثامن أو الثاني عشر) ومدة الإقامة في قباء (بين أربعة أيام وأربعة عشر يوماً). كما نبه ابن القيم في زاد المعاد وابن حجر في فتح الباري إلى أن نشيد طلع البدر علينا أورده البيهقي بإسناد معضل، وناقشا نسبته إلى مقدم الهجرة أو غزوة تبوك. ويتحرى الأطلس الالتزام بالضوابط التراثية المانعة لأي تمثيل للأشخاص.
 
 القسم الرابع : خلاصة تربوية.
 نستخلص من وصول الهجرة ثلاث ركائز كبرى: أولاها أن بناء المسجد في قباء والمدينة جعل من العبادة المشتركة منطلقاً لوحدة المجتمع. وثانيتها أن أداء الأمانات لأهل مكة يبرز سمو الأخلاق الإسلامية فوق كل خلاف دنيوي. وثالثتها أن حكمة النزول على بروك الناقة أنهت النزاعات القبلية ورسخت مبدأ العدل والمساواة بين أهل الدار.`

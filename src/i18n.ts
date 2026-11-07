@@ -137,6 +137,11 @@ export const messages = {
     map: "Parcours de l’Hégire",
     progress: "Progression du tracé",
     sourceLink: "Consulter les sources",
+    referentielTitle: "Référentiel religieux, jurisprudentiel et méthodologique",
+    referentielText:
+      "L’application s’inscrit dans l’islam sunnite, en se référant en matière de croyance au Coran et à la Sunna authentique selon la compréhension des pieux prédécesseurs (Salaf as-Sâlih). En matière historique, elle distingue systématiquement les faits établis dans les recueils canoniques, les récits biographiques discutés et les localisations approximatives.",
+    referentielFiqh:
+      "Pour les questions de jurisprudence (fiqh) rencontrées dans les dossiers thématiques, l’école malékite (al-Muwatta’, al-Risâla, Mukhtasar Khalîl) constitue le référentiel de départ. Lorsqu’un avis extérieur est mentionné comme prépondérant (al-qawl ar-râjih — القول الراجح), il est attribué explicitement aux savants qualifiés qui le retiennent avec leurs preuves, sous réserve de validation finale par un spécialiste.",
   },
   ar: {
     home: "الرئيسية",
@@ -267,6 +272,11 @@ export const messages = {
     map: "مسار الهجرة",
     progress: "تقدّم المسار",
     sourceLink: "راجع المصادر",
+    referentielTitle: "الإطار العقدي والفقهي والمنهجي",
+    referentielText:
+      "يندرج هذا التطبيق في إطار أهل السنة والجماعة، بالرجوع في العقيدة إلى القرآن الكريم والسنة النبوية الصحيحة على فهم السلف الصالح. وفي العرض التاريخي، يميز منهجياً بين الوقائع الثابتة في الصحاح، والروايات السيرية المختلف فيها، والمواضع الجغرافية التقريبية.",
+    referentielFiqh:
+      "في المسائل الفقهية الواردة في ملفات الحياة اليومية، يُعتمد المذهب المالكي (الموطأ، الرسالة، مختصر خليل) مرجعاً أساسياً، مع التمييز بين المشهور وغيره. وعند الإشارة إلى قول راجح خارج المذهب، يُعزى صراحة إلى العلماء المعتبرين القائلين به مع بيان أدلتهم، مع إبقاء الترجيح النهائي خاضعاً لاعتماد مختص.",
   },
 } as const;
 export type MessageKey = keyof typeof messages.fr;

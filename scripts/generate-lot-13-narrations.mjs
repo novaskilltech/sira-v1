@@ -118,14 +118,14 @@ Première partie : Repère et périmètre.
 À Médine, l'établissement de la communauté s'est doublé d'une régulation économique novatrice avec la création du Marché du Prophète, Suq al-Madina, libéré des monopoles usuraires et des lourdes taxes coutumières.
 
 Deuxième partie : Éléments sourcés.
-Le Prophète décréta la gratuité des emplacements et l'interdiction de toute taxe de place, instituant un espace public équitable où chaque marchand s'installe librement pour la journée.
-Les transactions y étaient encadrées par la prohibition de l'usure, de la spéculation et de la tromperie sur la marchandise. L'équité reposait sur la balance OBJ-014 et les poids de mesure OBJ-015, dont la justesse était surveillée par les inspecteurs de la Hisba, fonction exercée notamment par des femmes savantes comme al-Shifa bint Abd Allah.
+Le Prophète décréta la gratuité des emplacements et l'interdiction de toute taxe de place (rapporté par Ibn Majah), instituant un espace public équitable où chaque marchand s'installe librement pour la journée.
+Les transactions y étaient encadrées par la prohibition de l'usure (riba), de l'aléa (gharar), de l'interception des caravanes avant leur arrivée au marché (talaqqi al-rukban) et de l'accaparement spéculatif (ihtikar, interdit dans la jurisprudence malékite de référence — al-Muwatta' de l'imam Malik, al-Risala — sur les denrées alimentaires et tout bien dont la rétention nuit au marché). L'équité reposait sur la balance OBJ-014 et les poids de mesure OBJ-015, tandis que le Prophète inspectait lui-même la loyauté des ventes (Sahih Muslim, 102).
 
 Troisième partie : Variantes, silences et limites.
-L'archéologie commerciale d'Arabie documente la continuité des poids étalonnés en pierre et en métal. L'application présente ces objets sous un éclairage muséal rigoureux sans personnification.
+Si le contrôle direct des fraudes par le Prophète est établi dans le Sahih Muslim et que son passage auprès de Samra bint Nuhayk au marché est rapporté par al-Tabarani, la délégation d'une mission de surveillance du marché de Médine à al-Shifa bint Abd Allah est mentionnée par les biographes (Ibn Abd al-Barr dans al-Isti'ab, Ibn Hajar dans al-Isaba) sous le califat d'Umar ibn al-Khattab, l'appellation institutionnelle de Hisba s'étant formalisée ultérieurement. L'application présente ces objets sous un éclairage muséal rigoureux sans personnification.
 
 Quatrième partie : Synthèse pédagogique.
-Trois règles gouvernent ce modèle économique. Premièrement, l'abolition des rentes de place stimule le commerce équitable. Deuxièmement, la balance OBJ-014 matérialise l'honnêteté contractuelle. Troisièmement, la régulation vigilante protège le consommateur contre les abus de marché.`
+Trois règles gouvernent ce modèle économique. Premièrement, l'abolition des rentes de place stimule le commerce équitable. Deuxièmement, la balance OBJ-014 matérialise l'honnêteté contractuelle. Troisièmement, la régulation vigilante protège la communauté contre l'accaparement et la tromperie.`
   },
   {
     contentId: "VIE-16",
@@ -139,14 +139,14 @@ Trois règles gouvernent ce modèle économique. Premièrement, l'abolition des 
 أسس النبي صلى الله عليه وسلم في المدينة سوقاً حرة مستقلة كسرت احتكار أسواق الجاهلية القائمة على الربا والمكوس، مؤسساً لنموذج اقتصادي متوازن.
 
 القسم الثاني : العناصر المسندة إلى المصادر.
-جعل النبي السوق مشاعاً دون رسوم، وحرم الاحتكار والغش. وضُبطت المعاملات بالميزان OBJ-014 وأوزان القياس OBJ-015 لضمان العدالة، ووُكلت الحسبة ومراقبة الأسعار إلى أمناء أكفاء كالشفا بنت عبد الله.
+جعل النبي السوق مشاعاً دون رسوم، وحرم الربا والغش وتلقي الركبان والاحتكار المنهي عنه في الفقه المالكي المعتمد (الموطأ للإمام مالك، والرسالة) في الأقوات وكل ما يضر بالسوق. وضُبطت المعاملات بالميزان OBJ-014 وأوزان القياس OBJ-015 لضمان العدالة، وكان النبي يتفقد السوق بنفسه كما ثبت في صحيح مسلم (102): من غش فليس مني.
 فأصبح السوق قبلة تجارية نشطة تجمع بين الربح المشروع والتكافل الاجتماعي.
 
 القسم الثالث : الاختلافات والحدود.
-تؤكد الشواهد استقرار أنظمة الكيل والميزان في أسواق الحجاز. ويلتزم التطبيق بالعرض الوثائقي المجرد للأدوات بعيداً عن التشخيص.
+ميزت المصادر بين تفقد النبي للسوق بنفسه ومروره بسمراء بنت نهيك عند الطبراني، وبين ما أورده ابن عبد البر وابن حجر من تقديم عمر بن الخطاب رضي الله عنه للشفاء بنت عبد الله في أمر السوق، قبل تبلور مصطلح الحسبة في العصور اللاحقة. ويلتزم التطبيق بالعرض الوثائقي المجرد للأدوات بعيداً عن التشخيص.
 
 القسم الرابع : خلاصة تربوية.
-نستخلص من سوق المدينة ثلاث فوائد: أولاها تشجيع حرية التجارة ورفع الرسوم الجائرة. وثانيتها ضبط المعاملات بأدوات الميزان الصادقة. وثالثتها محاربة الاحتكار لصالح استقرار معيشة الناس.`
+نستخلص من سوق المدينة ثلاث فوائد: أولاها تشجيع حرية التجارة ورفع الرسوم الجائرة. وثانيتها ضبط المعاملات بأدوات الميزان الصادقة. وثالثتها محاربة الاحتكار والغش لصالح استقرار معيشة الناس.`
   },
   {
     contentId: "VIE-17",
@@ -160,14 +160,14 @@ Première partie : Repère et périmètre.
 Dans les cités d'Arabie, la normalisation des poids et des mesures constituait le fondement de la justice contractuelle et du prélèvement équitable de l'aumône légale de la Zakat.
 
 Deuxième partie : Éléments sourcés.
-Le Prophète établit une règle unifiée : le volume de capacité est celui des gens de Médine, spécialistes de l'agriculture oasienne avec le Mudd et le Sa', tandis que le poids de masse est celui des gens de La Mecque, grands marchands familiers de l'Uqiya, du Dirham et du Dinar.
-La balance à deux plateaux OBJ-014 et les poids en pierre ou bronze OBJ-015 servaient à peser avec minutie les denrées précieuses, tandis que les récipients en bois étalonnés mesuraient les récoltes céréalières, élevant l'exactitude de la mesure au rang de prescription sacrée.
+Le Prophète établit une règle unifiée (Abu Dawud 3340, al-Nasa'i 4595) : le volume de capacité est celui des gens de Médine, spécialistes de l'agriculture oasienne avec le Mudd et le Sa' (quatre amdad), tandis que le poids de masse est celui des gens de La Mecque, grands marchands familiers de l'Uqiya, du Dirham et du Dinar.
+La balance à deux plateaux OBJ-014 et les poids en pierre ou bronze OBJ-015 servaient à peser avec minutie les denrées précieuses, tandis que les récipients étalonnés mesuraient les récoltes céréalières. Dans l'école malékite de référence (al-Muwatta' de l'imam Malik), la pratique transmise des gens de Médine ('amal ahl al-Madina) fixe de manière normative la valeur du mudd et du sa' prophétiques pour la zakat al-fitr, les expiations (kaffarat) et le seuil imposable (nisab) de cinq awsaq (soixante sa').
 
 Troisième partie : Variantes, silences et limites.
-Les études métrologiques confirment la permanence des étalons mecquois et médinois dans toute la législation classique. L'atlas traite ces témoins dans leur rigueur scientifique pure.
+Les traités de jurisprudence comparent l'étalon médinois retenu par l'école malékite (évalué à cinq artal et un tiers pour le sa') et les écoles chaféite et hanbalite avec l'évaluation irakienne retenue par l'école hanafite (huit artal). L'atlas traite ces témoins matériels dans leur rigueur scientifique et patrimoniale pure.
 
 Quatrième partie : Synthèse pédagogique.
-Trois principes résument cette métrologie. Premièrement, l'unification des étalons élimine les litiges commerciaux. Deuxièmement, la balance OBJ-014 incarne la rectitude morale de la foi. Troisièmement, la justice dans la pesée constitue le pilier de la prospérité durable des sociétés.`
+Trois principes résument cette métrologie. Premièrement, l'unification des étalons élimine les litiges commerciaux. Deuxièmement, la balance OBJ-014 incarne la rectitude morale de la foi. Troisièmement, la fidélité aux mesures de Médine et aux poids de La Mecque assure l'équité de la Zakat et des contrats.`
   },
   {
     contentId: "VIE-17",
@@ -181,11 +181,11 @@ Trois principes résument cette métrologie. Premièrement, l'unification des é
 مثل توحيد المكاييل والموازين في عهد النبوة أساساً للعدل في المعاملات وتقدير الزكوات والكفارات وفق ميزان القسط القرآني.
 
 القسم الثاني : العناصر المسندة إلى المصادر.
-وحد النبي المعايير باعتماد مكيال أهل المدينة (الصاع والمد) لحبوب الواحات، ووزن أهل مكة (الأوقية والدرهم والدينار) لفضة التجارة وذهبها.
-واستُخدم الميزان OBJ-014 وأوزان القياس OBJ-015 لضبط المعاملات ونفي التطفيف، مما بنى ثقة تجارية شاملة.
+وحد النبي المعايير بقوله: المكيال مكيال أهل المدينة، والوزن وزن أهل مكة (أبو داود والنسائي)؛ فاعتمد الصاع والمد لحبوب الواحات وتمورها، والأوقية والدرهم والدينار لفضة التجارة وذهبها.
+واستُخدم الميزان OBJ-014 وأوزان القياس OBJ-015 لضبط المعاملات ونفي التطفيف. وفي المذهب المالكي المعتمد (الموطأ للإمام مالك)، يُحتج بعمل أهل المدينة المتوارث في ضبط مقدار المد والصاع النبوي (أربعة أمداد) لإخراج زكاة الفطر والكفارات ونصاب الزروع والثمار المقدر بخمسة أوسق (ستين صاعاً).
 
 القسم الثالث : الاختلافات والحدود.
-تثبت الدراسات دقة هذه المقادير النبوية واستمرار العمل بها عبر القرون. ويعتمد التطبيق العرض المتحفي الرصين للأوزان والموازين دون تمثيل للأفراد.
+تذكر كتب الفقه خلاف أهل العراق من الحنفية في تقدير الصاع بالرطل في مقابل معيار أهل المدينة المعتمد عند المالكية وجمهور الفقهاء. ويعتمد التطبيق العرض المتحفي الرصين للأوزان والموازين دون تمثيل للأفراد.
 
 القسم الرابع : خلاصة تربوية.
 نستخلص من الموازين ثلاث عبر: أولاها أن العدالة في الكيل والوزن فريضة شرعية ومطلب حضاري. وثانيتها تكامل الخبرة المدنية والمكية في المعايير. وثالثتها أن الصدق في الميزان أساس البركة في الأرزاق.`

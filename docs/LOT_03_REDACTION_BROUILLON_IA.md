@@ -32,7 +32,7 @@ Pour assurer la sécurité du périple, les fugitifs font appel à un éclaireur
 
 #### 3. Variantes, silences et limites
 
-Les historiens classiques comme Ibn Hishām et aṭ-Ṭabarī énumèrent une suite précise de toponymes traversés : ʿUsfān, Qudayd, Thaniyyat al-Marra, Liqf, Marr aẓ-Ẓahrān, jusqu'aux abords de Wādī al-ʿAqīq [C6]. Néanmoins, aucune carte moderne ne peut prétendre reconstituer le tracé exact de cette piste au mètre près. Les lits d'oueds (*wudyān*) ont été profondément altérés par quatorze siècles d'érosion, et le désert de basalte (*al-Ḥarra*) offre de multiples passes saisonnières [C7]. En conséquence, l'application présente un corridor géographique large et indicatif, sans fausse précision kilométrique ni trace satellitaire anachronique [C8].
+Les historiens classiques comme Ibn Hishām et aṭ-Ṭabarī énumèrent une suite précise de toponymes traversés : ʿUsfān, Qudayd, Thaniyyat al-Marra, Liqf, Marr aẓ-Ẓahrān, jusqu'aux abords de Wādī al-ʿAqīq [C6]. Sur le plan des sources du hadith, la poursuite de Surāqa ibn Mālik, l'enfoncement des sabots de sa monture et la remise d'un écrit de sûreté (*kitāb amān*) sont établis dans le *Ṣaḥīḥ al-Bukhārī* (3906), tandis que le récit détaillé de la tente d'Umm Maʿbad et de la brebis bénie est rapporté par al-Ḥākim (*al-Mustadrak*, 4274) et aṭ-Ṭabarānī par une chaîne bédouine dont le degré de continuité est discuté par adh-Dhahabī. Par ailleurs, aucune carte moderne ne peut prétendre reconstituer le tracé exact de cette piste au mètre près : les lits d'oueds (*wudyān*) ont été profondément altérés par quatorze siècles d'érosion, et le désert de basalte (*al-Ḥarra*) offre de multiples passes saisonnières [C7]. En conséquence, l'application présente un corridor géographique large et indicatif, sans fausse précision kilométrique ni trace satellitaire anachronique [C8].
 
 #### 4. Synthèse pédagogique
 
@@ -52,7 +52,7 @@ Retenons trois enseignements majeurs. Premièrement, le succès du trajet repose
 
 #### ٣. الاختلافات والحدود
 
-تسرد كتب السيرة، كابن هشام والطبري، سلسلة متتابعة من أسماء المواضع والآبار كعسفان وقديد وثنية المرة ووادي العقيق [C6]. غير أن رسم مسار دقيق بالمقاييس المساحية المعاصرة يظل متعذرًا علميًا؛ إذ تبدلت مجاري الأودية ومسالك الحِرار عبر أربعة عشر قرنًا [C7]. وتبعًا لذلك، يكتفي التطبيق بعرض نطاق جغرافي عام وممر تقريبي للمسار، دون ادعاء رسم إحداثيات محكمة لا تسندها الآثار [C8].
+تسرد كتب السيرة، كابن هشام والطبري، سلسلة متتابعة من أسماء المواضع والآبار كعسفان وقديد وثنية المرة ووادي العقيق [C6]؛ مع التمييز الحديثي بين خبر لحاق سراقة بن مالك وكتابة كتاب الأمان له الثابت في «صحيح البخاري» (٣٩٠٦)، وبين قصة شاة أم معبد المروية عند الحاكم في «المستدرك» (٤٢٧٤) والطبراني بإسناد أعرابي ناقش الذهبي وغيره حال رجاله. ومن جهة التعيين الجغرافي، فإن رسم مسار دقيق بالمقاييس المساحية المعاصرة يظل متعذرًا علميًا؛ إذ تبدلت مجاري الأودية ومسالك الحِرار عبر أربعة عشر قرنًا [C7]. وتبعًا لذلك، يكتفي التطبيق بعرض نطاق جغرافي عام وممر تقريبي للمسار، دون ادعاء رسم إحداثيات محكمة لا تسندها الآثار [C8].
 
 #### ٤. خلاصة تربوية
 

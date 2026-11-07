@@ -37,10 +37,10 @@ Deuxième partie : Éléments sourcés.
 Accompagné de son affranchi Zayd ibn Haritha, le Prophète se heurte à l'arrogance méprisante des trois chefs régnant sur al-Ta'if. Non contents de rejeter son message, les notables excitent contre lui les esclaves et la jeunesse désœuvrée. Formant une double haie le long de la route, la foule le lapide sans pitié jusqu'à ensanglanter ses chevilles, tandis que Zayd tente héroïquement de faire écran de son corps. Réfugié dans un verger appartenant aux fils de Rabia, le Prophète prononce sous une treille de vigne une prière d'une intensité spirituelle universelle : Seigneur, c'est à Toi que je me plains de ma faiblesse... Si Tu n'es pas en colère contre moi, peu m'importe ce que j'endure ! Émus, les propriétaires lui font porter du raisin par leur serviteur chrétien Addas, qui s'incline avec vénération en entendant le nom divin. Pour réintégrer La Mecque, le Prophète doit solliciter la protection coutumière de Mut'im ibn Adi, un polythéiste intègre.
 
 Troisième partie : Variantes, silences et limites.
-L'historiographie confirme que l'épisode d'al-Ta'if marqua le point culminant de l'adversité territoriale. L'application respecte rigoureusement l'aniconisme : aucune scène figurative de lapidation ni silhouette humaine, l'évocation se concentrant sur la rudesse des reliefs du Hedjaz et l'élévation éthique de la prière.
+Si la sortie vers al-Ta'if et le refuge dans le verger des fils de Rabia sont établis dans le Sahih al-Bukhari (3231) et le Sahih Muslim (1795, hadith d'A'isha), le texte de l'invocation de Ta'if ainsi que le dialogue avec Addas proviennent des récits biographiques d'Ibn Ishaq et d'al-Tabarani avec une chaîne dont la faiblesse formelle est signalée par les spécialistes du hadith, de même que l'appellation d'Année de la tristesse est une désignation historiographique postérieure. L'application respecte rigoureusement l'aniconisme : aucune scène figurative ni silhouette humaine.
 
 Quatrième partie : Synthèse pédagogique.
-Trois enseignements majeurs se dégagent de cet épisode. Premièrement, l'épreuve d'al-Ta'if illustre le renoncement total à l'orgueil et l'endurance absolue face à la violence aveugle. Deuxièmement, la compassion d'Addas témoigne de la fraternité immédiate unissant les cœurs réceptifs au monothéisme. Troisièmement, le refus d'al-Ta'if prépare l'esprit prophétique à tourner ses regards vers Yathrib, où s'ouvrira l'horizon de l'Hégire.`
+Trois enseignements majeurs se dégagent de cet épisode. Premièrement, l'épreuve d'al-Ta'if illustre le renoncement total à l'orgueil et l'endurance absolue face à la violence aveugle. Deuxièmement, la bienveillance manifestée envers Addas témoigne de l'ouverture spirituelle aux cœurs sincères. Troisièmement, le refus d'al-Ta'if prépare l'esprit prophétique à tourner ses regards vers Yathrib, où s'ouvrira l'horizon de l'Hégire.`
   },
   {
     contentId: "CHR-11",
@@ -51,13 +51,13 @@ Trois enseignements majeurs se dégagent de cet épisode. Premièrement, l'épre
     text: `عام الحزن ورحلة الطائف.
 
 القسم الأول : تحديد الموضوع ونطاقه.
-عُرف عام 619 للميلاد في السيرة النبوية بعام الحزن؛ حيث تتابعت المحن على النبي صلى الله عليه وسلم بوفاة خديجة رضي الله عنها سند بيته، وأبي طالب كافل صباه ودرع عشيرته. وبانتقال الزعامة إلى أبي لهب رُفعت الحماية عن النبي، فضاقت عليه مكة برحابها، فخرج ماشياً على قدميه إلى الطائف يبتغي النصرة من سادة ثقيف لتبليغ كلمة التوحيد.
+اشتهر عام 619 للميلاد في كتب السيرة المتأخرة بعام الحزن؛ حيث تتابعت المحن على النبي صلى الله عليه وسلم بوفاة خديجة رضي الله عنها سند بيته، وأبي طالب كافل صباه ودرع عشيرته. وبانتقال الزعامة إلى أبي لهب رُفعت الحماية عن النبي، فضاقت عليه مكة برحابها، فخرج إلى الطائف يبتغي النصرة من سادة ثقيف لتبليغ كلمة التوحيد.
 
 القسم الثاني : العناصر المسندة إلى المصادر.
-قوبلت الدعوة في الطائف بالصد والتهكم من زعمائها، ثم أغروا سفهاءهم فاصطفوا على جانبي الطريق يرجمونه بالحجارة حتى سالت الدماء من قدميه الشريفتين، وزيد بن حارثة يدرأ عنه الرجام برأسه وجسده. وألجأتهما الجراح إلى بستان لابني ربيعة، فجلس تحت ظل عريش كرم يناجي ربه مناجاة الخضوع والرضا: اللهم إليك أشكو ضعف قوتي، وقلة حيلتي، وهواني على الناس... إن لم يكن بك علي غضب فلا أبالي. فرق له أصحاب البستان وبعثوا إليه بعنب مع غلامهما النصراني عداس، فلما سمعه يذكر الله ارتمى يقبل يديه ورأسه اعترافاً ببركته ونبوته. ثم عاد النبي إلى مكة ليدخلها في جوار المطعم بن عدي.
+ثبت أصل خروج النبي إلى الطائف ولجوئه إلى حائط عتبة وشيبة ابني ربيعة في الصحيحين من حديث عائشة رضي الله عنها (البخاري 3231، ومسلم 1795). وتورد كتب السير كابن إسحاق والطبراني استغراق سفهاء ثقيف في أذاه ووقوف زيد بن حارثة يقيه بنفسه، ومناجاته المشهورة تحت ظل الكرم: اللهم إليك أشكو ضعف قوتي، وقلة حيلتي، وهواني على الناس... إن لم يكن بك علي غضب فلا أبالي، وقصة إرسال ابني ربيعة عنباً مع غلامهما النصراني عداس، ثم عودته إلى مكة في جوار المطعم بن عدي.
 
 القسم الثالث : الاختلافات والحدود.
-تتفق الروايات التاريخية على تفاصيل المناجاة وتأثيرها الروحي، مع تفاوت طفيف في ذكر الحوار مع عداس. ويحرص الأطلس على صون قداسة النص التاريخي بتجريده من أي تشخيص فني أو تصوير حسي للأذى، مركزاً على شموخ المبدأ في أحلك الظروف.
+يميز المحدثون بين أصل رحلة الطائف الثابت في الصحيحين، وبين دعاء الطائف وقصة عداس المرويين عند ابن إسحاق والطبراني بإسناد فيه ضعف لإرساله أو عنعنة ابن إسحاق وإن اشتهرا في كتب السير، كما أن تسمية عام الحزن اصطلاح تاريخي لاحق. ويحرص الأطلس على صون قداسة النص التاريخي بتجريده من أي تشخيص فني أو تصوير حسي للأذى.
 
 القسم الرابع : خلاصة تربوية.
 نستخلص من رحلة الطائف ثلاث عبر خالدة: أولاها أن طريق الإصلاح والعدالة محفوف بالتضحية والصبر الجميل. وثانيتها أن الرضا بالله والاستغناء بلطفه هو الحصن المنيع في مواجهة الشدائد. وثالثتها أن انغلاق الأبواب في وجوه المصلحين هو إيذان بفتح آفاق أعظم، كما حدث بانفتاح قلوب أهل يثرب للرسالة.`

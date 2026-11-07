@@ -25,6 +25,11 @@ export default function Information({ legal = false }: { legal?: boolean }) {
             <p>{t("sourceText")}</p>
           </section>
           <section>
+            <h2>{t("referentielTitle")}</h2>
+            <p>{t("referentielText")}</p>
+            <p>{t("referentielFiqh")}</p>
+          </section>
+          <section>
             <h2>{t("preferences")}</h2>
             <p>{t("privacyText")}</p>
           </section>

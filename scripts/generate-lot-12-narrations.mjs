@@ -118,14 +118,14 @@ Première partie : Repère et périmètre.
 Dans l'économie pastorale et caravanière du Hedjaz, le cuir constituait la ressource technique indispensable par excellence. Des outres de transport aux harnais de bât, en passant par les sandales et les carquois, le travail des peaux de bêtes fournissait un matériau souple, résistant et imperméable.
 
 Deuxième partie : Éléments sourcés.
-Le tannage s'opérait avec les gousses d'acacia qaradh et l'écorce de grenadier qui purifiaient les peaux d'animaux. L'artisan cordonnier ou bourrelier employait l'alêne OBJ-013 à manche d'os poli pour percer les cuirs sans les déchirer, assemblant les brides et lanières avec les aiguilles et les fils filés au fuseau OBJ-009 ou tissés à la navette OBJ-012.
-Le Prophète affirma la licéité et la pureté de toute peau soumise au tannage, encourageant l'utilisation complète des dépouilles sans gaspillage matériel.
+Le tannage s'opérait avec les gousses d'acacia qaradh et l'écorce de grenadier qui traitaient les peaux d'animaux. L'artisan cordonnier ou bourrelier employait l'alêne OBJ-013 à manche d'os poli pour percer les cuirs sans les déchirer, assemblant les brides et lanières avec les aiguilles et les fils filés au fuseau OBJ-009 ou tissés à la navette OBJ-012.
+Les recueils rapportent le hadith d'Ibn Abbas dans Sahih Muslim (366) : Toute peau tannée est purifiée. Dans l'école malékite de référence (al-Muwatta' de l'imam Malik, al-Risala d'Ibn Abi Zayd, Mukhtasar Khalil), la peau d'un animal abattu rituellement (mudhakkat) est pure en tout usage, tandis que selon l'avis retenu (al-mashhur), la peau d'une bête morte sans abattage rituel (mayta) ne devient pas rituellement pure pour la prière, mais son usage est autorisé par dispense (rukhsa) pour les matières sèches (al-yabisat) et l'eau.
 
 Troisième partie : Variantes, silences et limites.
-L'archéologie confirme l'excellence des cuirs mecquois exportés jusqu'en Abyssinie et en Syrie. L'atlas expose ces pièces sous un angle fonctionnel dépouillé, sans aucune mise en scène humaine.
+En jurisprudence, un avis alternatif (rapporté d'Ibn Wahb chez les malékites et retenu par les écoles chaféite et hanafite, en conciliation avec le hadith de Abd Allah ibn Ukaym) considère que le tannage purifie la peau de la mayta (hors porc et chien) pour tout usage ; cet arbitrage demeure à faire valider par un spécialiste. L'archéologie confirme par ailleurs l'excellence des cuirs mecquois exportés jusqu'en Abyssinie et en Syrie. L'atlas expose ces pièces sous un angle fonctionnel dépouillé, sans aucune mise en scène humaine.
 
 Quatrième partie : Synthèse pédagogique.
-Trois leçons matérielles éclairent cet artisanat. Premièrement, le tannage végétal transforme une matière périssable en équipement durable. Deuxièmement, l'alêne OBJ-013 illustre la précision de l'outillage préindustriel. Troisièmement, la valorisation du cuir incarne une gestion sobre et vertueuse des ressources animales.`
+Trois leçons matérielles éclairent cet artisanat. Premièrement, le tannage végétal transforme une matière périssable en équipement durable. Deuxièmement, l'alêne OBJ-013 illustre la précision de l'outillage préindustriel. Troisièmement, la valorisation encadrée du cuir incarne une gestion sobre et vertueuse des ressources animales.`
   },
   {
     contentId: "VIE-15",
@@ -140,13 +140,13 @@ Trois leçons matérielles éclairent cet artisanat. Premièrement, le tannage v
 
 القسم الثاني : العناصر المسندة إلى المصادر.
 دُبغت الجلود بنبات القرظ المحلي وقشور الرمان. وكان المخرز OBJ-013 أداة الحرفي الأساسية لثقب الأديم وخياطة السيور، متكاملاً مع أدوات الفخار OBJ-011 ومكوك النسيج OBJ-012.
-وأقر النبي صلى الله عليه وسلم طهارة الجلود بالدباغ لتعميم النفع وحفظ النعم من الإهدار.
+وورد في صحيح مسلم (366) حديث ابن عباس رضي الله عنهما: أيما إهاب دبغ فقد طهر. وفي المذهب المالكي المعتمد (الموطأ للإمام مالك، والرسالة لابن أبي زيد، ومختصر خليل)، فإن جلد المذكاة طاهر مطلقاً، أما جلد الميتة فالمشهور أنه لا يطهر بالدباغ للصلاة عليه، بل يُرخّص في استعماله في اليابسات والماء دون المائعات الدسمة حفظاً للموارد من الإهدار.
 
 القسم الثالث : الاختلافات والحدود.
-تثبت الوثائق شهرة الأدَم الحجازي في أسواق الشام واليمن. ويلتزم التطبيق بالعرض المتحفي المجرد للأدوات الجلدية دون أي تمثيل للأفراد.
+في الفقه، ذهب ابن وهب من المالكية والشافعية والحنفية إلى طهارة جلد الميتة بالدباغ في سائر الاستعمالات، جمعاً بين حديث ابن عباس وحديث عبد الله بن عكيم، وهو ترجيح يحتاج إلى اعتماد مختص. وتثبت الوثائق شهرة الأدَم الحجازي في أسواق الشام واليمن، ويلتزم التطبيق بالعرض المتحفي المجرد للأدوات الجلدية دون أي تمثيل للأفراد.
 
 القسم الرابع : خلاصة تربوية.
-نستخلص من دباغة الجلود ثلاث فوائد: أولاها تدوير موارد البيئة واستثمارها بكفاءة. وثانيتها براعة الأدوات البسيطة كالمخرز في إتقان الصنعة. وثالثتها تشريع النظافة والطهارة كأساس لكل استثمار مادي نافع.`
+نستخلص من دباغة الجلود ثلاث فوائد: أولاها تدوير موارد البيئة واستثمارها بكفاءة وفق الضوابط الشرعية. وثانيتها براعة الأدوات البسيطة كالمخرز في إتقان الصنعة. وثالثتها تشريع النظافة والانضباط الفقهي في الانتفاع بالموارد المادية.`
   },
   {
     contentId: "HEG-DOS-10",

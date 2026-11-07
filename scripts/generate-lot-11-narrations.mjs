@@ -41,7 +41,7 @@ Troisième partie : Variantes, silences et limites.
 Le Coran immortalise cette victoire sous le nom de Jour du Discernement. L'application observe un aniconisme absolu : aucune représentation des combats ni des combattants, l'accent reposant sur la stratégie des puits, le courage moral et l'éthique novatrice du traitement bienveillant des prisonniers.
 
 Quatrième partie : Synthèse pédagogique.
-Trois principes majeurs résument Badr. Premièrement, la victoire dépend de la solidité morale et de l'unité des rangs plutôt que de la supériorité numérique. Deuxièmement, la délibération militaire prouve l'importance de la concertation démocratique. Troisièmement, l'affranchissement des captifs contre l'enseignement de l'écriture aux enfants de Médine place l'éducation au sommet des valeurs civiques.`
+Trois principes majeurs résument Badr. Premièrement, la victoire dépend de la solidité morale et de l'unité des rangs plutôt que de la supériorité numérique. Deuxièmement, la délibération militaire prouve l'importance de la concertation (shura). Troisièmement, l'affranchissement des captifs contre l'enseignement de l'écriture aux enfants de Médine place l'éducation au sommet des valeurs civiques.`
   },
   {
     contentId: "CHR-17",

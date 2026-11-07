@@ -17,7 +17,7 @@
 
 ### Texte narratif français (~3 010 caractères)
 
-Dès son installation à Médine à l’automne 622, le premier acte d’édification accompli par le Prophète est la construction de la Mosquée, Masjid al-Nabawi, sur l’espace même où sa chamelle al-Qaswa s’était agenouillée. Cet édifice inaugural, d’une sobriété architecturale exemplaire, ne constitue pas seulement un sanctuaire dévolu à la prière rituelle, mais le véritable centre civique, délibératif, diplomatique et éducatif de la jeune république médinoise.
+Dès son installation à Médine à l’automne 622, le premier acte d’édification accompli par le Prophète est la construction de la Mosquée, Masjid al-Nabawi, sur l’espace même où sa chamelle al-Qaswa s’était agenouillée. Cet édifice inaugural, d’une sobriété architecturale exemplaire, ne constitue pas seulement un sanctuaire dévolu à la prière rituelle, mais le véritable centre communautaire, délibératif (*shûrâ*), diplomatique et éducatif de la cité médinoise naissante.
 
 La structure originelle de la mosquée est un enclos quadrangulaire d’environ trente-cinq mètres de côté, délimité par des murs de briques de terre crue et de pierres basaltiques liées au mortier d’argile. La toiture, supportée par des fûts de palmiers-dattiers abattus sur place, est couverte de branchages et de feuilles de palmes, tandis que le sol reste en terre battue et graviers du désert. Le Prophète participe physiquement au chantier en transportant les briques de pisé aux côtés des émigrants mecquois (les Muhajirun) et des auxiliaires médinois (les Ansar), transformant le travail manuel partagé en ciment de la concorde civile.
 
@@ -27,7 +27,7 @@ Enfin, l’institution de l’appel à la prière (l’Adhan) par la voix retent
 
 ### Texte narratif arabe vocalisé (~1 870 caractères)
 
-كَانَ بِنَاءُ الْمَسْجِدِ النَّبَوِيِّ الشَّرِيفِ فِي يَثْرِبَ خَرِيفَ عَامِ سِتِّمِائَةٍ وَاثْنَيْنِ وَعِشْرِينَ مِيلَادِيَّةً أَوَّلَ لَبِنَةٍ فِي تَأْسِيسِ الْمُجْتَمَعِ الْجَدِيدِ. لَمْ يَكُنِ الْمَسْجِدُ مُجَرَّدَ مَكَانٍ لِإِقَامَةِ الشَّعَائِرِ التَّعَبُّدِيَّةِ، بَلْ كَانَ بَرْلَمَاناً لِلشُّورَى، وَمَرْكَزاً لِلْقِيَادَةِ السِّيَاسِيَّةِ، وَمُؤَسَّسَةً تَعْلِيمِيَّةً وَاجْتِمَاعِيَّةً جَامِعَةً.
+كَانَ بِنَاءُ الْمَسْجِدِ النَّبَوِيِّ الشَّرِيفِ فِي يَثْرِبَ خَرِيفَ عَامِ سِتِّمِائَةٍ وَاثْنَيْنِ وَعِشْرِينَ مِيلَادِيَّةً أَوَّلَ لَبِنَةٍ فِي تَأْسِيسِ الْمُجْتَمَعِ الْجَدِيدِ. لَمْ يَكُنِ الْمَسْجِدُ مُجَرَّدَ مَكَانٍ لِإِقَامَةِ الشَّعَائِرِ التَّعَبُّدِيَّةِ، بَلْ كَانَ مَجْلِساً لِلشُّورَى، وَمَرْكَزاً لِلْقِيَادَةِ، وَمُؤَسَّسَةً تَعْلِيمِيَّةً وَاجْتِمَاعِيَّةً جَامِعَةً.
 
 قَامَ بِنَاءُ الْمَسْجِدِ عَلَى الْبَسَاطَةِ الْمَادِّيَّةِ؛ جُدْرَانٌ مِنْ لَبِنِ الطِّينِ وَحِجَارَةِ الْحَرَّةِ، وَعُمُدٌ مِنْ جُذُوعِ النَّخِيلِ، وَسَقْفٌ مِنْ جَرِيدِهَا، وَفِرَاشٌ مِنْ حَصْبَاءِ الْوَادِي. وَشَارَكَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِيَدَيْهِ الشَّرِيفَتَيْنِ فِي حَمْلِ اللَّبِنِ مَعَ الْمُهَاجِرِينَ وَالْأَنْصَارِ، فَكَانَ ذَلِكَ أَعْظَمَ رِبَاطٍ صَهَرَ الْفُرُوقَ الطَّبَقِيَّةَ.
 
