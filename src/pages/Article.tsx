@@ -10,7 +10,6 @@ import {
 } from "../components/Shared";
 import { ObjectViewer } from "../components/ObjectViewer";
 import { MediaImage } from "../components/MediaImage";
-import { AnimationPreview } from "../components/AnimationPreview";
 import { ImmersiveContemplation } from "../components/ImmersiveContemplation";
 export default function Article() {
   const { id } = useParams();
@@ -67,11 +66,6 @@ export default function Article() {
       registry.assets.find((asset) => asset.assetId === mediaId),
     )
     .find((asset) => asset?.kind === "illustration_originale");
-  const animation = entry.animationIds
-    .map((mediaId) =>
-      registry.assets.find((asset) => asset.assetId === mediaId),
-    )
-    .find((asset) => asset?.kind === "animation_scenarisee");
   const draftImageSrc = `/media/drafts/illustration-${entry.id.toLowerCase()}-v1.webp`;
   const imageSrc =
     draftImageSrc ||
@@ -110,7 +104,6 @@ export default function Article() {
               <span>{locale === "fr" ? "Plein écran" : "ملء الشاشة"}</span>
             </button>
           </figure>
-          {animation && <AnimationPreview asset={animation} locale={locale} />}
           {entry.geography && (
             <div className="uncertainty-note">
               <Info size={22} />

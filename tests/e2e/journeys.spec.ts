@@ -69,14 +69,12 @@ test('image failures retain the article and 48px controls remain usable',async({
  const undersized=await page.locator('button:visible').evaluateAll(buttons=>buttons.map(button=>({name:button.getAttribute('aria-label')||button.textContent,rect:button.getBoundingClientRect()})).filter(item=>item.rect.width<47.9||item.rect.height<47.9).map(item=>({name:item.name,width:item.rect.width,height:item.rect.height})));
  expect(undersized).toEqual([]);
 });
-test('DEMO animation previews are visible and start only on an explicit action',async({page})=>{
+test('article media is clean and documentary player opens properly',async({page})=>{
  await page.goto('/chronologie/CHR-05');
- const preview=page.locator('.animation-preview');await expect(preview).toBeVisible();
- await expect(preview.locator('img')).toHaveAttribute('src',/\/media\/drafts\/illustration-chr-05-v1\.webp$/);
- await expect(preview.locator('.animation-motion')).not.toHaveClass(/is-playing/);
- await preview.getByRole('button',{name:'Lire l’aperçu'}).click();await expect(preview.locator('.animation-motion')).toHaveClass(/is-playing/);
- await preview.getByRole('button',{name:'Mettre en pause'}).click();await expect(preview.locator('.animation-motion')).not.toHaveClass(/is-playing/);
- await page.getByRole('button',{name:'عربي',exact:true}).click();await expect(preview.getByRole('button',{name:'تشغيل المعاينة'})).toBeVisible();
+ await expect(page.locator('.article-image img')).toBeVisible();
+ await expect(page.locator('.animation-preview')).toHaveCount(0);
+ await page.goto('/documentaire');
+ await expect(page.locator('.documentary-player')).toBeVisible();
 });
 test('all 60 records open in French and Arabic',async({page})=>{
  test.setTimeout(180000);
