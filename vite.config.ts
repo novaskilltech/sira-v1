@@ -14,6 +14,14 @@ export default defineConfig(({mode,command})=>({
  build: {
   target: ['safari17', 'chrome120'],
   chunkSizeWarningLimit: 900,
+  modulePreload: {
+   resolveDependencies(_filename: string, deps: string[], { hostType }: { hostType: 'html' | 'js' }) {
+    if (hostType === 'html') {
+     return deps.filter((dep) => !dep.includes('three-'));
+    }
+    return deps;
+   },
+  },
   rollupOptions: {
    output: {
     manualChunks(id) {

@@ -6,7 +6,7 @@ import { narration } from "./audio";
 import { AtlasMark } from "./components/Artwork";
 import { PageHeading } from "./components/Shared";
 import { ContentBoundary } from "./components/ContentBoundary";
-import Home from "./pages/Home";
+const Home = lazy(() => import("./pages/Home"));
 const Chronology = lazy(() => import("./pages/Chronology"));
 const Hegira = lazy(() => import("./pages/Hegira"));
 const Life = lazy(() => import("./pages/Life"));

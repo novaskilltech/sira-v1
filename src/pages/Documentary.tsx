@@ -225,30 +225,130 @@ export default function Documentary() {
     }
   };
 
-  const skipSeconds = (sec: number) => {
+  const skipSeconds = useCallback((sec: number) => {
     if (!audioRef.current) return;
     audioRef.current.currentTime = Math.max(
       0,
       Math.min(duration, audioRef.current.currentTime + sec),
     );
-  };
+  }, [duration]);
 
-  const playNext = () => {
+  const playNext = useCallback(() => {
     if (currentIndex < playlist.length - 1) {
       setCurrentIndex((prev) => prev + 1);
     } else {
       setCurrentIndex(0); // Loop to start
     }
-  };
+  }, [currentIndex, playlist.length]);
 
-  const playPrev = () => {
+  const playPrev = useCallback(() => {
     if (currentTime > 4) {
       // Re-start current track if listened more than 4s
       skipSeconds(-currentTime);
     } else if (currentIndex > 0) {
       setCurrentIndex((prev) => prev - 1);
     }
-  };
+  }, [currentTime, currentIndex, skipSeconds]);
+
+  // Gapless preload of next track when current track reaches 80%
+  const nextEntry = playlist[currentIndex + 1] ?? playlist[0];
+  const nextAudioSrc = nextEntry ? `/media/drafts/narration-${nextEntry.id.toLowerCase()}-${locale}.mp3` : "";
+  const nextImgSrc = nextEntry ? `/media/drafts/illustration-${nextEntry.id.toLowerCase()}-v1.webp` : "";
+  const nextAudioRef = useRef<HTMLAudioElement | null>(null);
+
+  useEffect(() => {
+    if (!duration || duration <= 0) return;
+    const progress = currentTime / duration;
+    if (progress >= 0.8 && nextAudioSrc) {
+      if (!nextAudioRef.current) {
+        const preAudio = new Audio();
+        preAudio.preload = "auto";
+        preAudio.src = nextAudioSrc;
+        nextAudioRef.current = preAudio;
+      }
+      const preImg = new Image();
+      preImg.src = nextImgSrc;
+    } else if (progress < 0.5) {
+      nextAudioRef.current = null;
+    }
+  }, [currentTime, duration, nextAudioSrc, nextImgSrc]);
+
+  // MediaSession API Integration (Lock Screen, Bluetooth & Notification controls)
+  useEffect(() => {
+    if (!("mediaSession" in navigator) || !currentEntry) return;
+
+    try {
+      const artUrl = new URL(activeImageSrc, window.location.origin).href;
+      const ogUrl = new URL("/og-image.jpg", window.location.origin).href;
+      navigator.mediaSession.metadata = new MediaMetadata({
+        title: currentEntry.localized[locale]?.title || "Sîra",
+        artist: locale === "ar" ? "سيرة : أطلس حي" : "Sîra — Un atlas vivant",
+        album: currentEntry.group[locale] || (locale === "ar" ? "السيرة النبوية" : "Biographie Prophétique"),
+        artwork: [
+          { src: artUrl, sizes: "1024x1024", type: "image/webp" },
+          { src: ogUrl, sizes: "1200x630", type: "image/jpeg" },
+        ],
+      });
+
+      navigator.mediaSession.playbackState = isPlaying ? "playing" : "paused";
+
+      navigator.mediaSession.setActionHandler("play", () => {
+        if (audioRef.current) {
+          audioRef.current.play().then(() => setIsPlaying(true)).catch(() => {});
+        }
+      });
+      navigator.mediaSession.setActionHandler("pause", () => {
+        if (audioRef.current) {
+          audioRef.current.pause();
+          setIsPlaying(false);
+        }
+      });
+      navigator.mediaSession.setActionHandler("previoustrack", playPrev);
+      navigator.mediaSession.setActionHandler("nexttrack", playNext);
+      navigator.mediaSession.setActionHandler("seekbackward", (details) => {
+        skipSeconds(-(details.seekOffset || 10));
+      });
+      navigator.mediaSession.setActionHandler("seekforward", (details) => {
+        skipSeconds(details.seekOffset || 10);
+      });
+      navigator.mediaSession.setActionHandler("seekto", (details) => {
+        if (audioRef.current && details.seekTime !== undefined) {
+          audioRef.current.currentTime = details.seekTime;
+          setCurrentTime(details.seekTime);
+        }
+      });
+    } catch {
+      // Ignore unsupported MediaSession environments
+    }
+
+    return () => {
+      if ("mediaSession" in navigator) {
+        try {
+          navigator.mediaSession.setActionHandler("play", null);
+          navigator.mediaSession.setActionHandler("pause", null);
+          navigator.mediaSession.setActionHandler("previoustrack", null);
+          navigator.mediaSession.setActionHandler("nexttrack", null);
+          navigator.mediaSession.setActionHandler("seekbackward", null);
+          navigator.mediaSession.setActionHandler("seekforward", null);
+          navigator.mediaSession.setActionHandler("seekto", null);
+        } catch {}
+      }
+    };
+  }, [currentEntry, locale, activeImageSrc, isPlaying, playNext, playPrev, skipSeconds]);
+
+  // Update MediaSession Position State when time changes
+  useEffect(() => {
+    if (!("mediaSession" in navigator) || !navigator.mediaSession.setPositionState) return;
+    if (duration > 0 && currentTime >= 0) {
+      try {
+        navigator.mediaSession.setPositionState({
+          duration: Math.max(duration, 1),
+          playbackRate: 1,
+          position: Math.min(currentTime, duration),
+        });
+      } catch {}
+    }
+  }, [currentTime, duration]);
 
   // Keyboard navigation
   useEffect(() => {

@@ -1,0 +1,28 @@
+{
+  "name": "Sîra — Un atlas vivant | سيرة : أطلس حي",
+  "short_name": "Sîra",
+  "description": "Atlas interactif immersif consacré à la Sîra : monographies bilingues, narrations audio, objets 3D et parcours de l'Hégire.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FAF7F0",
+  "theme_color": "#123A43",
+  "lang": "fr",
+  "dir": "ltr",
+  "categories": ["education", "books", "history"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/og-image.png",
+      "sizes": "1200x630",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
